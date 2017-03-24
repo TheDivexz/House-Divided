@@ -1,0 +1,29 @@
+
+state={
+	id=4
+	name="STATE_4"
+	manpower = 2595983
+	resources={
+		oil=2
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = MAI
+
+		victory_points = {
+			58 5 
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 3
+			industrial_complex = 5
+		}
+		add_core_of = MAI
+	}
+
+	provinces={
+		46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61
+	}
+}

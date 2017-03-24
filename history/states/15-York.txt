@@ -1,0 +1,27 @@
+
+state={
+	id=15
+	name="STATE_15"
+	manpower = 2332100
+	resources={
+		steel=36
+	}
+	
+	state_category = city
+
+	history={
+		owner = MAI
+		victory_points = {
+			128 5
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+		}
+		add_core_of = MAI
+	}
+
+	provinces={
+		127 128 129
+	}
+}

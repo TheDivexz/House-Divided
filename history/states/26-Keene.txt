@@ -1,0 +1,25 @@
+
+state={
+	id=26
+	name="STATE_26" # Auveregne
+	manpower = 877800
+	
+	state_category = town
+
+	history={
+		owner = HAM
+		victory_points = {
+			178 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+		add_core_of = HAM
+	}
+
+	provinces={
+		177 178 179 
+	}
+}

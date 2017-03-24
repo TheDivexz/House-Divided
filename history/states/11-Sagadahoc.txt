@@ -1,0 +1,25 @@
+
+state={
+	id=11
+	name="STATE_11"
+	manpower = 1353130
+	
+	state_category = town
+	
+	history={
+		owner = MAI
+		victory_points = {
+			110 5
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+		}
+		add_core_of = MAI
+	}
+
+	provinces={
+		110 111 
+	}
+}

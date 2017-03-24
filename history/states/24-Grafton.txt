@@ -1,0 +1,26 @@
+
+state={
+	id=24
+	name="STATE_24"
+	manpower = 1546300
+	
+	
+	state_category = large_town
+
+	history={
+		owner = HAM
+		victory_points = {
+			172 5
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+
+		}
+		add_core_of = HAM
+	}
+
+	provinces={
+		169 170 171 172 173 
+	}
+}
