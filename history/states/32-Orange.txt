@@ -1,0 +1,28 @@
+
+state={
+	id=32
+	name="STATE_32" 
+	manpower = 1007500
+	
+	state_category = town
+	
+	resources={
+		steel=56
+		aluminium=58
+	}
+
+	history={
+		owner = VER
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			207 5 
+		}
+		add_core_of = VER
+	}
+
+	provinces={
+		206 207 208 209
+	}
+}

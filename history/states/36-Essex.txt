@@ -1,0 +1,23 @@
+
+state={
+	id=36
+	name="STATE_36"
+	manpower = 2364000
+
+	state_category = city
+
+	history={
+		owner = VER
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+		}
+		victory_points = {
+			221 5
+		}
+	}
+
+	provinces={
+		220 221 222 223 
+	}
+}

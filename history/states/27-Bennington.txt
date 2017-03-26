@@ -1,0 +1,31 @@
+
+state={
+	id=27
+	name="STATE_27" # Bourgogne
+	manpower = 1370800
+	
+	state_category = city
+	
+	resources={
+		aluminium=18
+	}
+
+	history={
+		owner = VER
+		victory_points = {
+			180 5 
+		}
+		victory_points = {
+			183 5 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+		}
+		add_core_of = VER
+	}
+
+	provinces={
+		180 181 182 183 184 185 
+	}
+}
