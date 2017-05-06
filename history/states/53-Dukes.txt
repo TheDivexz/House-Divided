@@ -1,0 +1,23 @@
+
+state={
+	id=53
+	name="STATE_53"
+	manpower = 1453365
+	
+	state_category = city
+
+	history={
+		owner = MAI
+		victory_points = {
+			279 5
+		}
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = MAI
+	}
+
+	provinces={
+		278 279 280 
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=50
+	name="STATE_50"
+	resources={
+		aluminium=10.000
+	}
+
+	state_category = large_city
+	history={
+		owner = MAI
+		victory_points = {
+			9517 5 
+		}
+		buildings = {
+			infrastructure = 8
+			arms_factory = 7
+			industrial_complex = 1
+
+		}
+		add_core_of = MAI
+
+	}
+
+	provinces={
+		268 269 270 
+	}
+	manpower=5086854
+}

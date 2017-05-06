@@ -1,0 +1,29 @@
+
+state={
+	id=52
+	name="STATE_52"
+	manpower = 2679413
+	resources={
+		aluminium=30
+	}
+	
+	state_category = city
+
+	history={
+		owner = MAI
+		victory_points = {
+			277 5
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 3
+			industrial_complex = 1
+		}
+		add_core_of = MAI
+
+	}
+
+	provinces={
+		274 275 276 277
+	}
+}

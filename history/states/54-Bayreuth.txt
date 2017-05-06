@@ -7,25 +7,20 @@ state={
 	state_category = city
 
 	history={
-		owner = GER
+		owner = MAI
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 2
 			arms_factory = 1
 		}
 		victory_points = {
-			11544 10 
+			281 5 
 		}
-		add_core_of = GER
+		add_core_of = MAI
 
-		1939.1.1 = {
-			buildings = {
-				air_base = 3
-			}
-		}
 	}
 
 	provinces={
-		561 3474 6421 6594 9416 9557 9572 11404 11417 11529 11544 13116 
+		281 282 
 	}
 }

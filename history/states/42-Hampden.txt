@@ -1,0 +1,30 @@
+
+state={
+	id=42
+	name="STATE_42"
+	manpower = 3027739
+	resources={
+		steel=100
+		aluminium=24
+	}
+	
+	state_category = metropolis
+
+	history={
+		owner = MAS
+		victory_points = { 242 5 }
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+
+		}
+		add_core_of = MAS
+		
+	}
+
+	provinces={
+		240 241 242 243 
+	}
+	
+	
+}

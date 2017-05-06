@@ -232,55 +232,55 @@
 231;1;18;0;land;false;hills;1		#am
 232;1;18;55;land;false;hills;1		#am
 233;1;18;205;land;false;hills;1		#an
-234;1;19;244;land;false;hills;0		#an
-235;1;20;232;sea;false;ocean;0
-236;1;21;20;land;false;plains;1
-237;1;21;170;land;false;mountain;6
-238;1;21;225;land;false;forest;1
-239;1;22;240;sea;false;ocean;0
-240;1;23;248;sea;false;ocean;0
-241;1;24;85;land;true;marsh;1
-242;1;24;135;land;false;forest;1
-243;1;24;190;land;false;forest;1
-244;1;24;236;sea;false;ocean;0
-245;1;25;244;sea;false;ocean;0
-246;1;27;50;land;false;plains;1
-247;1;27;155;land;false;plains;1
-248;1;27;200;land;false;hills;1
-249;1;27;232;sea;false;ocean;0
-250;1;28;240;sea;false;ocean;0
-251;1;29;248;sea;false;ocean;0
-252;1;30;165;land;false;forest;1
-253;1;30;220;land;false;hills;1
-254;1;31;236;sea;false;ocean;0
-255;1;32;244;sea;true;ocean;0
-256;1;33;130;land;false;forest;6
-257;1;33;185;land;false;forest;6
-258;1;33;232;sea;false;ocean;0
-259;1;34;240;sea;false;ocean;0
-260;1;36;45;land;false;forest;6
-261;1;36;150;land;false;plains;1
-262;1;36;248;sea;false;ocean;0
-263;1;37;236;sea;false;ocean;0
-264;1;38;244;sea;false;ocean;0
-265;1;39;10;land;false;forest;1
-266;1;39;215;land;false;plains;1
-267;1;39;232;sea;false;ocean;0
-268;1;42;30;land;false;forest;1
-269;1;42;180;land;false;forest;1
-270;1;45;40;land;false;forest;6
-271;1;45;95;land;true;plains;1
-272;1;48;5;land;false;plains;6
-273;1;48;60;land;false;plains;6
-274;1;48;210;land;false;plains;1
-275;1;51;25;land;false;forest;1
-276;1;51;175;land;true;hills;1
-277;1;54;90;land;false;forest;1
-278;1;57;55;land;false;mountain;6
-279;1;57;160;land;false;plains;1
-280;1;57;205;land;false;forest;1
-281;1;60;20;land;false;forest;1
-282;1;60;170;land;false;forest;6
+234;1;19;244;land;false;hills;1		#an
+235;1;20;232;land;false;forest;1	#ao
+236;1;21;20;land;false;forest;1		#ao
+237;1;21;170;land;false;forest;1	#ao
+238;1;21;225;land;false;urban;1		#ao	
+239;1;22;240;land;false;forest;1	#ao
+240;1;23;248;land;false;forest;1	#ap
+241;1;24;85;land;false;forest;1		#ap
+242;1;24;135;land;false;urban;1		#ap
+243;1;24;190;land;false;forest;1	#ap
+244;1;24;236;land;false;forest;1	#aq
+245;1;25;244;land;false;urban;1		#aq
+246;1;27;50;land;false;forest;1		#aq
+247;1;27;155;land;false;forest;1	#aq
+248;1;27;200;land;false;forest;1	#ar
+249;1;27;232;land;false;urban;1		#ar
+250;1;28;240;land;false;forest;1	#ar
+251;1;29;248;land;false;forest;1	#as
+252;1;30;165;land;false;forest;1	#as
+253;1;30;220;land;false;forest;1	#as
+254;1;31;236;land;false;urban;1		#as
+255;1;32;244;land;false;forest;1	#as
+256;1;33;130;land;false;plains;1	#as
+257;1;33;185;land;false;plains;1	#at
+258;1;33;232;land;false;plains;1	#at
+259;1;34;240;land;false;plains;1	#at
+260;1;36;45;land;false;urban;1		#at
+261;1;36;150;land;true;urban;1		#au
+262;1;36;248;land;true;plains;1		#au
+263;1;37;236;land;false;plains;1	#au
+264;1;38;244;land;true;urban;1		#av
+265;1;39;10;land;false;urban;1		#aw
+266;1;39;215;land;false;plains;1	#aw
+267;1;39;232;land;true;plains;1		#aw
+268;1;42;30;land;false;plains;1		#ax
+269;1;42;180;land;false;urban;1		#ax
+270;1;45;40;land;false;plains;1		#ax
+271;1;45;95;land;true;plains;1		#ay
+272;1;48;5;land;true;urban;1		#ay
+273;1;48;60;land;true;plains;1		#ay
+274;1;48;210;land;true;plains;1		#az
+275;1;51;25;land;true;urban;1		#az
+276;1;51;175;land;true;plains;1		#az
+277;1;54;90;land;true;plains;1		#az
+278;1;57;55;land;true;plains;1		#ba
+279;1;57;160;land;true;plains;1		#ba
+280;1;57;205;land;false;urban;1		#ba
+281;1;60;20;land;false;urban;1		#bb
+282;1;60;170;land;false;plains;1	#bb
 283;1;63;85;land;false;forest;1
 284;1;63;135;land;true;mountain;1
 285;1;63;190;land;true;mountain;1

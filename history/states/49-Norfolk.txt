@@ -1,0 +1,29 @@
+
+state={
+	id=49
+	name="STATE_49" # Ankara
+	manpower = 770758
+	resources={
+		chromium=16
+	}
+	
+	state_category = town
+
+	history={
+		owner = MAI
+		
+		victory_points = {
+			265 5
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		add_core_of = MAI
+	}
+
+	provinces={
+		265 266 267 
+	}
+}
