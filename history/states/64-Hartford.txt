@@ -1,0 +1,29 @@
+
+state={
+	id=64
+	name="STATE_64"
+	manpower = 7265029
+	buildings_max_level_factor = 1
+
+	state_category = megalopolis
+
+
+	history={
+		owner = CON
+		victory_points = {
+			313 20 
+		}
+		buildings = {
+			infrastructure = 8
+			arms_factory = 7
+			industrial_complex = 4
+
+		}
+		add_core_of = CON
+
+	}
+
+	provinces={
+		310 311 312 313 314 315 
+	}
+}
