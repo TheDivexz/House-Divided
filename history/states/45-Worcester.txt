@@ -7,14 +7,14 @@ state={
 	state_category = rural
 
 	history={
-		owner = MAI
+		owner = MAS
 		victory_points = {
 			254 5 
 		}
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = MAI
+		add_core_of = MAS
 	}
 
 	provinces={

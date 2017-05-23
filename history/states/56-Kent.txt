@@ -1,0 +1,25 @@
+state={
+	id=56
+	name="STATE_56"
+	manpower = 2058467
+	
+	state_category = city
+
+	history={
+		owner = RHO
+		victory_points = {
+			286 5 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+
+		}
+		add_core_of = RHO
+
+	}
+
+	provinces={
+		286 287 288 
+	}
+}

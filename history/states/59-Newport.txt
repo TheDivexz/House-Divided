@@ -1,0 +1,30 @@
+
+state={
+	id=59
+	name="STATE_59"
+	manpower = 2438286
+	resources={
+		oil=4
+	}
+	
+	state_category = large_city
+
+	history={
+		owner = RHO
+		victory_points = {
+			295 5 
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = RHO
+
+	}
+
+	provinces={
+		294 295 
+	}
+}

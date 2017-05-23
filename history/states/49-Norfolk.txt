@@ -10,7 +10,7 @@ state={
 	state_category = town
 
 	history={
-		owner = MAI
+		owner = MAS
 		
 		victory_points = {
 			265 5
@@ -20,7 +20,7 @@ state={
 			arms_factory = 2
 			industrial_complex = 2
 		}
-		add_core_of = MAI
+		add_core_of = MAS
 	}
 
 	provinces={

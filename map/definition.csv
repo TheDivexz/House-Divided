@@ -281,19 +281,19 @@
 280;1;57;205;land;false;urban;1		#ba
 281;1;60;20;land;false;urban;1		#bb
 282;1;60;170;land;false;plains;1	#bb
-283;1;63;85;land;false;forest;1
-284;1;63;135;land;true;mountain;1
-285;1;63;190;land;true;mountain;1
-286;1;66;155;land;false;forest;6
-287;1;69;15;land;false;forest;1
-288;1;69;70;land;false;plains;1
-289;1;69;220;land;false;plains;1
-290;1;72;35;land;false;plains;1
-291;1;72;80;land;false;plains;6
-292;1;72;185;land;false;forest;6
-293;1;75;0;land;false;plains;1
-294;1;75;150;land;false;forest;1
-295;1;78;10;land;false;plains;1
+283;1;63;85;land;true;urban;1		#bc
+284;1;63;135;land;false;plains;1	#bc
+285;1;63;190;land;false;plains;1	#bc
+286;1;66;155;land;true;urban;1		#bd
+287;1;69;15;land;false;plains;1		#bd
+288;1;69;70;land;false;plains;1		#bd
+289;1;69;220;land;false;plains;1	#be
+290;1;72;35;land;true;plains;1		#be
+291;1;72;80;land;true;plains;1		#be
+292;1;72;185;land;true;plains;1		#be
+293;1;75;0;land;true;urban;1		#bf
+294;1;75;150;land;true;plains;1		#bg
+295;1;78;10;land;true;urban;1		#bg
 296;1;78;65;land;false;plains;1
 297;1;78;215;land;false;plains;1
 298;1;81;30;land;false;forest;6

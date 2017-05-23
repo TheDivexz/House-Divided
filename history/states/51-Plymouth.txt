@@ -11,7 +11,7 @@ state={
 	state_category = metropolis
 	
 	history={
-		owner = MAI
+		owner = MAS
 		victory_points = {
 			587 5 
 		}
@@ -21,7 +21,7 @@ state={
 			industrial_complex = 2
 
 		}
-		add_core_of = MAI
+		add_core_of = MAS
 
 	}
 
