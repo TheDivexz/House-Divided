@@ -1,0 +1,30 @@
+
+state={
+	id=106
+	name="STATE_106"
+	manpower = 1374200
+	
+	state_category = rural
+	
+	resources={
+		chromium=116
+		aluminium=32
+	}
+
+	history={
+		owner = YOR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 2
+		}
+		victory_points = {
+			606 5 
+		}
+		add_core_of = YOR
+	}
+
+	provinces={
+		605 606 607 
+	}
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=127
+	name="STATE_127" # Sussex
+	manpower = 3193383
+	state_category = large_city
+
+	history={
+		owner = YOR
+		victory_points = { 685 5 }
+		buildings = {
+			infrastructure = 8
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 2
+			anti_air_building = 2
+			radar_station = 1
+			air_base = 10
+		}
+		add_core_of = YOR
+	}
+
+	provinces={
+		681 682 683 684 685 686
+	}
+}

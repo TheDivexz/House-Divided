@@ -1,0 +1,20 @@
+state=
+{
+	id=118
+	name="STATE_118"
+	manpower=21372
+	
+	state_category = enclave
+	history={
+		owner = YOR
+		victory_points = { 651 5 }
+		buildings = {
+			infrastructure = 6
+			air_base = 2
+		}
+		add_core_of = YOR
+	}
+	provinces={
+		650 651 652
+	}
+}

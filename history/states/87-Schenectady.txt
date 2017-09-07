@@ -1,0 +1,22 @@
+state={
+	id=87
+	name="STATE_87"
+	manpower = 2632000
+	
+	state_category = town
+	history={
+		owner = YOR
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+		}
+		victory_points = {
+			503 5
+		}
+		add_core_of = YOR
+	}
+
+	provinces={
+		503 504 
+	}
+}

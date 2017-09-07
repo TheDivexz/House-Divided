@@ -1,0 +1,22 @@
+state={
+	id=95
+	name="STATE_95"
+	manpower = 1157200
+	
+	state_category = rural
+	history={
+		owner = YOR
+		victory_points = {
+			551 5 
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 3
+		}
+		add_core_of = YOR
+	}
+
+	provinces={
+		551 552 553 554 555 556 557 
+	}
+}

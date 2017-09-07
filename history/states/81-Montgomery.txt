@@ -1,0 +1,21 @@
+state={
+	id=81
+	name="STATE_81"
+	manpower=1519300
+	
+	
+	state_category = rural
+	
+	history={
+		owner = YOR
+		victory_points = { 454 5 }
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		add_core_of = YOR
+	}
+	provinces={
+		453 454 456 457 459
+	}
+}

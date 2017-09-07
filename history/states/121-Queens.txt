@@ -1,0 +1,23 @@
+
+state={
+	id=121
+	name="STATE_121" # Lothian
+	manpower = 1431624
+	
+	state_category = city
+
+	history={
+		owner = YOR
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 3
+		}
+		add_core_of = YOR
+	}
+
+	provinces={
+		658 
+	}
+}

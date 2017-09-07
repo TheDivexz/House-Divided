@@ -1,0 +1,27 @@
+
+state={
+	id=108
+	name="STATE_108" # Morava
+	manpower = 1533000
+	
+	state_category = town
+	
+	resources={
+		steel=4
+	}
+
+	history={
+		owner = YOR
+		victory_points = {
+			612 5 
+		}
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = YOR
+	}
+
+	provinces={
+		611 612 613 
+	}
+}
