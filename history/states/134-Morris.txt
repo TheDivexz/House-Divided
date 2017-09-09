@@ -1,0 +1,24 @@
+
+state=
+{
+	id=134
+	name="STATE_134"
+	manpower = 667100
+	
+	state_category = town
+
+	history=
+	{
+		owner = JER
+		victory_points = { 704 5 }
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = JER
+	}
+
+	provinces=
+	{
+		703 704 705 706
+ 	}
+}

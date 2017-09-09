@@ -1,0 +1,30 @@
+
+state={
+	id=130
+	name="STATE_130"
+	manpower = 4762495
+	
+	state_category = metropolis
+	
+	resources={
+		steel=120
+	}
+
+	history={
+		owner = JER
+		victory_points = {
+			693 5
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 10
+		}
+		add_core_of = YER
+	}
+
+	provinces={
+		693 694 
+	}
+}

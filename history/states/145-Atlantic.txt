@@ -1,0 +1,22 @@
+state=
+{
+	id=145
+	name="STATE_145"
+	manpower = 27400
+	
+	state_category = small_island
+	
+	history=
+	{
+		owner = JER
+		victory_points = { 749 5 }
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = JER
+	}
+	
+	provinces=	{
+		747 748 749 750 751
+	}
+}

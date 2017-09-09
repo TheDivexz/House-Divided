@@ -1,0 +1,25 @@
+
+state={
+	id=136
+	name="STATE_136"
+	manpower = 745466
+	
+	state_category = town
+	resources={
+		tungsten=6
+		aluminium=4
+	}
+
+	history={
+		owner = JER
+		victory_points = { 711 5 }
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = JER
+	}
+
+	provinces={
+		711 712 
+	}
+}

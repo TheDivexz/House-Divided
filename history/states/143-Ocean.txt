@@ -1,0 +1,23 @@
+
+state={
+	id=143
+	name="STATE_143"
+	manpower = 280271
+	
+	state_category = rural
+
+	history={
+		owner = JER
+		victory_points = { 740 5 }
+		buildings = {
+			infrastructure = 4
+			arms_factory = 0
+			industrial_complex = 1
+		}
+		add_core_of = JER
+	}
+
+	provinces={
+		739 740 741 742 743 
+	}
+}

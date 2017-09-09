@@ -1,0 +1,26 @@
+state={
+	id=146
+	name="STATE_146"
+
+	state_category = town
+
+	history={
+		owner = JER
+		add_core_of = JER
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		victory_points = {
+			753 5
+		}
+		
+
+	}
+
+	provinces={
+		752 753 754 
+	}
+	manpower=418635
+	buildings_max_level_factor=1.000
+}

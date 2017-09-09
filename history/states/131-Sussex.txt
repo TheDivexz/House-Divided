@@ -1,0 +1,29 @@
+
+state={
+	id=131
+	name="STATE_131"
+	manpower = 2128860
+	
+	state_category = city
+	resources={
+		steel=60
+		aluminium=8
+	}
+
+	history={
+		owner = JER
+		victory_points = {
+			697 5 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			air_base = 6
+		}
+		add_core_of = JER
+	}
+
+	provinces={
+		695 696 697 698 
+	}
+}

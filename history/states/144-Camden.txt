@@ -1,0 +1,29 @@
+
+state={
+	id=144
+	name="STATE_144"
+	manpower = 355251
+	
+	state_category = rural
+	
+	resources={
+		steel=12
+		tungsten = 20
+	}
+
+	history={
+		owner = JER
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+		victory_points = {
+			744 5 
+		}
+		add_core_of = JER
+	}
+
+	provinces={
+		744 745 746  
+	}
+}
