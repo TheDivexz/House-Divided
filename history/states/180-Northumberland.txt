@@ -1,0 +1,24 @@
+
+state={
+	id=180
+	name="STATE_180"
+	manpower = 964700
+	
+	state_category = town
+
+	history={
+		owner = PEN
+		victory_points = {
+			906 5
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+		}
+		add_core_of = PEN
+	}
+
+	provinces={
+		905 906 907 908 909 
+	}
+}

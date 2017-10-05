@@ -1,0 +1,28 @@
+
+state={
+	id=185
+	name="STATE_185"
+	manpower = 760900
+	
+	state_category = town
+	
+	resources={
+		chromium=20
+		steel = 20
+	}
+
+	history={
+		owner = PEN
+		victory_points = {
+			925 5
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+		}
+	}
+
+	provinces={
+		924 925 926 927 
+	}
+}

@@ -1,0 +1,21 @@
+state=
+{
+	id=163
+	name="STATE_163"
+	manpower = 18000
+	
+	state_category = enclave
+	
+	history={
+		owner = ITA
+		victory_points = {
+			827 5
+		}
+		buildings = {
+			infrastructure = 5
+		}
+	} 
+	provinces={	
+		825 826 827 828 829 
+	}
+}

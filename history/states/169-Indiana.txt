@@ -1,0 +1,26 @@
+
+state={
+	id=169
+	name="STATE_169"
+	manpower = 3175163
+	
+	state_category = city
+
+	history={
+		owner = PEN
+		victory_points = {
+			855 5 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 3
+		}
+		add_core_of = PEN
+	}
+
+	provinces={
+		853 854 855 856 857 
+	}
+}

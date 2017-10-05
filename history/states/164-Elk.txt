@@ -1,0 +1,25 @@
+state=
+{
+	id=164
+	name="STATE_164"
+	manpower = 120000
+	
+	state_category = small_island
+	
+	history=
+	{
+		owner = PEN
+		victory_points = {
+			831 5 
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+		}
+		add_core_of = PEN
+	}
+	provinces=
+	{
+		830 831 832 833 834
+ 	}
+}

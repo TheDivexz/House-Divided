@@ -1,0 +1,25 @@
+
+state={
+	id=214
+	name="STATE_214"
+	manpower = 1050883
+	
+	state_category = town
+
+	history={
+		owner = PEN
+		victory_points = {
+			1009 20 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = PEN
+	}
+
+	provinces={
+		1009 
+	}
+}

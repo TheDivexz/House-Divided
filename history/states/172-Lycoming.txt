@@ -1,0 +1,30 @@
+
+state={
+	id=172
+	name="STATE_172"
+	manpower = 1794880
+	
+	state_category = city
+	
+	resources={
+		steel=12
+	}
+
+	history={
+		owner = PEN
+		victory_points = {
+			870 5 
+		}
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		add_core_of = PEN
+	}
+
+	provinces={
+		867 868 869 870 871 872 873 
+	}
+}

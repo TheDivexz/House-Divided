@@ -1,0 +1,25 @@
+state=
+{
+	id=182
+	name="STATE_182"
+	manpower = 387900
+	
+	state_category = rural
+	history=
+	{
+		owner = PEN
+		victory_points = {
+			914 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = PEN
+	}
+	provinces=
+	{
+		912 913 914 915
+ 	}
+}

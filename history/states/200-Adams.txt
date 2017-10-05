@@ -1,0 +1,23 @@
+
+state={
+	id=200
+	name="STATE_200" # Zaporozhe
+	manpower = 1294082
+	state_category = town
+
+	history={
+		owner = PEN
+		victory_points = {
+			969 5
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 3
+		}
+		add_core_of = PEN
+	}
+
+	provinces={
+		968 969 970 
+	}
+}

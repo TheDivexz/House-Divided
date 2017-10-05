@@ -1,0 +1,24 @@
+
+state={
+	id=194
+	name="STATE_194" # Mozyr
+	manpower = 934632
+	
+	state_category = rural
+
+	history={
+		owner = PEN
+		victory_points = {
+			953 5
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+		}
+		add_core_of = PEN
+	}
+
+	provinces={
+		953 954 
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=216
+	name="STATE_216"
+	
+	state_category = rural
+
+	history={
+		owner = PEN
+		victory_points = {
+			1013 5 
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+
+		}
+		add_core_of = PEN
+
+	}
+
+	provinces={
+		1013 1014 
+	}
+	manpower=229564
+	buildings_max_level_factor=1.000
+}

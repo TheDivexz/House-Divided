@@ -1,0 +1,27 @@
+
+state={
+	id=184
+	name="STATE_184"
+	manpower = 382500
+	
+	state_category = rural
+	
+	resources={
+		chromium=16
+	}
+
+	history={
+		owner = PEN
+		victory_points = {
+			922 5
+		}
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = PEN
+	}
+
+	provinces={
+		919 920 921 922 923
+	}
+}
