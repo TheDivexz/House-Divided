@@ -1013,16 +1013,16 @@
 1012;5;17;244;land;false;plains;1	#hg
 1013;5;18;30;land;false;urban;1		#hh
 1014;5;18;85;land;false;hills;1		#hh
-1015;5;18;135;land;true;desert;7
-1016;5;19;240;sea;false;ocean;0
-1017;5;20;248;sea;false;ocean;0
-1018;5;21;50;land;true;forest;6
-1019;5;21;95;land;true;marsh;2
-1020;5;21;200;land;true;hills;6
-1021;5;22;236;sea;false;ocean;0
-1022;5;23;244;sea;false;ocean;0
-1023;5;24;15;land;false;mountain;6
-1024;5;24;60;land;true;hills;6
+1015;5;18;135;land;true;urban;1		#hi	
+1016;5;19;240;land;true;plains;1	#hi
+1017;5;20;248;land;true;plains;1	#hi
+1018;5;21;50;land;true;urban;1		#hj
+1019;5;21;95;land;true;plains;1		#hj
+1020;5;21;200;land;false;plains;1	#hj
+1021;5;22;236;land;true;forest;1	#hk
+1022;5;23;244;land;false;urban;1	#hk
+1023;5;24;15;land;false;forest;1	#hk
+1024;5;24;60;land;true;forest;1		#hk
 1025;5;24;165;land;true;urban;6
 1026;5;25;240;sea;false;ocean;0
 1027;5;27;25;land;false;forest;6

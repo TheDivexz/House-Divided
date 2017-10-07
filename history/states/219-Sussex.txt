@@ -1,0 +1,29 @@
+
+state={
+	id=219
+	name="STATE_219"
+	manpower = 8335992
+	
+	state_category = megalopolis
+	resources={
+		steel=28
+	}
+
+	history={
+		owner = DEL
+		victory_points = {
+			1022 5 
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 9
+			industrial_complex = 2
+			air_base = 10
+		}
+		add_core_of = DEL
+	}
+
+	provinces={
+		1021 1022 1023 1024 
+	}
+}
