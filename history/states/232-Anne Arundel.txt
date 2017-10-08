@@ -1,0 +1,27 @@
+
+state={
+	id=232
+	name="STATE_232"
+	manpower = 1658292
+	
+	state_category = rural
+	
+	resources={
+		oil=26
+	}
+
+	history={
+		owner = MAR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			1053 50 
+		}
+		add_core_of = MAR
+	}
+
+	provinces={
+		1052 1053 1054 
+	}
+}

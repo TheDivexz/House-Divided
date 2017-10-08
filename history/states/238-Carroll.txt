@@ -1,0 +1,23 @@
+
+state={
+	id=238
+	name="STATE_238"
+	manpower = 556677
+	
+	state_category = rural
+
+	history={
+		owner = MAR
+		victory_points = {
+			1070 5 
+		}
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = MAR
+	}
+
+	provinces={
+		1069 1070 1071 
+	}
+}

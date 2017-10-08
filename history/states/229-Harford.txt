@@ -1,0 +1,29 @@
+state={
+	id=229
+	name="STATE_229"
+	resources={
+		oil=126.000
+	}
+
+	history={
+		owner = MAR
+		victory_points = {
+			1046 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		add_core_of = MAR
+
+	}
+
+	provinces={
+		1044 1045 1046 1047 
+	}
+	manpower=2881049
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

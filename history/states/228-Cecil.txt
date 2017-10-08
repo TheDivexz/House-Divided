@@ -1,0 +1,23 @@
+
+state={
+	id=228
+	name="STATE_228" # Voroshilovgrad
+	manpower = 2167411
+	
+	state_category = town
+
+	history={
+		owner = MAR
+		victory_points = {
+			1042 5
+		}
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = MAR
+	}
+
+	provinces={
+		1042 1043 
+	}
+}
