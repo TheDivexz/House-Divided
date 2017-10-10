@@ -1,0 +1,28 @@
+
+state={
+	id=276
+	name="STATE_276" # Southern Ontario
+	manpower = 3117017
+	
+	state_category = large_city
+	
+	history={
+		owner = VIR
+		buildings = {
+			infrastructure = 7
+			arms_factory = 2
+			industrial_complex = 4
+			air_base = 5
+		}
+		add_core_of = WVI
+		victory_points = {
+			1208 5 
+		}
+
+	}
+
+	provinces={
+		1207 1208 1209 1210 1211 
+	}
+	
+}

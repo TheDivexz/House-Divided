@@ -1,0 +1,31 @@
+state={
+	id=261
+	name="STATE_261"
+	resources={
+		steel=48.000
+		aluminium=16.000
+	}
+	
+	state_category = metropolis
+
+	history={
+		owner = VIR
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 6
+
+		}
+		victory_points = {
+			1141 5 
+		}
+		add_core_of = WVI
+
+	}
+
+	provinces={
+		1141 1142 
+	}
+	manpower=6646694
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=287
+	name="STATE_287" # Taklamakan
+	manpower = 478000
+	
+	state_category = wasteland
+
+	history={
+		owner = VIR
+		add_core_of = WVI
+		victory_points = {
+			1252 5 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1250 1251 1252 1253
+	}
+}

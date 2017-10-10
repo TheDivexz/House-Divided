@@ -1,0 +1,27 @@
+
+state={
+	id=249
+	name="STATE_249"
+	manpower = 2761291
+	
+	state_category = town
+	resources={
+		steel=40
+	}
+
+	history={
+		owner = VIR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+		}
+		victory_points = {
+			1098 5 
+		}
+		add_core_of = WVI
+	}
+
+	provinces={
+		1098 1099 1100 1101 
+	}
+}

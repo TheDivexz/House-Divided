@@ -1,0 +1,26 @@
+
+state={
+	id=278
+	name="STATE_278" # Pampas
+	manpower = 5596366
+	
+	state_category = large_city
+
+	history={
+		owner = VIR
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 5
+		}
+		add_core_of = WVI
+		victory_points = {
+			1218 5 
+		}
+
+	}
+
+	provinces={
+		1217 1218 1219 2120 
+	}
+}

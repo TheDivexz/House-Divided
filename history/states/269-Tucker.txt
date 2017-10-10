@@ -1,0 +1,22 @@
+state=
+{
+	id=269
+	name="STATE_269"
+	manpower = 344700
+	
+	state_category = enclave
+	
+	history= {
+		owner = VIR
+		victory_points = {
+			1175 5 
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = WVI
+	}
+	provinces={
+		1175 1176 1177
+	}
+}

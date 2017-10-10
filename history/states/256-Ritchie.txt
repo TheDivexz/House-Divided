@@ -1,0 +1,23 @@
+
+state={
+	id=256
+	name="STATE_256"
+	manpower = 1572061
+	
+	state_category = town
+
+	history={
+		owner = VIR
+		victory_points = {
+			1124 5
+		}
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = WVI
+	}
+
+	provinces={
+		1122 1123 1124 1125 
+	}
+}

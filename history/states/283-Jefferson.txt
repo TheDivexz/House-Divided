@@ -1,0 +1,32 @@
+
+state={
+	id=283
+	name="STATE_283" # Gansu
+	manpower = 6705400
+	
+	
+	state_category = town
+	
+	resources={
+
+		tungsten=1
+
+	}
+
+	history={
+		owner = VIR
+		add_core_of = WVI
+
+		victory_points = {
+			1235 5 
+		}
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		1235 1236 
+	}
+}

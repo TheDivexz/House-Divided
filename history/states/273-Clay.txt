@@ -1,0 +1,23 @@
+
+state={
+	id=273
+	name="STATE_273" # Libyan Desert
+	manpower = 42633
+	
+	state_category = wasteland
+
+	history={
+		owner = VIR
+		victory_points = {
+			1192 5 
+		}
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = WVI
+	}
+
+	provinces={
+		1191 1192 1193 
+	}
+}

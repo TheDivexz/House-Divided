@@ -1,0 +1,23 @@
+state={
+	id=274
+	name="STATE_274"
+	
+	state_category = rural
+
+	history={
+		owner = VIR
+		victory_points = {
+			1195 1 
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = WVI
+	}
+
+	provinces={
+		1194 1195 1196 1197 1198 
+	}
+	manpower=3163600
+	buildings_max_level_factor=1.000
+}

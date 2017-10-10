@@ -1,0 +1,27 @@
+
+state={
+	id=257
+	name="STATE_257" # Tambov
+	manpower = 1779583
+	
+	state_category = rural
+	
+	resources={
+		chromium=10
+	}
+
+	history={
+		owner = VIR
+		victory_points = {
+			1128 5
+		}
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = WVI
+	}
+
+	provinces={
+		1126 1127 1128 1129 
+	}
+}

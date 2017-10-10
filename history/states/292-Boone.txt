@@ -1,0 +1,28 @@
+
+state={
+	id=292
+	name="STATE_292"
+	manpower = 1440000
+	
+	state_category = rural
+	resources={
+		oil=3
+	}
+
+	history={
+		owner = VIR
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			1269 5
+		}
+		add_core_of = WVI
+	}
+
+	provinces={
+		1268 1269 1270 1271
+	}
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=248
+	name="STATE_248"
+	manpower = 1664541
+	
+	state_category = large_town
+
+	history={
+		owner = VIR
+		victory_points = {
+			1095 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = WVI
+	}
+
+	provinces={
+		1095 1096 1097 
+	}
+}

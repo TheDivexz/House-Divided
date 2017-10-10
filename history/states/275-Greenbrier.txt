@@ -1,0 +1,31 @@
+
+state={
+	id=275
+	name="STATE_275" # Transvaal
+	manpower = 3680363
+	
+	state_category = city
+	
+	resources={
+		steel=8
+		chromium=80
+	}
+
+	history={
+		owner = VIR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 3
+		}
+		victory_points = {
+			1204 5
+		}
+		add_core_of = WVI
+	}
+
+	provinces={
+		1199 1200 1201 1202 1203 1204 1205 1206 
+	}
+}
