@@ -1249,7 +1249,6 @@ technologies = {
 					textile > 0
 					iron > 0
 					skilled > 0
-					steel > 0
 					unskilled > 0
 				}
 			}
@@ -1261,7 +1260,6 @@ technologies = {
 					textile > 8
 					iron > 8
 					skilled > 8
-					steel > 8
 					unskilled > 8
 				}
 			}
@@ -1337,7 +1335,6 @@ technologies = {
 					textile > 0
 					iron > 0
 					skilled > 0
-					steel > 0
 					unskilled > 0
 				}
 			}
@@ -1349,7 +1346,6 @@ technologies = {
 					textile > 8
 					iron > 8
 					skilled > 8
-					steel > 8
 					unskilled > 8
 				}
 			}
@@ -1437,7 +1433,6 @@ technologies = {
 					textile > 0
 					iron > 0
 					skilled > 0
-					steel > 0
 					unskilled > 0
 				}
 			}
@@ -1449,7 +1444,6 @@ technologies = {
 					textile > 8
 					iron > 8
 					skilled > 8
-					steel > 8
 					unskilled > 8
 				}
 			}
@@ -1525,7 +1519,6 @@ technologies = {
 					textile > 0
 					iron > 0
 					skilled > 0
-					steel > 0
 					unskilled > 0
 				}
 			}
@@ -1537,7 +1530,6 @@ technologies = {
 					textile > 8
 					iron > 8
 					skilled > 8
-					steel > 8
 					unskilled > 8
 				}
 			}
@@ -1611,7 +1603,6 @@ technologies = {
 					textile > 0
 					iron > 0
 					skilled > 0
-					steel > 0
 					unskilled > 0
 				}
 			}
@@ -1623,7 +1614,6 @@ technologies = {
 					textile > 8
 					iron > 8
 					skilled > 8
-					steel > 8
 					unskilled > 8
 				}
 			}
