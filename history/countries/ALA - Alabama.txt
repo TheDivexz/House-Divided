@@ -12,11 +12,11 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 46
+			popularity = 100
 		}
 
 		communism = {
-			popularity = 54
+			popularity = 0
 		}
 		
 		fascism = {
@@ -27,21 +27,57 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = communism
-	last_election = "1933.3.5"
+	ruling_party = democratic
+	last_election = "1850.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+#Lewis Eliphalet Parsons, Union Governor until December 13th 1865
 create_country_leader = {
-	name = "King Zog"
+	name = "Lewish E. Parsons"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	picture = "Portrait_Alabama_Lewish_Parsons.png"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
+
+#Thomas H. Watts, confederate governor until June 21st 1865
+create_country_leader = {
+	name = "Thomas H. Watts"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Alabama_Thomas_Watts.png"
+	expire = "1965.1.1"
+	ideology = stalinism
+	traits = {
+		#
+	}
+}
+
+#John Gill Shorter, confederate governor until December 1st 1863
+create_country_leader = {
+	name = "John Gill Shorter"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Alabama_John_Shorter.png"
+	expire = "1965.1.1"
+	ideology = leninism
+	traits = {
+		#
+	}
+}
+
+#Andrew B. Moore governor until december 2nd 1861
+create_country_leader = {
+	name = "Andrew B. Moore"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Alabama_Andrew_Moore.png"
+	expire = "1965.1.1"
+	ideology = conservatism
 	traits = {
 		#
 	}
