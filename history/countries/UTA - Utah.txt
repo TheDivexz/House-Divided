@@ -35,11 +35,11 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+#Brigham Young, leader until April 1858, Fighting in the Utah War
 create_country_leader = {
-	name = "King Zog"
-	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	name = "Brigham Young"
+	desc = "POLITICS_BRIGHAM_YOUNG_DESC"
+	picture = "Portrait_Utah_Brigham_Young.png"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
