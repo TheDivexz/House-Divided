@@ -1,0 +1,26 @@
+state={
+	id=188
+	name="STATE_188"
+	resources = {
+		wood = 2
+		iron = 2
+		food = 2
+		unskilled = 3
+		skilled = 2
+	}
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			arms_factory = 1
+			infrastructure = 4
+		}
+
+	}
+	provinces={
+		3732 3787 3833 3913 3965 
+	}
+	manpower=60517
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

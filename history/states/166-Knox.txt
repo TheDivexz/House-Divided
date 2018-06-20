@@ -1,0 +1,24 @@
+state={
+	id=166
+	name="STATE_166"
+	resources = {
+		iron = 16
+		food = 8
+		unskilled = 1
+		skilled = 3
+	}
+	history={
+		owner = ILL
+		add_core_of = ILL
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		3645 3672 3728 3743 3792 3817 3881 3911 3916 3953 
+	}
+	manpower=94192
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

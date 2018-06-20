@@ -1,0 +1,20 @@
+state={
+	id=446
+	name="STATE_446"
+	resources = {
+		wood = 4
+		textile = 30
+		skilled = 2
+	}
+	history={
+		owner = TEX
+		add_core_of = TEX
+
+	}
+	provinces={
+		395 402 413 420 428 431 453 492 495 
+	}
+	manpower=15464
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

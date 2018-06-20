@@ -1,0 +1,23 @@
+state={
+	id=467
+	name="STATE_467"
+	resources = {
+		wood = 1
+		textile = 30
+	}
+	history={
+		owner = TEX
+		add_core_of = TEX
+		buildings = {
+			arms_factory = 1
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		1147 1197 1210 1276 1292 1299 
+	}
+	manpower=28658
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

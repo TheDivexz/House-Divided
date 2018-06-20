@@ -1,0 +1,27 @@
+state={
+	id=341
+	name="STATE_341"
+	resources = {
+		wood = 1
+		iron = 38
+		food = 18
+		unskilled = 3
+		skilled = 19
+	}
+	history={
+		owner = YOR
+		add_core_of = YOR
+		buildings = {
+			arms_factory = 5
+			industrial_complex = 10
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		4161 4162 4170 4273 4310 4324 
+	}
+	manpower=214202
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

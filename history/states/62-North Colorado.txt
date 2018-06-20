@@ -1,0 +1,15 @@
+state={
+	id=62
+	name="STATE_62"
+	history={
+		owner = NEB
+		add_core_of = COL
+
+	}
+	state_category = large_city
+	provinces={
+		3421 3422 3423 3424 3425 3426 3427 3428 3429 3430 3431 3432 3503 3504 3510 3524 3531 3532 3556 3564 3565 3568 3569 3575 3584 3585 3678 3716 3717 
+	}
+	manpower=3427
+	buildings_max_level_factor=1.000
+}

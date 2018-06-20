@@ -1,0 +1,15 @@
+state={
+	id=59
+	name="STATE_59"
+	history={
+		owner = NEB
+		add_core_of = WYO
+
+	}
+	state_category = large_city
+	provinces={
+		4338 4339 4340 4341 4342 4343 4344 4345 4377 4434 4437 4453 4458 4465 4466 4467 4480 4481 4490 4504 4553 4556 4565 4613 4641 4652 4653 4656 4664 4699 4721 4732 4733 4734 4778 
+	}
+	manpower=2884
+	buildings_max_level_factor=1.000
+}

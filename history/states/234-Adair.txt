@@ -1,0 +1,23 @@
+state={
+	id=234
+	name="STATE_234"
+	resources = {
+		textile = 1
+		food = 1
+		unskilled = 1
+	}
+	history={
+		owner = KEN
+		add_core_of = KEN
+		buildings = {
+			arms_factory = 1
+		}
+
+	}
+	provinces={
+		2299 2313 2322 2405 2427 
+	}
+	manpower=25378
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

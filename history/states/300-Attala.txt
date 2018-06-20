@@ -1,0 +1,20 @@
+state={
+	id=300
+	name="STATE_300"
+	resources = {
+		wood = 1
+		textile = 10
+		unskilled = 2
+	}
+	history={
+		owner = MIS
+		add_core_of = MIS
+
+	}
+	provinces={
+		1099 1100 1161 1162 1163 1173 1257 
+	}
+	manpower=29426
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

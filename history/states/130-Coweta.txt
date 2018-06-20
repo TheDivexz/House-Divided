@@ -1,0 +1,22 @@
+state={
+	id=130
+	name="STATE_130"
+	resources = {
+		wood = 7
+		iron = 1
+		textile = 8
+		unskilled = 3
+		skilled = 3
+	}
+	history={
+		owner = GEO
+		add_core_of = GEO
+
+	}
+	provinces={
+		1144 1164 1189 1238 1241 
+	}
+	manpower=24169
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,24 @@
+state={
+	id=360
+	name="STATE_360"
+	resources = {
+		wood = 7
+		food = 1
+		unskilled = 3
+	}
+	history={
+		owner = NCA
+		add_core_of = NCA
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		1633 1674 1675 1715 1768 1779 1822 
+	}
+	manpower=26277
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

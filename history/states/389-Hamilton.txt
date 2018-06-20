@@ -1,0 +1,24 @@
+state={
+	id=389
+	name="STATE_389"
+	resources = {
+		iron = 5
+		food = 5
+		unskilled = 2
+		skilled = 14
+	}
+	history={
+		owner = OHI
+		add_core_of = OHI
+		buildings = {
+			industrial_complex = 1
+		}
+
+	}
+	provinces={
+		3008 3099 3110 3171 3182 3183 
+	}
+	manpower=305330
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

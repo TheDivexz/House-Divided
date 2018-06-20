@@ -1,0 +1,85 @@
+﻿division_template = {
+	name = "North Carolina Infantry"			#Infantry Division - In 1936, Albania only had one triangular division.	They did have some tankettes and infantry support tanks, so 1 recon
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+	}
+}
+
+units = {
+	#Ushtria Shqipëtarë
+	division = {
+		name = "Northern Cardinals"
+		location = 1889
+		division_template = "North Carolina Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Northern Cardinals"
+		location = 1894
+		division_template = "North Carolina Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Fraser Firs"
+		location = 2069
+		division_template = "North Carolina Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Plott Hounds"
+		location = 2123
+		division_template = "North Carolina Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Dogwoods"
+		location = 1832
+		division_template = "North Carolina Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Pines"
+		location = 1653
+		division_template = "North Carolina Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Carolina Lillies"
+		location = 1653
+		division_template = "North Carolina Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+}
+
+### Starting Production ###
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "NCA"
+		}
+		requested_factories = 1
+		progress = 0.86
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "NCA"
+		}
+		requested_factories = 1
+		progress = 0.40
+		efficiency = 100
+	}
+}

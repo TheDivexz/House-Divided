@@ -1,0 +1,22 @@
+
+state={
+	id=68
+	name="STATE_68"
+
+	history={
+		owner = MIC
+		add_core_of = MIC
+		add_core_of = SUP
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		4855 4938 4969 4991 5020 5038 5061 5072 5094 5107 5118 5122 5245 5317 
+	}
+	manpower=17275
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

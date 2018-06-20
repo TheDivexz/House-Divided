@@ -1,0 +1,25 @@
+state={
+	id=435
+	name="STATE_435"
+	resources = {
+		wood = 5
+		textile = 6
+		food = 1
+		unskilled = 3
+		skilled = 3
+	}
+	history={
+		owner = TEN
+		add_core_of = TEN
+		buildings = {
+			arms_factory = 1
+		}
+
+	}
+	provinces={
+		1931 1977 1985 1996 2018 2068 2079 2080 
+	}
+	manpower=50471
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

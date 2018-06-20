@@ -1,0 +1,29 @@
+
+state={
+	id=8
+	name="STATE_8"
+	resources = {
+		wood = 2
+		iron = 46
+		food = 20
+		unskilled = 5
+		skilled = 24
+	}
+
+	history={
+		owner = YOR
+		add_core_of = YOR
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+		}
+
+	}
+
+	provinces={
+		3695 4046 4112 4178 4194 4252 4293 
+	}
+	manpower=275088
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

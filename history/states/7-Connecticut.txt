@@ -1,0 +1,29 @@
+
+state={
+	id=7
+	name="STATE_7"
+	resources = {
+		iron = 1
+		food = 12
+		unskilled = 2
+		skilled = 11
+	}
+
+	history={
+		owner = CUN
+		add_core_of = CUN
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+			infrastructure = 10
+		}
+
+	}
+
+	provinces={
+		3861 3871 3958 3972 3976 3981 
+	}
+	manpower=460147
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

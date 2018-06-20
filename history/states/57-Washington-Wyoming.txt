@@ -1,0 +1,21 @@
+state={
+	id=57
+	name="STATE_57"
+		resources={
+		wood = 248
+		food = 1
+		unskilled = 42
+		skilled = 1
+	}
+	history={
+		owner = ORE
+		add_core_of = WYO
+
+	}
+	state_category = large_city
+	provinces={
+		4091 4092 4093 4094 4145 4150 4336 4337 4387 4407 4414 
+	}
+	manpower=5246
+	buildings_max_level_factor=1.000
+}

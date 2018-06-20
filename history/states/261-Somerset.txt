@@ -1,0 +1,26 @@
+state={
+	id=261
+	name="STATE_261"
+	resources = {
+		wood = 3
+		iron = 1
+		food = 8
+		unskilled = 14
+		skilled = 6
+	}
+	history={
+		owner = MAR
+		add_core_of = MAR
+		buildings = {
+			industrial_complex = 6
+			infrastructure = 6
+		}
+
+	}
+	provinces={
+		2693 2714 2811 2825 2973 
+	}
+	manpower=48030
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

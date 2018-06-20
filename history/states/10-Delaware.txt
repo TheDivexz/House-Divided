@@ -1,0 +1,27 @@
+
+state={
+	id=10
+	name="STATE_10"
+	resources = {
+		iron = 5
+		food = 10
+		unskilled = 93
+		skilled = 6
+	}
+	history={
+		owner = DEL
+		add_core_of = DEL
+		buildings = {
+			arms_factory = 3
+			industrial_complex = 6
+			infrastructure = 10
+		}
+
+	}
+	state_category = large_city
+	provinces={
+		2875 3027 3187 
+	}
+	manpower=112216
+	buildings_max_level_factor=1.000
+}

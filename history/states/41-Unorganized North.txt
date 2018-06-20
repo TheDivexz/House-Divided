@@ -1,0 +1,16 @@
+
+state={
+	id=41
+	name="STATE_41"
+	history={
+		owner = SDA
+		add_core_of = NDO
+
+	}
+	state_category = large_city
+	provinces={
+		5022 5025 5026 5027 5028 5098 5103 5104 5151 5152 5153 5156 5157 5212 5241 5253 5254 5257 5262 5263 5264 5268 5289 5300 5301 5321 5322 5323 5330 5340 5368 5381 5385 5400 5401 5405 5407 
+	}
+	manpower=483
+	buildings_max_level_factor=1.000
+}

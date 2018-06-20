@@ -1,0 +1,23 @@
+state={
+	id=394
+	name="STATE_394"
+	resources = {
+		wood = 78
+		food = 4
+		unskilled = 11
+	}
+	history={
+		owner = ORE
+		add_core_of = ORE
+		buildings = {
+			arms_factory = 1
+		}
+
+	}
+	provinces={
+		4047 4048 4059 4060 4061 4062 4063 4064 4167 4298 4307 4442 4454 4455 4500 4522 4541 4588 4617 4651 4675 4683 4686 4692 4698 4760 4769 4785 4788 4810 4811 4813 4814 4839 4847 4848 4872 4882 4905 4929 4966 4988 
+	}
+	manpower=18150
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=73
+	name="STATE_73"
+	resources = {
+		wood = 7
+		iron = 3
+		textile = 3
+		food = 2
+		unskilled = 4
+		skilled = 3
+	}
+	state_category = large_city
+	history={
+		owner = ALA
+		add_core_of = ALA
+		buildings = {
+			arms_factory = 1
+		}
+
+	}
+	provinces={
+		918 919 959 972 993 1019 1026 1057 1058 1062 1136 1142 1143 
+	}
+	manpower=32086
+	buildings_max_level_factor=1.000
+}

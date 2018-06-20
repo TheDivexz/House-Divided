@@ -1,0 +1,28 @@
+
+state={
+	id=29
+	name="STATE_29"
+	resources = {
+		food = 1
+		unskilled = 4
+		skilled = 2
+	}
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		4777 4780 4806 4856 
+	}
+	manpower=33064
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

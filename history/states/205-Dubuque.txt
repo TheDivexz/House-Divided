@@ -1,0 +1,24 @@
+state={
+	id=205
+	name="STATE_205"
+	resources = {
+		food = 2
+		unskilled = 2
+		skilled = 4
+	}
+	history={
+		owner = IOW
+		add_core_of = IOW
+		buildings = {
+			arms_factory = 1
+			infrastructure = 2
+		}
+
+	}
+	provinces={
+		3963 3969 3970 4006 4009 4075 4095 4158 
+	}
+	manpower=81427
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

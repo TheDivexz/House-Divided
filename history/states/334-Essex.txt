@@ -1,0 +1,27 @@
+state={
+	id=334
+	name="STATE_334"
+	resources = {
+		wood = 4
+		iron = 43
+		food = 9
+		unskilled = 1
+		skilled = 24
+	}
+	history={
+		owner = JER
+		add_core_of = JER
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 9
+			infrastructure = 6
+		}
+
+	}
+	provinces={
+		3594 3654 3658 3688 3694 3714 
+	}
+	manpower=207594
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

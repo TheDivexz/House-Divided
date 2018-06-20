@@ -1,0 +1,81 @@
+﻿division_template = {
+	name = "Tennessee Infantry"			#Infantry Division - In 1936, Albania only had one triangular division.	They did have some tankettes and infantry support tanks, so 1 recon
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+	}
+}
+
+units = {
+	#Ushtria Shqipëtarë
+	division = {
+		name = "Memphis Belle"
+		location = 2131
+		division_template = "Tennessee Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Racoons"
+		location = 2148
+		division_template = "Tennessee Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Sandy"
+		location = 1902
+		division_template = "Tennessee Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Mockingbird"
+		location = 1878
+		division_template = "Tennessee Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Iris"
+		location = 2128
+		division_template = "Tennessee Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Pterotrigonia"
+		location = 1983
+		division_template = "Tennessee Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+}
+
+### Starting Production ###
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "TEN"
+		}
+		requested_factories = 1
+		progress = 0.86
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "TEN"
+		}
+		requested_factories = 1
+		progress = 0.40
+		efficiency = 100
+	}
+}

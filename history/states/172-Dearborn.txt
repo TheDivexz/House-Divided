@@ -1,0 +1,26 @@
+state={
+	id=172
+	name="STATE_172"
+	resources = {
+		wood = 3
+		iron = 2
+		food = 3
+		unskilled = 2
+		skilled = 6
+	}
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			arms_factory = 1
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		2983 3052 3053 3068 
+	}
+	manpower=61394
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

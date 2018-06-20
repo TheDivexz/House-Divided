@@ -1,0 +1,18 @@
+state={
+	id=48
+	name="STATE_48"
+	history={
+		owner = WAS
+		add_core_of = IDA
+		buildings = {
+			industrial_complex = 10
+		}
+
+	}
+	state_category = large_city
+	provinces={
+		5035 5036 5041 5042 5056 5092 5114 5129 5130 5134 5197 5198 5215 5216 5266 5271 5275 5283 5326 5391 
+	}
+	manpower=1159
+	buildings_max_level_factor=1.000
+}

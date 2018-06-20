@@ -1,0 +1,21 @@
+state={
+	id=437
+	name="STATE_437"
+	resources = {
+		wood = 4
+		textile = 31
+		food = 1
+		skilled = 1
+	}
+	history={
+		owner = TEX
+		add_core_of = TEX
+
+	}
+	provinces={
+		1068 1073 1074 1080 1081 1178 1179 1180 1185 1186 1187 1282 1283 1287 1288 1289 1297 1393 1394 1397 1398 1399 1402 1526 1527 1528 1537 1538 1539 1650 1651 1655 1656 1657 1769 1774 1775 1776 1780 1812 1833 1906 1907 1908 1909 1913 1914 1968 1982 2058 2059 2060 2061 2066 
+	}
+	manpower=509
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

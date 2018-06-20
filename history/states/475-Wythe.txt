@@ -1,0 +1,22 @@
+state={
+	id=475
+	name="STATE_475"
+	resources = {
+		wood = 1
+		food = 3
+		unskilled = 3
+		skilled = 2
+	}
+	history={
+		owner = VIR
+		add_core_of = VIR
+
+	}
+
+	provinces={
+		2282 2308 2328 2375 2384 2425 2447 
+	}
+	manpower=28079
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

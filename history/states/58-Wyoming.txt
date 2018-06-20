@@ -1,0 +1,23 @@
+state={
+	id=58
+	name="STATE_58"
+		resources={
+		wood = 8
+		iron = 2
+	}
+	history={
+		owner = NEB
+		add_core_of = WYO
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+		}
+
+	}
+	state_category = large_city
+	provinces={
+		3756 3757 3758 3759 3760 3761 3762 3888 3955 3982 4045 4050 4102 4136 4146 4147 4149 4159 4171 4180 4185 4215 4228 4234 4235 
+	}
+	manpower=2884
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,68 @@
+﻿capital = 44
+
+OOB = "ARI_1858"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 0
+		}
+
+		communism = {
+			popularity = 0
+		}
+		
+		fascism = {
+			popularity = 0
+		}
+		neutrality = { 
+			popularity = 100
+		}
+	}
+	
+	ruling_party = neutrality
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_convoys = 5
+
+#Dr Lewis Owings, both union and confed
+create_country_leader = {
+	name = "Dr. Lewis S. Owings"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Arizona_Lewis_Owings.dds"
+	expire = "1875.8.20"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+#Col Jhon Baylor, confed
+create_country_leader = {
+	name = "Col. John R. Baylor"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Arizona_John_Baylor.dds"
+	expire = "1894.2.6"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+
+create_field_marshal = {
+	name = "Generic General"
+	picture = "Portrait_Europe_Generic_land_3.dds"
+	skill = 1
+}
+

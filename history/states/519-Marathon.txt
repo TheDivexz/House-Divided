@@ -1,0 +1,24 @@
+state={
+	id=519
+	name="STATE_519"
+		resources={
+		wood = 1
+		food = 7
+		unskilled = 2
+		skilled = 3
+	}
+	history={
+		owner = WIS
+		add_core_of = WIS
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		4748 4756 4761 4764 4765 4794 4799 4812 4844 4850 4857 4859 4894 4916 4933 4974 5014 5037 
+	}
+	manpower=2853
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

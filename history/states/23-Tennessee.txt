@@ -1,0 +1,28 @@
+
+state={
+	id=23
+	name="STATE_23"
+	resources = {
+		wood = 3
+		textile = 4
+		food = 2
+		unskilled = 5
+		skilled = 1
+	}
+	history={
+		owner = TEN
+		add_core_of = TEN
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+		}
+
+	}
+
+	provinces={
+		2021 2031 2115 2131 2159 
+	}
+	manpower=73445
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

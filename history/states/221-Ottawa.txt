@@ -1,0 +1,24 @@
+state={
+	id=221
+	name="STATE_221"
+	resources = {
+		iron = 3
+		textile = 2
+		unskilled = 3
+		skilled = 5
+	}
+	history={
+		owner = KAN
+		add_core_of = KAN
+		buildings = {
+			infrastructure = 4
+		}
+
+	}
+	provinces={
+		2941 2946 3017 3037 3064 3065 3180 3262 3307 3308 
+	}
+	manpower=214
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

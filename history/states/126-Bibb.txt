@@ -1,0 +1,26 @@
+
+state={
+	id=126
+	name="STATE_126"
+	resources = {
+		wood = 4
+		iron = 2
+		textile = 6
+		unskilled = 2
+		skilled = 2
+	}
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		1022 1048 1066 1072 1113 1119 1148 
+	}
+	manpower=23446
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

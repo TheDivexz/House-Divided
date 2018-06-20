@@ -1,0 +1,29 @@
+
+state={
+	id=15
+	name="STATE_15"
+		resources={
+		wood = 1
+		textile = 2
+		food = 3
+		unskilled = 4
+		skilled = 2
+	}
+	history={
+		owner = VIR
+		add_core_of = WVI
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		2644 2709 2720 2734 2800 2801 2835 2877 
+	}
+	manpower=24174
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

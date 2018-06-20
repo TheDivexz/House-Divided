@@ -1,0 +1,25 @@
+state={
+	id=452
+	name="STATE_452"
+	resources = {
+		wood = 5
+		textile = 17
+		food = 1
+		unskilled = 2
+		skilled = 1
+	}
+	history={
+		owner = TEX
+		add_core_of = TEX
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		436 448 454 466 487 489 528 580 
+	}
+	manpower=25627
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

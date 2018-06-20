@@ -1,0 +1,24 @@
+state={
+	id=449
+	name="STATE_449"
+	resources = {
+		wood = 4
+		textile = 35
+		unskilled = 1
+		skilled = 2
+	}
+	history={
+		owner = TEX
+		add_core_of = TEX
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		661 734 736 771 786 806 837 844 869 873 983 990 991 
+	}
+	manpower=2041
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

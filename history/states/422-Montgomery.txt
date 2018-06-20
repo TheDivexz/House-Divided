@@ -1,0 +1,23 @@
+state={
+	id=422
+	name="STATE_422"
+	resources = {
+		textile = 2
+		unskilled = 3
+		skilled = 7
+	}
+	history={
+		owner = TEN
+		add_core_of = TEN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		1981 2016 2033 2127 2148 2156 2168 2173 
+	}
+	manpower=34032
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

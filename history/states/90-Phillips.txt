@@ -1,0 +1,20 @@
+state={
+	id=90
+	name="STATE_90"
+	resources = {
+		wood = 7
+		textile = 9
+		skilled = 2
+	}
+	state_category = large_city
+	history={
+		owner = ARK
+		add_core_of = ARK
+
+	}
+	provinces={
+		1190 1327 1413 1425 1481 1550 1628 1634 
+	}
+	manpower=14231
+	buildings_max_level_factor=1.000
+}

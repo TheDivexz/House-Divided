@@ -1,0 +1,25 @@
+state={
+	id=415
+	name="STATE_415"
+	resources = {
+		wood = 9
+		textile = 6
+		food = 1
+		unskilled = 9
+		skilled = 2
+	}
+	history={
+		owner = SCA
+		add_core_of = SCA
+		buildings = {
+			infrastructure = 4
+		}
+
+	}
+	provinces={
+		1260 1317 1353 1366 1371 1379 1417 1509 1517 
+	}
+	manpower=27131
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

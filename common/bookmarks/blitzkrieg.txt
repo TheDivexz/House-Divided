@@ -1,0 +1,28 @@
+bookmarks = {
+	bookmark = {
+		name = "BLITZKRIEG_NAME"
+		desc = "BLITZKRIEG_DESC"
+		date = 1858.1.1.1
+		picture = "GFX_select_date_1939"
+		default_country = "WDC"
+		WDC = {
+			history = FRA_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+	
+		
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		# minors from DLC ####
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

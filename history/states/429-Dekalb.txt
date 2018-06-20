@@ -1,0 +1,23 @@
+state={
+	id=429
+	name="STATE_429"
+	resources = {
+		wood = 2
+		iron = 0
+		textile = 3
+		food = 3
+		unskilled = 2
+		skilled = 9
+	}
+	history={
+		owner = TEN
+		add_core_of = TEN
+
+	}
+	provinces={
+		1878 1918 1984 2022 2074 2098 2138 
+	}
+	manpower=38838
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

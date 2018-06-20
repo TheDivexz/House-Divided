@@ -1,0 +1,24 @@
+state={
+	id=369
+	name="STATE_369"
+	resources = {
+		wood = 7
+		textile = 1
+		food = 1
+		unskilled = 3
+	}
+	history={
+		owner = NCA
+		add_core_of = NCA
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		1832 1837 1891 1912 1932 1979 
+	}
+	manpower=24126
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

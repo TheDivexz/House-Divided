@@ -1,0 +1,25 @@
+state={
+	id=173
+	name="STATE_173"
+	resources = {
+		iron = 3
+		food = 1
+		unskilled = 1
+		skilled = 2
+	}
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			arms_factory = 1
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		3179 3263 3264 3331 
+	}
+	manpower=65338
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

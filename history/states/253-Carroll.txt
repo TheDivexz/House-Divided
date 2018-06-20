@@ -1,0 +1,27 @@
+
+state={
+	id=253
+	name="STATE_253"
+	resources = {
+		wood = 12
+		textile = 1
+		unskilled = 4
+		skilled = 4
+	}
+
+	history={
+		owner = LOU
+		add_core_of = LOU
+		buildings = {
+			infrastructure = 4
+		}
+
+	}
+
+	provinces={
+		1009 1020 1021 1065 1085 1098 1134 
+	}
+	manpower=11399
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,25 @@
+state={
+	id=264
+	name="STATE_264"
+	resources = {
+		wood = 2
+		food = 5
+		unskilled = 17
+		skilled = 12
+	}
+	history={
+		owner = MAR
+		add_core_of = MAR
+		buildings = {
+			industrial_complex = 6
+			infrastructure = 5
+		}
+
+	}
+	provinces={
+		3070 3155 3163 3168 3194 3223 
+	}
+	manpower=105258
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,21 @@
+state={
+	id=299
+	name="STATE_299"
+	resources = {
+		wood = 9
+		textile = 16
+		unskilled = 4
+		skilled = 1
+	}
+	history={
+		owner = MIS
+		add_core_of = MIS
+
+	}
+	provinces={
+		1101 1102 1123 1129 1135 1174 
+	}
+	manpower=22821
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

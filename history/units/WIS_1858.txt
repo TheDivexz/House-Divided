@@ -1,0 +1,80 @@
+﻿division_template = {
+	name = "Wisconsin Infantry"			#Infantry Division - In 1936, Albania only had one triangular division.	They did have some tankettes and infantry support tanks, so 1 recon
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+}
+
+units = {
+	#Ushtria Shqipëtarë
+	division = {
+		name = "Badgers"
+		location = 4300
+		division_template = "Wisconsin Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "American Robin"
+		location = 4198
+		division_template = "Wisconsin Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Muskellunge"
+		location = 4381
+		division_template = "Wisconsin Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Wood Violet"
+		location = 4517
+		division_template = "Wisconsin Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Trilobite"
+		location = 4399
+		division_template = "Wisconsin Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Red Granite"
+		location = 4399
+		division_template = "Wisconsin Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+}
+
+### Starting Production ###
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "WIS"
+		}
+		requested_factories = 1
+		progress = 0.86
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "WIS"
+		}
+		requested_factories = 1
+		progress = 0.40
+		efficiency = 100
+	}
+}

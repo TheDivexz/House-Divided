@@ -1,0 +1,31 @@
+
+state={
+	id=18
+	name="STATE_18"
+	resources = {
+		wood = 7
+		iron = 1
+		textile = 8
+		food = 2
+		unskilled = 3
+		skilled = 2
+	}
+
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		1324 1339 1373 1458 1467 1492 
+	}
+	manpower=31898
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

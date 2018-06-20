@@ -1,0 +1,24 @@
+state={
+	id=152
+	name="STATE_152"
+	resources = {
+		iron = 17
+		food = 5
+		unskilled = 2
+		skilled = 4
+	}
+	history={
+		owner = ILL
+		add_core_of = ILL
+		buildings = {
+			arms_factory = 1
+		}
+
+	}
+	provinces={
+		2977 2995 3020 3045 3158 3159 3193 
+	}
+	manpower=44014
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

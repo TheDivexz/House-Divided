@@ -1,0 +1,25 @@
+state={
+	id=470
+	name="STATE_470"
+	resources = {
+		wood = 4
+		food = 15
+		unskilled = 23
+	}
+	history={
+		owner = VER
+		add_core_of = VER
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 8
+			infrastructure = 5
+		}
+
+	}
+	provinces={
+		4274 4278 4411 4432 4547 
+	}
+	manpower=154596
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

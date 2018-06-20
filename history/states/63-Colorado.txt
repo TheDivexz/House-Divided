@@ -1,0 +1,24 @@
+state={
+	id=63
+	name="STATE_63"
+		resources={
+		wood = 5
+		unskilled = 8
+		skilled = 6
+	}
+	history={
+		owner = KAN
+		add_core_of = COL
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+		}
+
+	}
+	state_category = large_city
+	provinces={
+		2355 2567 2568 2579 2580 2581 2582 2583 2584 2585 2586 2587 2588 2612 2628 2634 2666 2671 2672 2677 2712 2715 2716 2741 2758 2764 2806 2812 2813 2814 2843 2859 2863 2869 2888 2896 2906 2907 2944 2945 2954 2969 3036 3062 3080 3096 3111 3112 3120 3190 3197 3198 3246 3247 3257 3258 3259 3260 3266 3287 3292 3313 3322 3334 3353 3358 3382 3394 3395 3397 
+	}
+	manpower=34277
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=501
+	name="STATE_501"
+		resources={
+		wood = 5
+		textile = 3
+		food = 6
+		unskilled = 4
+		skilled = 1
+	}
+	history={
+		owner = VIR
+		add_core_of = WVI
+
+	}
+	provinces={
+		3165 3173 3213 3220 3226 3231 3280 3299 
+	}
+	manpower=39548
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

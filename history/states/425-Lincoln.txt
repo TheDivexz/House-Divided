@@ -1,0 +1,25 @@
+state={
+	id=425
+	name="STATE_425"
+	resources = {
+		wood = 1
+		textile = 2
+		unskilled = 6
+		skilled = 6
+	}
+	history={
+		owner = TEN
+		add_core_of = TEN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		1728 1751 1765 1814 1826 1864 
+	}
+	manpower=51677
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

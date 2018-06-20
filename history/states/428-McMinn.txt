@@ -1,0 +1,22 @@
+state={
+	id=428
+	name="STATE_428"
+	resources = {
+		wood = 2
+		textile = 5
+		food = 1
+		unskilled = 3
+		skilled = 7
+	}
+	history={
+		owner = TEN
+		add_core_of = TEN
+
+	}
+	provinces={
+		1721 1722 1729 1766 1786 1790 1799 
+	}
+	manpower=41144
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

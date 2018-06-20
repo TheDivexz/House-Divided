@@ -1,0 +1,29 @@
+
+state={
+	id=66
+	name="STATE_66"
+	manpower = 98300
+	resources={
+		wood = 6
+		food = 2
+		unskilled = 7
+		skilled = 2
+	}
+	state_category = large_city
+	history={
+		owner = MAI
+		add_core_of = MAI
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 1
+		}
+
+	}
+	provinces={
+		4532 4535 4550 4591 4606 4715 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+}

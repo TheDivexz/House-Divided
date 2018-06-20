@@ -1,0 +1,26 @@
+state={
+	id=368
+	name="STATE_368"
+	resources = {
+		wood = 8
+		textile = 4
+		food = 2
+		unskilled = 7
+		skilled = 2
+	}
+	history={
+		owner = NCA
+		add_core_of = NCA
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+
+	}
+	provinces={
+		1824 1883 1916 1924 1933 1940 1986 
+	}
+	manpower=16914
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,25 @@
+state={
+	id=420
+	name="STATE_420"
+	resources = {
+		wood = 4
+		textile = 6
+		food = 3
+		unskilled = 4
+		skilled = 1
+	}
+	history={
+		owner = TEN
+		add_core_of = TEN
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+	provinces={
+		1983 1989 2093 2111 
+	}
+	manpower=48834
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

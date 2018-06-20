@@ -1,0 +1,29 @@
+
+state={
+	id=21
+	name="STATE_21"
+	resources = {
+		iron = 5
+		food = 4
+		unskilled = 1
+		skilled = 5
+	}
+
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		3202 3203 3298 3306 
+	}
+	manpower=86776
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

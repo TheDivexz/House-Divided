@@ -1,0 +1,29 @@
+
+state={
+	id=5
+	name="STATE_5"
+	resources = {
+		wood = 2
+		food = 5
+		unskilled = 20
+		skilled = 33
+	}
+
+	history={
+		owner = MAS
+		add_core_of = MAS
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+			infrastructure = 8
+		}
+
+	}
+
+	provinces={
+		4083 4118 4129 4143 4184 
+	}
+	manpower=676391
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

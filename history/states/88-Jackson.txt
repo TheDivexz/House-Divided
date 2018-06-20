@@ -1,0 +1,24 @@
+state={
+	id=88
+	name="STATE_88"
+	resources = {
+		wood = 11
+		iron = 0
+		textile = 8
+		skilled = 4
+	}
+	state_category = large_city
+	history={
+		owner = ARK
+		add_core_of = ARK
+		buildings={
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		1540 1583 1584 1597 1646 1698 1699 1708 1709 1712 1736 1757 1760 1803 1807 1830 
+	}
+	manpower=24284
+	buildings_max_level_factor=1.000
+}

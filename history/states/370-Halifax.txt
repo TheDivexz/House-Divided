@@ -1,0 +1,22 @@
+state={
+	id=370
+	name="STATE_370"
+	resources = {
+		wood = 6
+		textile = 1
+		food = 1
+		unskilled = 3
+		skilled = 3
+	}
+	history={
+		owner = NCA
+		add_core_of = NCA
+
+	}
+	provinces={
+		1987 2015 2056 2123 2142 2147 2167 2170 
+	}
+	manpower=22303
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

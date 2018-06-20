@@ -1,0 +1,21 @@
+state={
+	id=393
+	name="STATE_393"
+	resources = {
+		wood = 83
+		food = 4
+		unskilled = 12
+		skilled = 2
+	}
+	history={
+		owner = ORE
+		add_core_of = ORE
+
+	}
+	provinces={
+		4056 4057 4058 4173 4246 4248 4257 4266 4267 4361 4383 4462 4508 
+	}
+	manpower=5573
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

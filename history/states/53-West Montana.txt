@@ -1,0 +1,15 @@
+state={
+	id=53
+	name="STATE_53"
+	history={
+		owner = WAS
+		add_core_of = MON
+
+	}
+	state_category = large_city
+	provinces={
+		5048 5077 5146 5165 5231 5233 5309 5327 
+	}
+	manpower=1159
+	buildings_max_level_factor=1.000
+}

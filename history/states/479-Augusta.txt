@@ -1,0 +1,25 @@
+state={
+	id=479
+	name="STATE_479"
+	resources = {
+		wood = 4
+		textile = 3
+		unskilled = 2
+		skilled = 1
+	}
+	history={
+		owner = VIR
+		add_core_of = VIR
+		buildings = {
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+		2578 2675 2688 2786 
+	}
+	manpower=33732
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

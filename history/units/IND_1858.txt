@@ -1,0 +1,237 @@
+﻿division_template = {
+	name = "Indiana Infantry"			#Infantry Division - In 1936, Albania only had one triangular division.	They did have some tankettes and infantry support tanks, so 1 recon
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+	}
+}
+
+units = {
+	#Ushtria Shqipëtarë
+	division = {
+		name = "P-47 Thunderbolts"
+		location = 3202
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Northern Cardinals"
+		location = 3144
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Peony"
+		location = 3406
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Say's Fireflies"
+		location = 3494
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Hoosiers"
+		location = 3402
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Grouseland Rifles"
+		location = 3407
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Wabash"
+		location = 3204
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Limestones"
+		location = 3006
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Tulip Poplars"
+		location = 2978
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "William Henry Harrison"
+		location = 2915
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "John Gibson"
+		location = 3590
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Thomas Posey"
+		location = 3617
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Jonathan Jennings"
+		location = 3651
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Ratliff Boon"
+		location = 3619
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "William Hendricks"
+		location = 3407
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "James Ray"
+		location = 3263
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Mad Ants"
+		location = 3068
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Fever"
+		location = 2955
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Jaguars"
+		location = 2866
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Purple Aces"
+		location = 2803
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Fuel"
+		location = 2794
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Elevens"
+		location = 3679
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Tin Caps"
+		location = 3850
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Pacers"
+		location = 3787
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Colts"
+		location = 3950
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Boilmakers"
+		location = 3499
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Fighting Irish"
+		location = 3202
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Bulldogs"
+		location = 3572
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Komets"
+		location = 3572
+		division_template = "Indiana Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+}
+
+### Starting Production ###
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "IND"
+		}
+		requested_factories = 1
+		progress = 0.86
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "IND"
+		}
+		requested_factories = 1
+		progress = 0.40
+		efficiency = 100
+	}
+}

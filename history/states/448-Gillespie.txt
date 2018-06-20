@@ -1,0 +1,22 @@
+state={
+	id=448
+	name="STATE_448"
+	resources = {
+		textile = 28
+		skilled = 2
+	}
+	history={
+		owner = TEX
+		add_core_of = TEX
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		510 522 547 587 621 664 709 
+	}
+	manpower=5077
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

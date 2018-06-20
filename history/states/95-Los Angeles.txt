@@ -1,0 +1,24 @@
+state={
+	id=95
+	name="STATE_95"
+	state_category=large_city
+	resources = {
+		wood = 8
+		textile = 3
+		unskilled = 4
+		skilled = 8
+	}
+	history={
+		owner = CAL
+		add_core_of = CAL
+		buildings={
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		1079 1105 1106 1108 1262 1296 1302 1305 1308 1345 1367 1418 1442 1443 1448 1449 1500 1544 1564 1667 1671 1677 1959 1965 1966 
+	}
+	manpower=16232
+	buildings_max_level_factor=1.000
+}

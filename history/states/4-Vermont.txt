@@ -1,0 +1,28 @@
+
+state={
+	id=4
+	name="STATE_4"
+	resources = {
+		wood = 2
+		food = 12
+		unskilled = 15
+	}
+
+	history={
+		owner = VER
+		add_core_of = VER
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+			infrastructure = 6
+		}
+
+	}
+
+	provinces={
+		4616 4655 4695 4706 4731 
+	}
+	manpower=86336
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

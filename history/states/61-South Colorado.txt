@@ -1,0 +1,15 @@
+state={
+	id=61
+	name="STATE_61"
+	history={
+		owner = MEX
+		add_core_of = COL
+
+	}
+	state_category = large_city
+	provinces={
+		2349 2350 2351 2352 2353 2354 2444 2462 2469 2479 2480 2490 2538 
+	}
+	manpower=3427
+	buildings_max_level_factor=1.000
+}

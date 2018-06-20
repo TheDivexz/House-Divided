@@ -1,0 +1,27 @@
+
+state={
+	id=27
+	name="STATE_27"
+		resources={
+		wood = 3
+		food = 9
+		unskilled = 10
+		skilled = 9
+	}
+	history={
+		owner = WIS
+		add_core_of = WIS
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+		}
+
+	}
+
+	provinces={
+		4191 4199 4200 4207 4211 4296 4300 4301 4302 
+	}
+	manpower=130687
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

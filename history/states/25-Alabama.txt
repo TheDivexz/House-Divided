@@ -1,0 +1,31 @@
+
+state={
+	id=25
+	name="STATE_25"
+	resources = {
+		wood = 6
+		iron = 7
+		textile = 11
+		food = 1
+		unskilled = 6
+		skilled = 5
+	}
+
+	history={
+		owner = ALA
+		add_core_of = ALA
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		848 858 859 947 949 
+	}
+	manpower=31744
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

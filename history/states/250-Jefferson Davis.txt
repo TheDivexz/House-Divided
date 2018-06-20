@@ -1,0 +1,24 @@
+
+state={
+	id=250
+	name="STATE_250"
+	resources = {
+		wood = 4
+		unskilled = 2
+		skilled = 4
+	}
+	history={
+		owner = LOU
+		add_core_of = LOU
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		471 476 478 497 498 511 515 529 530 565 566 569 574 643 644 651 678 727 728 729 772 796 
+	}
+	manpower=27125
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

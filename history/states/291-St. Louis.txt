@@ -1,0 +1,23 @@
+state={
+	id=291
+	name="STATE_291"
+	resources = {
+		wood = 1
+		food = 1
+		unskilled = 2
+	}
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 7
+		}
+
+	}
+	provinces={
+		5117 5155 5181 5200 5218 5222 5259 5277 5316 5333 
+	}
+	manpower=568
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

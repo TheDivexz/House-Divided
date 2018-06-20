@@ -1,0 +1,28 @@
+
+state={
+	id=3
+	name="STATE_3"
+		resources={
+		wood = 12
+		food = 13
+		unskilled = 57
+		skilled = 28
+	}
+	history={
+		owner = HAM
+		add_core_of = HAM
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+			infrastructure = 6
+		}
+
+	}
+
+	provinces={
+		4249 4254 4256 4261 4275 4357 4359 4360 4379 4382 4386 
+	}
+	manpower=262751
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

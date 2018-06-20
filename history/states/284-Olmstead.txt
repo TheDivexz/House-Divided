@@ -1,0 +1,22 @@
+state={
+	id=284
+	name="STATE_284"
+	resources = {
+		unskilled = 3
+		skilled = 2
+	}
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			arms_factory = 1
+		}
+
+	}
+	provinces={
+		4487 4560 4561 4627 4654 4661 
+	}
+	manpower=34329
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

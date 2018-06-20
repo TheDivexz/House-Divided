@@ -1,0 +1,22 @@
+state={
+	id=100
+	name="STATE_100"
+	resources = {
+		wood = 14
+		textile = 4
+		food = 1
+		unskilled = 6
+		skilled = 1
+	}
+	state_category=large_city
+	history={
+		owner = CAL
+		add_core_of = CAL
+
+	}
+	provinces={
+		2657 2729 2747 2755 2774 
+	}
+	manpower=27224
+	buildings_max_level_factor=1.000
+}

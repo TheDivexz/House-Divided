@@ -1,0 +1,28 @@
+
+state={
+	id=19
+	name="STATE_19"
+	
+	resources = {
+		wood = 5
+		textile = 3
+	}
+
+	history={
+		owner = FLO
+		add_core_of = FLO
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+			infrastructure = 7
+		}
+
+	}
+
+	provinces={
+		543 549 610 641 
+	}
+	manpower=9782
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,23 @@
+state={
+	id=52
+	name="STATE_52"
+		resources={
+		wood = 2
+		unskilled = 29
+	}
+	history={
+		owner = UTA
+		add_core_of = UTA
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+		}
+
+	}
+	state_category = large_city
+	provinces={
+		2334 2343 2344 2345 2378 2531 2543 2566 2646 2730 2761 2762 2763 2768 2769 2775 2776 2805 2886 2894 2895 2899 2905 2928 2939 2985 3084 3090 3128 3178 3188 3225 3227 3228 3254 3255 3365 3366 3371 3389 3391 3392 3393 3459 3472 3574 3613 3649 3659 3693 3696 3699 3704 3754 3802 3808 3845 3893 
+	}
+	manpower=40273
+	buildings_max_level_factor=1.000
+}

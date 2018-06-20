@@ -1,0 +1,22 @@
+state={
+	id=358
+	name="STATE_358"
+	resources = {
+		wood = 3
+		textile = 2
+		food = 2
+		unskilled = 1
+		skilled = 3
+	}
+	history={
+		owner = NCA
+		add_core_of = NCA
+
+	}
+	provinces={
+		1881 1885 1886 1887 1974 
+	}
+	manpower=41041
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

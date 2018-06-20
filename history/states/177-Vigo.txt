@@ -1,0 +1,21 @@
+state={
+	id=177
+	name="STATE_177"
+	resources = {
+		wood = 1
+		food = 1
+		unskilled = 2
+		skilled = 4
+	}
+	history={
+		owner = IND
+		add_core_of = IND
+
+	}
+	provinces={
+		3144 3145 3146 3170 3209 3236 
+	}
+	manpower=68903
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

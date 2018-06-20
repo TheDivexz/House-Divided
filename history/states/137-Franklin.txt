@@ -1,0 +1,27 @@
+state={
+	id=137
+	name="STATE_137"
+	resources = {
+		wood = 5
+		textile = 16
+		food = 1
+		unskilled = 6
+		skilled = 2
+	}
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 1
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		1432 1506 1507 1518 1579 
+	}
+	manpower=18948
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

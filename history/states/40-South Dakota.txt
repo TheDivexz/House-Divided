@@ -1,0 +1,19 @@
+state={
+	id=40
+	name="STATE_40"
+	history={
+		owner = NEB
+		add_core_of = SDA
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+		}
+
+	}
+	state_category = large_city
+	provinces={
+		4346 4347 4348 4349 4350 4351 4352 4427 4438 4439 4456 4457 4468 4521 4523 4524 4525 4529 4579 4603 4621 4634 4642 4648 4693 4726 4739 4743 4773 4774 4834 4840 4852 4864 4865 4874 4937 4943 4982 
+	}
+	manpower=483
+	buildings_max_level_factor=1.000
+}

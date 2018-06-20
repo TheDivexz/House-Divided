@@ -1,0 +1,29 @@
+
+state={
+	id=9
+	name="STATE_9"
+		resources={
+		wood = 1
+		iron = 161
+		food = 45
+		unskilled = 66
+		skilled = 40
+	}
+	history={
+		owner = JER
+		add_core_of = JER
+		buildings = {
+			arms_factory = 10
+			industrial_complex = 9
+			infrastructure = 10
+		}
+
+	}
+
+	provinces={
+		3480 3509 3550 3580 3588 3621 3636 
+	}
+	manpower=116163
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,24 @@
+state={
+	id=488
+	name="STATE_488"
+	resources = {
+		wood = 2
+		textile = 1
+		food = 2
+		skilled = 1
+	}
+	history={
+		owner = VIR
+		add_core_of = VIR
+		buildings = {
+			arms_factory = 1
+		}
+
+	}
+	provinces={
+		2576 2638 2645 2659 2698 2711 
+	}
+	manpower=12808
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

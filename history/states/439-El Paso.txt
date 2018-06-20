@@ -1,0 +1,19 @@
+state={
+	id=439
+	name="STATE_439"
+	resources = {
+		textile = 17
+		skilled = 5
+	}
+	history={
+		owner = TEX
+		add_core_of = TEX
+
+	}
+	provinces={
+		408 437 519 521 576 646 688 700 716 832 
+	}
+	manpower=4400
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

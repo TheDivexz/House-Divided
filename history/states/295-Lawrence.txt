@@ -1,0 +1,24 @@
+state={
+	id=295
+	name="STATE_295"
+	resources = {
+		wood = 11
+		textile = 4
+		unskilled = 3
+		skilled = 1
+	}
+	history={
+		owner = MIS
+		add_core_of = MIS
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		741 742 825 827 828 829 834 
+	}
+	manpower=16127
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

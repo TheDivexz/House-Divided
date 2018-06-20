@@ -1,0 +1,24 @@
+state={
+	id=468
+	name="STATE_468"
+	resources = {
+		wood = 3
+		textile = 34
+		food = 1
+		skilled = 1
+	}
+	history={
+		owner = TEX
+		add_core_of = TEX
+		buildings = {
+			arms_factory = 1
+		}
+
+	}
+	provinces={
+		1084 1118 1154 1157 1160 1253 
+	}
+	manpower=16157
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

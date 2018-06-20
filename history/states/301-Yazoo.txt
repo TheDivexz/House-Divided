@@ -1,0 +1,25 @@
+state={
+	id=301
+	name="STATE_301"
+	resources = {
+		wood = 9
+		textile = 12
+		unskilled = 2
+		skilled = 8
+	}
+	history={
+		owner = MIS
+		add_core_of = MIS
+		buildings = {
+			arms_factory = 1
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		1056 1086 1112 1120 1182 1213 1263 1264 1268 1281 1338 1445 1463 1474 
+	}
+	manpower=9158
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

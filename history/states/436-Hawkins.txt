@@ -1,0 +1,26 @@
+state={
+	id=436
+	name="STATE_436"
+	resources = {
+		wood = 1
+		textile = 2
+		unskilled = 1
+		skilled = 7
+	}
+	history={
+		owner = TEN
+		add_core_of = TEN
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 1
+			infrastructure = 2
+		}
+
+	}
+	provinces={
+		2041 2100 2108 2121 2139 2149 2157 2166 
+	}
+	manpower=51385
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

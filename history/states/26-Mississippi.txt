@@ -1,0 +1,28 @@
+
+state={
+	id=26
+	name="STATE_26"
+	resources = {
+		wood = 8
+		textile = 6
+		unskilled = 8
+		skilled = 5
+	}
+
+	history={
+		owner = MIS
+		add_core_of = MIS
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+		}
+
+	}
+
+	provinces={
+		973 975 995 1012 1047 1061 
+	}
+	manpower=791305
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

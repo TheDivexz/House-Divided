@@ -1,0 +1,142 @@
+﻿division_template = {
+	name = "Illinois Infantry"			#Infantry Division - In 1936, Albania only had one triangular division.	They did have some tankettes and infantry support tanks, so 1 recon
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+	}
+}
+
+units = {
+	#Ushtria Shqipëtarë
+	division = {
+		name = "Eastern Tiger Salamanders"
+		location = 3249
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "White-tailed Deers"
+		location = 3346
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Pirogues"
+		location = 3637
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Northern Cardinals"
+		location = 3605
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Bluegills"
+		location = 3311
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Violets"
+		location = 2995
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Tully Monsters"
+		location = 3075
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Golden Apples"
+		location = 3817
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Monarchs"
+		location = 3624
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Flourites"
+		location = 3633
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Big Bluestems"
+		location = 3384
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Painted Turtles"
+		location = 3208
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Drummers Soils"
+		location = 3158
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "White Oaks"
+		location = 3138
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Sweet Corns"
+		location = 2951
+		division_template = "Illinois Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+}
+
+### Starting Production ###
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "ILL"
+		}
+		requested_factories = 1
+		progress = 0.86
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "ILL"
+		}
+		requested_factories = 1
+		progress = 0.40
+		efficiency = 100
+	}
+}

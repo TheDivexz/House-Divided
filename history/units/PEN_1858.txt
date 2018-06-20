@@ -1,0 +1,212 @@
+﻿division_template = {
+	name = "Pennsylvania Infantry"			#Infantry Division - In 1936, Albania only had one triangular division.	They did have some tankettes and infantry support tanks, so 1 recon
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+	}
+}
+
+units = {
+	#Ushtria Shqipëtarë
+	division = {
+		name = "Piper j-3 Cub"
+		location = 3549
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "White-tailed Deer"
+		location = 3343
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Ruffed Grouse"
+		location = 3471
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Great Danes"
+		location = 3598
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Long Rifles"
+		location = 3508
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Niagara"
+		location = 3345
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Mountain Laurel"
+		location = 3847
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Trilobite"
+		location = 3951
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Fireflies"
+		location = 3664
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "K4s"
+		location = 3338
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "GGI 4859"
+		location = 3337
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Penngift"
+		location = 3653
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Crownvetch"
+		location = 3937
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Hazelton"
+		location = 3698
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Eastern Hemlock"
+		location = 3681
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "76ers"
+		location = 3571
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Pen Quakers"
+		location = 3463
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Panthers"
+		location = 3947
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Nittany Lions"
+		location = 3647
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Wildcats"
+		location = 3478
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Pirates"
+		location = 3333
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Flyers"
+		location = 3664
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Steelers"
+		location = 3471
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Penguins"
+		location = 3966
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Eagles"
+		location = 3685
+		division_template = "Pennsylvania Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+}
+
+### Starting Production ###
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "PEN"
+		}
+		requested_factories = 1
+		progress = 0.86
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "PEN"
+		}
+		requested_factories = 1
+		progress = 0.40
+		efficiency = 100
+	}
+}

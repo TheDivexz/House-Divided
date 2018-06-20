@@ -1,0 +1,27 @@
+state={
+	id=397
+	name="STATE_397"
+	resources = {
+		wood = 6
+		iron = 34
+		food = 23
+		unskilled = 2
+		skilled = 17
+	}
+	history={
+		owner = PEN
+		add_core_of = PEN
+		buildings = {
+			arms_factory = 6
+			industrial_complex = 6
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		3470 3501 3517 3577 3591 3630 3642 3653 3707 3708 
+	}
+	manpower=263337
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

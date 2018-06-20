@@ -1,0 +1,23 @@
+state={
+	id=110
+	name="STATE_110"
+	resources = {
+		wood = 4
+		textile = 2
+	}
+	state_category=large_city
+	history={
+		owner = FLO
+		add_core_of = FLO
+		buildings = {
+			infrastructure = 3
+		}
+
+
+	}
+	provinces={
+		411 442 524 525 526 532 
+	}
+	manpower=6870
+	buildings_max_level_factor=1.000
+}

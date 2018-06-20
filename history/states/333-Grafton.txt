@@ -1,0 +1,25 @@
+state={
+	id=333
+	name="STATE_333"
+	resources = {
+		wood = 1
+		iron = 50
+		food = 20
+		unskilled = 4
+		skilled = 23
+	}
+	history={
+		owner = HAM
+		add_core_of = HAM
+		buildings = {
+			infrastructure = 10
+		}
+
+	}
+	provinces={
+		4370 4430 4461 4495 4511 4530 4604 4605 4622 
+	}
+	manpower=107342
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

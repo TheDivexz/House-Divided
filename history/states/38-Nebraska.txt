@@ -1,0 +1,24 @@
+
+state={
+	id=38
+	name="STATE_38"
+		resources={
+		unskilled = 19
+	}
+	history={
+		owner = NEB
+		add_core_of = NEB
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+		}
+
+	}
+
+	provinces={
+		3597 3600 3689 3749 
+	}
+	manpower=8915
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

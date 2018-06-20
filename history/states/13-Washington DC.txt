@@ -1,0 +1,23 @@
+state={
+	id=13
+	name="STATE_13"
+		resources={
+		unskilled = 16
+		skilled = 13
+	}
+	history={
+		owner = WDC
+		add_core_of = WDC
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 5
+		}
+
+	}
+	state_category = large_city
+	provinces={
+		3015 
+	}
+	manpower=75080
+	buildings_max_level_factor=1.000
+}

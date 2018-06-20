@@ -1,0 +1,19 @@
+state={
+	id=526
+	name="STATE_526"
+		resources={
+		unskilled = 6
+		skilled = 3
+	}
+	history={
+		owner = NEB
+		add_core_of = NEB
+
+	}
+	provinces={
+		3889 3891 4004 4005 4040 4110 4113 4151 4168 4189 
+	}
+	manpower=490
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

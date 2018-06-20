@@ -1,0 +1,21 @@
+state={
+	id=244
+	name="STATE_244"
+	resources = {
+		wood = 1
+		food = 1
+		unskilled = 2
+		skilled = 4
+	}
+	history={
+		owner = KEN
+		add_core_of = KEN
+
+	}
+	provinces={
+		2847 2884 2968 3012 
+	}
+	manpower=32362
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

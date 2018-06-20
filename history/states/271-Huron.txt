@@ -1,0 +1,24 @@
+state={
+	id=271
+	name="STATE_271"
+	resources = {
+		wood = 5
+		food = 4
+		unskilled = 4
+		skilled = 5
+	}
+	history={
+		owner = MIC
+		add_core_of = MIC
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+	provinces={
+		4230 4303 4306 4378 4519 
+	}
+	manpower=52298
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

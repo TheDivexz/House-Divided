@@ -1,0 +1,25 @@
+state={
+	id=79
+	name="STATE_79"
+	resources = {
+		wood = 5
+		iron = 8
+		textile = 8
+		unskilled = 3
+		skilled = 4
+	}
+	state_category = large_city
+	history={
+		owner = ALA
+		add_core_of = ALA
+		buildings= {
+			infrastructure = 2
+		}
+
+	}
+	provinces={
+		1218 1219 1222 1323 1337 1427 1473 
+	}
+	manpower=65254
+	buildings_max_level_factor=1.000
+}

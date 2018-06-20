@@ -1,0 +1,24 @@
+
+state={
+	id=42
+	name="STATE_42"
+		resources={
+		iron = 16
+		unskilled = 80
+	}
+	history={
+		owner = NEB
+		add_core_of = NDO
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 4
+		}
+
+	}
+	state_category = large_city
+	provinces={
+		5021 5024 5029 5030 5031 5032 5051 5086 5088 5097 5101 5102 5136 5140 5141 5148 5149 5150 5162 5184 5206 5207 5208 5211 5235 5236 5244 5248 5261 5267 5284 5285 5307 5312 5328 5329 5338 5393 5406 5408 5414 
+	}
+	manpower=4837
+	buildings_max_level_factor=1.000
+}

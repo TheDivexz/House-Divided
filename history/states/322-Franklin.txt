@@ -1,0 +1,25 @@
+state={
+	id=322
+	name="STATE_322"
+	resources = {
+		wood = 1
+		textile = 2
+		unskilled = 6
+		skilled = 3
+	}
+	history={
+		owner = MIU
+		add_core_of = MIU
+		buildings = {
+			arms_factory = 1
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		2718 2750 2779 2780 2784 2793 2830 2837 
+	}
+	manpower=42491
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}
