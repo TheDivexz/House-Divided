@@ -27,7 +27,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = fascism
+	ruling_party = democratic
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -35,20 +35,20 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+#Starting Governor until december 1858
 create_country_leader = {
-	name = "King Zog"
+	name = "John A. King"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	picture = "Portrait_NewYork_John_King.png"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = conservatism
 	traits = {
 		#
 	}
 }
 
 create_field_marshal = {
-	name = "Xhemal Aranitasi"
+	name = "Don. J. Trumpet"
 	picture = "Portrait_Europe_Generic_land_3.dds"
 	skill = 1
 }
