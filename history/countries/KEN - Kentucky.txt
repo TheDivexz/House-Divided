@@ -35,13 +35,27 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+
+#The Magoffin, Starts as Union, but converts to -
+#- Confederacy & is governor until 1862
 create_country_leader = {
-	name = "King Zog"
+	name = "Beriah Magoffin"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	picture = "Portrait_Kentucky_Beriah_Magoffin.png"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
+
+#Slaughter Morehead! Wacky Name! Starting governor until 1859
+create_country_leader = {
+	name = "C. Slaughter Morehead"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Kentucky_Slaughter_Morehead.png"
+	expire = "1965.1.1"
+	ideology = conservatism
 	traits = {
 		#
 	}
