@@ -27,7 +27,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = democratic
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -35,13 +35,27 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+
+
+#Emersons transition into Confederate, govna until the end of the war
 create_country_leader = {
-	name = "King Zog"
+	name = "Joseph E. Brown"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	picture = "Portrait_Georgia_Joseph_E_Brown.png"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = stalinism
+	traits = {
+		#
+	}
+}
+
+#Union Governor until 1861 transition
+create_country_leader = {
+	name = "Joseph E. Brown"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Georgia_Joseph_E_Brown.png"
+	expire = "1965.1.1"
+	ideology = liberalism
 	traits = {
 		#
 	}
