@@ -12,11 +12,11 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 71
+			popularity = 100
 		}
 
 		communism = {
-			popularity = 29
+			popularity = 0
 		}
 		
 		fascism = {
@@ -27,7 +27,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = fascism
+	ruling_party = democratic
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -35,20 +35,20 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+#John B Weller, Governor until January 9th 1860
 create_country_leader = {
-	name = "King Zog"
+	name = "John B. Weller"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	picture = "Portrait_California_John_Weller.png"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = conservatism
 	traits = {
 		#
 	}
 }
 
 create_field_marshal = {
-	name = "Xhemal Aranitasi"
+	name = "Reagan"
 	picture = "Portrait_Europe_Generic_land_3.dds"
 	skill = 1
 }
