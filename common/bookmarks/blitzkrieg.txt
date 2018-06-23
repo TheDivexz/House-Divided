@@ -13,8 +13,64 @@ bookmarks = {
 			focuses = {
 			}
 		}
-	
 		
+		TEX = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}	
+		SCA = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+		VIR = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+		YOR = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+		CAL = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+		OHI = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+		KEN = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+
 		"---"={
 			history = "OTHER_BLITZKRIEG_DESC"
 		}
