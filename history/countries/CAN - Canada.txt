@@ -53,3 +53,5 @@ create_field_marshal = {
 	skill = 1
 }
 
+create_faction = British_Empire
+add_to_faction = CAN

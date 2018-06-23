@@ -53,3 +53,56 @@ create_field_marshal = {
 	skill = 1
 }
 
+create_faction = UnitedStates
+add_to_faction = WDC
+add_to_faction = ALA
+add_to_faction = ARI
+add_to_faction = ARK
+add_to_faction = CAL
+add_to_faction = COL
+add_to_faction = CUN
+add_to_faction = DEL
+add_to_faction = FLO
+add_to_faction = GEO
+add_to_faction = HAM
+add_to_faction = IDA
+add_to_faction = ILL
+add_to_faction = IND
+add_to_faction = IOW
+add_to_faction = JER
+add_to_faction = KAN
+add_to_faction = KEN
+add_to_faction = LOU
+add_to_faction = MAI
+add_to_faction = MAR
+add_to_faction = MAS
+add_to_faction = MEX
+add_to_faction = MIC
+add_to_faction = MIN
+add_to_faction = MIS
+add_to_faction = MIU
+add_to_faction = MON
+add_to_faction = NCA
+add_to_faction = NDO
+add_to_faction = NEB
+add_to_faction = NEV
+add_to_faction = OHI
+add_to_faction = OKL
+add_to_faction = ORE
+add_to_faction = PEN
+add_to_faction = RHO
+add_to_faction = SCA
+add_to_faction = SDA
+add_to_faction = TEN
+add_to_faction = TEX
+add_to_faction = UTA
+add_to_faction = VER
+add_to_faction = VIR
+add_to_faction = WAS
+add_to_faction = WIS
+add_to_faction = WYO
+add_to_faction = YOR
+
+
+
+

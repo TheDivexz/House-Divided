@@ -53,3 +53,5 @@ create_field_marshal = {
 	skill = 1
 }
 
+create_faction = Mexico
+add_to_faction = MEJ
