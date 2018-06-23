@@ -1,4 +1,8 @@
 
+
+
+
+
 music = {
 	song = "dixie_land"
 	chance = {
@@ -6,6 +10,31 @@ music = {
 			factor = 0.5
 		}		
 	}
+}
+
+#West Virginia
+
+music = {
+	song = "country_roads"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = WVI
+				}
+			}
+		}	
+		modifier = {
+			factor = 10
+			OR = {
+				original_tag = WVI
+			}
+		}
+	}
+
 }
 
 # PEACE SONGS ##################
