@@ -83,11 +83,6 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "dixie_union_verson"
-	file = "dixie_union_verson.ogg"
-	volume = 0.65
-}
-music = {
 	name = "when_johnny_comes_marching_home"
 	file = "when_johnny_comes_marching_home.ogg"
 	volume = 0.65
