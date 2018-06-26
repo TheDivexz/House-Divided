@@ -12,11 +12,11 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 97
+			popularity = 100
 		}
 
 		communism = {
-			popularity = 3
+			popularity = 0
 		}
 		
 		fascism = {
@@ -27,7 +27,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = fascism
+	ruling_party = democratic
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -35,20 +35,20 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+#.gov Oven or of New Hampshire until june 2nd, 1859
 create_country_leader = {
-	name = "King Zog"
+	name = "William Haile"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	picture = "Portrait_Hampshire_William_Haile.png"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = conservatism
 	traits = {
 		#
 	}
 }
 
 create_field_marshal = {
-	name = "Xhemal Aranitasi"
+	name = "Phil"
 	picture = "Portrait_Europe_Generic_land_3.dds"
 	skill = 1
 }
