@@ -776,10 +776,6 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		dependencies = {
-			motorised_infantry = 1
-		}
-
 		research_cost = 2
 		start_year = 1936
 		folder = {
@@ -951,11 +947,6 @@ technologies = {
 			leads_to_tech = tech_logistics_company2
 			research_cost_coeff = 1
 		}
-
-		dependencies = {
-			motorised_infantry = 1
-		}
-
 		research_cost = 2
 		start_year = 1936
 		folder = {
@@ -1129,11 +1120,6 @@ technologies = {
 		path = {
 			leads_to_tech = tech_signal_company2
 			research_cost_coeff = 1
-		}
-
-		dependencies = {
-			radio = 1
-			motorised_infantry = 1
 		}
 
 		research_cost = 2
