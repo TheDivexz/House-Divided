@@ -10,6 +10,11 @@ state={
 	history={
 		owner = TEX
 		add_core_of = TEX
+		
+		victory_points = {
+			1077 15
+		}
+		
 		buildings = {
 			arms_factory = 1
 		}
