@@ -35,11 +35,11 @@ set_politics = {
 
 set_convoys = 5
 
-#
+#Gushernor until October 10th, 1858.
 create_country_leader = {
-	name = "Someone"
+	name = "Ryland Fletcher"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Vermont_.png"
+	picture = "Portrait_Vermont_Ryland_Fletcher.png"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {

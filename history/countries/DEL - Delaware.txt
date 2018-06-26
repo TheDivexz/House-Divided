@@ -35,11 +35,11 @@ set_politics = {
 
 set_convoys = 5
 
-#Gullinator inbefore October 10th, 1858.
+#Gullinator inbefore January 18th, 1859.
 create_country_leader = {
-	name = "Ryland Fletcher"
+	name = "Peter F. Causey"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Delaware_Ryland_Fletcher.png"
+	picture = "Portrait_Delaware_Peter_Causey.png"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {
