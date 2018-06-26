@@ -121,17 +121,6 @@ ideas = {
 			
 			available = {
 				has_war_support > 0.25
-
-				if = {
-					limit = {
-						original_tag = HUN
-						has_dlc = "Death or Dishonor"
-					}
-					OR = {
-						has_completed_focus = HUN_secret_rearmament
-						NOT = { has_idea = HUN_treaty_of_triannon }
-					}
-				}
 			}
 
 			cost = 150
@@ -221,14 +210,6 @@ ideas = {
 						ratio > 0.5
 					}
 				}
-
-				if = {
-					limit = {
-						original_tag = HUN
-						has_dlc = "Death or Dishonor"
-					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
-				}
 			}
 
 			ai_will_do = {
@@ -296,13 +277,6 @@ ideas = {
 			
 			available = {
 
-				if = {
-					limit = {
-						original_tag = CHI
-						has_dlc = "Waking the Tiger"
-					}
-					NOT = { has_idea = CHI_nine_power_treaty }
-				}
 			}
 			
 			

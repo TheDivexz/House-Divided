@@ -9,7 +9,6 @@ state={
 		textile = 2
 		unskilled = 6
 		skilled = 3
-		steel = 2
 	}
 	state_category = large_city
 	history={
