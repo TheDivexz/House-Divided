@@ -12,6 +12,15 @@ state={
 	history={
 		owner = ORE
 		add_core_of = ORE
+		
+		victory_points = {
+			4763 50 
+		}
+		
+		victory_points = {
+			4922 10
+		}
+		
 		buildings = {
 			arms_factory = 2
 			industrial_complex = 4

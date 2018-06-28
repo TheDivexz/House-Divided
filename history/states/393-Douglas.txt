@@ -10,6 +10,10 @@ state={
 	history={
 		owner = ORE
 		add_core_of = ORE
+		
+		victory_points = {
+			4266 5 
+		}
 
 	}
 	provinces={

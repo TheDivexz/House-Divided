@@ -4,6 +4,11 @@ state={
 	history={
 		owner = WAS
 		add_core_of = WAS
+		
+		victory_points = {
+			5174 50
+		}
+		
 		buildings = {
 			arms_factory = 2
 			industrial_complex = 4
