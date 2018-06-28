@@ -8,6 +8,11 @@ state={
 	history={
 		owner = UTA
 		add_core_of = NEV
+		
+		victory_points = {
+			3101 25
+		}
+		
 		buildings = {
 			arms_factory = 2
 			industrial_complex = 4

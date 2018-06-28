@@ -11,6 +11,11 @@ state={
 	history={
 		owner = CAL
 		add_core_of = CAL
+		
+		victory_points = {
+			2740 50
+		}
+		
 		buildings = {
 			arms_factory = 2
 			industrial_complex = 4
