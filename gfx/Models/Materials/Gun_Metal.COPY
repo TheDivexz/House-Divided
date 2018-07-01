@@ -1,0 +1,162 @@
+Begin Object Class=/Script/Engine.Material Name="Gun_Metal"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVertexNormalWS Name="MaterialExpressionVertexNormalWS_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDesaturation Name="MaterialExpressionDesaturation_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVertexNormalWS_0"
+      MaterialExpressionEditorX=-848
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=F9B90A6740FDE4EBB76E86A43C8F2BD1
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Texture=Texture2D'"/Game/Gun_Textures/GunmetalBitmap2Material_3_Normal.GunmetalBitmap2Material_3_Normal"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=235
+      MaterialExpressionGuid=E0556D4F43054240414B669C85B9E779
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/Gun_Textures/GunmetalBitmap2Material_3_Base_Color.GunmetalBitmap2Material_3_Base_Color"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-800
+      MaterialExpressionEditorY=64
+      MaterialExpressionGuid=860774C44139D42A23F8639E6D23E178
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionVertexNormalWS'"Gun_Metal:MaterialExpressionVertexNormalWS_0"')
+      B=(Expression=MaterialExpressionConstant'"Gun_Metal:MaterialExpressionConstant_5"')
+      MaterialExpressionEditorX=-592
+      MaterialExpressionEditorY=464
+      MaterialExpressionGuid=2CD51C9E44D1130C0680A896AD8FD9DB
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionTextureSample'"Gun_Metal:MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"Gun_Metal:MaterialExpressionConstant_1"')
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=28D9EB164177EC8E44CF27B21244EB31
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionDesaturation_0"
+      Input=(Expression=MaterialExpressionMultiply'"Gun_Metal:MaterialExpressionMultiply_0"')
+      Fraction=(Expression=MaterialExpressionConstant'"Gun_Metal:MaterialExpressionConstant_0"')
+      MaterialExpressionEditorX=-224
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=294134D84F6B598AE846C1BD5FA64848
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1"
+      Constant=(R=0.276042,G=0.276042,B=0.276042,A=0.000000)
+      MaterialExpressionEditorX=-336
+      MaterialExpressionEditorY=496
+      MaterialExpressionGuid=D37F76C146F659728D1EF5B7167DB9AD
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=FD5CEB8849A0D3AD3923A8A9DA44A5F8
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_5"
+      R=2.000000
+      MaterialExpressionEditorX=-688
+      MaterialExpressionEditorY=544
+      MaterialExpressionGuid=DDDD97734DF5E737A1E83DAFAF84B67A
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_4"
+      MaterialExpressionEditorX=-208
+      MaterialExpressionEditorY=-144
+      MaterialExpressionGuid=94566AAE4C89FC2D5D92738A8772BBAC
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=0.200000
+      MaterialExpressionEditorX=-176
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=D95F3B394C6DCE3F2FA415AFE7FEBE15
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      R=1.000000
+      MaterialExpressionEditorX=-208
+      MaterialExpressionEditorY=-64
+      MaterialExpressionGuid=3CE981AC4BACCDC0CAD39296B9054F08
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=0.500000
+      MaterialExpressionEditorX=-592
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=E826CC124463E39F786F56AD3249111D
+      Material=Material'"Gun_Metal"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=0.250000
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=B76457A541821AC9E4CD5C9AA67DFEE1
+      Material=Material'"Gun_Metal"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionDesaturation'"MaterialExpressionDesaturation_0"')
+   Metallic=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_2"')
+   Specular=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_3"')
+   Roughness=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_4"')
+   Normal=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   EmissiveColor=(Expression=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"')
+   AmbientOcclusion=(Expression=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_1"')
+   PixelDepthOffset=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_1"')
+   Expressions(0)=MaterialExpressionDesaturation'"MaterialExpressionDesaturation_0"'
+   Expressions(1)=MaterialExpressionConstant'"MaterialExpressionConstant_2"'
+   Expressions(2)=MaterialExpressionConstant'"MaterialExpressionConstant_3"'
+   Expressions(3)=MaterialExpressionConstant'"MaterialExpressionConstant_4"'
+   Expressions(4)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"'
+   Expressions(5)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   Expressions(6)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_1"'
+   Expressions(7)=MaterialExpressionMultiply'"MaterialExpressionMultiply_1"'
+   Expressions(8)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   Expressions(9)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(10)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(11)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(12)=MaterialExpressionConstant'"MaterialExpressionConstant_5"'
+   Expressions(13)=MaterialExpressionVertexNormalWS'"MaterialExpressionVertexNormalWS_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=2D075A09474EFED084588EB9A101F873
+   ReferencedTextureGuids(0)=913138444C3D3138B86F6EB70690951A
+   ReferencedTextureGuids(1)=15B135554D96040970A60B9B361B985B
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=D9F96D5A42F83536CC689A96BB94F5AB
+End Object
