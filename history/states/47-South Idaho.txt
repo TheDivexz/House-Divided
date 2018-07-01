@@ -7,6 +7,11 @@ state={
 	history={
 		owner = ORE
 		add_core_of = IDA
+		
+		victory_points = {
+			4358 40 
+		}
+		
 		buildings = {
 			arms_factory = 2
 			industrial_complex = 4

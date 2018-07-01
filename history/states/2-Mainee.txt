@@ -3,7 +3,6 @@ state={
 	id=2
 	name="STATE_2"
 	resources={
-		steel = 1
 		iron = 2
 		wood = 21
 		food = 1

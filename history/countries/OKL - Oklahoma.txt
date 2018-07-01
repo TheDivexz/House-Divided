@@ -3,7 +3,7 @@
 OOB = "OKL_1858"
 
 set_technology = {
-	infantry_weapons = 1
+	kentucky_rifle = 1
 	tech_support = 1
 	tech_recon = 1
 }
@@ -35,11 +35,11 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+#Indian Occupation of rightful american territory
 create_country_leader = {
-	name = "King Zog"
+	name = "Indian Tribes"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	picture = "Portrait_Oklahoma_Indians.png"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {

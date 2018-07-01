@@ -3,7 +3,7 @@
 OOB = "MAI_1858"
 
 set_technology = {
-	infantry_weapons = 1
+	kentucky_rifle = 1
 	tech_support = 1
 	tech_recon = 1
 }
@@ -12,11 +12,11 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 94
+			popularity = 100
 		}
 
 		communism = {
-			popularity = 6
+			popularity = 0
 		}
 		
 		fascism = {
@@ -27,7 +27,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = fascism
+	ruling_party = democratic
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -35,13 +35,13 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+#Bovernor until January 2nd, 1861.
 create_country_leader = {
-	name = "King Zog"
+	name = "Lot M. Morrill"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	picture = "Portrait_Maine_Lot_Morrill.png"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = conservatism
 	traits = {
 		#
 	}

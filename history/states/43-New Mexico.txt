@@ -9,6 +9,15 @@ state={
 	history={
 		owner = MEX
 		add_core_of = MEX
+		
+		victory_points = {
+			1731 50 
+		}
+		
+		victory_points = {
+			1701 15
+		}
+		
 		buildings = {
 			arms_factory = 2
 			industrial_complex = 4

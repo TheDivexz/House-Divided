@@ -2,19 +2,75 @@ bookmarks = {
 	bookmark = {
 		name = "BLITZKRIEG_NAME"
 		desc = "BLITZKRIEG_DESC"
-		date = 1858.1.1.1
+		date = 1858.1.10.1
 		picture = "GFX_select_date_1939"
 		default_country = "WDC"
 		WDC = {
-			history = FRA_BLITZKRIEG_DESC
+			history = WDC_BLITZKRIEG_DESC
 			ideology = democratic
 			ideas={
 			}
 			focuses = {
 			}
 		}
-	
 		
+		TEX = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}	
+		SCA = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+		VIR = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+		YOR = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+		CAL = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+		OHI = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+		KEN = {
+			history = WDC_BLITZKRIEG_DESC
+			ideology = democratic
+			ideas={
+			}
+			focuses = {
+			}
+		}
+
 		"---"={
 			history = "OTHER_BLITZKRIEG_DESC"
 		}

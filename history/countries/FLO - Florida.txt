@@ -3,7 +3,7 @@ capital = 19
 OOB = "FLO_1858"
 
 set_technology = {
-	infantry_weapons = 1
+	kentucky_rifle = 1
 	tech_support = 1
 	tech_recon = 1
 }
@@ -27,7 +27,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = democratic
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -35,13 +35,13 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+#Starting governor until 1861
 create_country_leader = {
-	name = "King Zog"
+	name = "Madison S. Perry"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	picture = "Portrait_Florida_Madison_Perry.png"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = conservatism
 	traits = {
 		#
 	}

@@ -9,6 +9,11 @@ state={
 	history={
 		owner = MEX
 		add_core_of = ARI
+
+		victory_points = {
+			1169 50 
+		}
+		
 		buildings = {
 			arms_factory = 2
 			industrial_complex = 4

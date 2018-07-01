@@ -54,7 +54,6 @@ focus_tree = {
 		id = motorization_effort
 		icon = GFX_goal_generic_army_motorized
 		prerequisite = { focus = army_effort }
-		bypass = { has_tech = motorised_infantry }
 		x = 1
 		y = 1
 		relative_position_id = army_effort
@@ -63,11 +62,6 @@ focus_tree = {
 		available_if_capitulated = yes
 
 		completion_reward = {
-			add_tech_bonus = {
-				name = motorized_bonus
-				bonus = 0.75
-				technology = motorised_infantry
-			}
 		}
 	}
 
@@ -213,21 +207,6 @@ focus_tree = {
 		cost = 10
 
 		available_if_capitulated = yes
-
-		completion_reward = {
-			add_ideas = special_forces
-			add_tech_bonus = {
-				name = special_forces_bonus
-				bonus = 0.5
-				uses = 1
-				technology = paratroopers
-				technology = paratroopers2
-				technology = marines
-				technology = marines2
-				technology = tech_mountaineers
-				technology = tech_mountaineers2
-			}
-		}
 	}
 
 	focus = {

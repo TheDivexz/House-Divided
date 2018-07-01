@@ -3,7 +3,7 @@
 OOB = "WDC_1858"
 
 set_technology = {
-	infantry_weapons = 1
+	kentucky_rifle = 1
 	tech_support = 1
 	tech_recon = 1
 }
@@ -12,7 +12,7 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 0
+			popularity = 100
 		}
 
 		communism = {
@@ -23,11 +23,11 @@ set_politics = {
 			popularity = 0
 		}
 		neutrality = { 
-			popularity = 100
+			popularity = 0
 		}
 	}
 	
-	ruling_party = neutrality
+	ruling_party = democratic
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -35,13 +35,13 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
+#James Buchanan the presidential Failure
 create_country_leader = {
-	name = "King Zog"
+	name = "James Buchanan"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
+	picture = "Portrait_USA_James_Buchanan.png"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = conservatism
 	traits = {
 		#
 	}
@@ -52,4 +52,57 @@ create_field_marshal = {
 	picture = "Portrait_Europe_Generic_land_3.dds"
 	skill = 1
 }
+
+create_faction = UnitedStates
+add_to_faction = WDC
+add_to_faction = ALA
+add_to_faction = ARI
+add_to_faction = ARK
+add_to_faction = CAL
+add_to_faction = COL
+add_to_faction = CUN
+add_to_faction = DEL
+add_to_faction = FLO
+add_to_faction = GEO
+add_to_faction = HAM
+add_to_faction = IDA
+add_to_faction = ILL
+add_to_faction = IND
+add_to_faction = IOW
+add_to_faction = JER
+add_to_faction = KAN
+add_to_faction = KEN
+add_to_faction = LOU
+add_to_faction = MAI
+add_to_faction = MAR
+add_to_faction = MAS
+add_to_faction = MEX
+add_to_faction = MIC
+add_to_faction = MIN
+add_to_faction = MIS
+add_to_faction = MIU
+add_to_faction = MON
+add_to_faction = NCA
+add_to_faction = NDO
+add_to_faction = NEB
+add_to_faction = NEV
+add_to_faction = OHI
+add_to_faction = OKL
+add_to_faction = ORE
+add_to_faction = PEN
+add_to_faction = RHO
+add_to_faction = SCA
+add_to_faction = SDA
+add_to_faction = TEN
+add_to_faction = TEX
+add_to_faction = UTA
+add_to_faction = VER
+add_to_faction = VIR
+add_to_faction = WAS
+add_to_faction = WIS
+add_to_faction = WYO
+add_to_faction = YOR
+
+
+
 

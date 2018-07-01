@@ -12,6 +12,10 @@ state={
 	history={
 		owner = CAL
 		add_core_of = CAL
+		
+		victory_points = {
+			2878 20
+		}
 
 	}
 	provinces={
