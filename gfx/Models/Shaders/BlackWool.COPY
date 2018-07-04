@@ -1,106 +1,122 @@
 Begin Object Class=/Script/Engine.Material Name="BlackWool"
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVertexColor Name="MaterialExpressionVertexColor_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_7"
+   End Object
    Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
-   End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
-   End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
    End Object
    Begin Object Class=/Script/Engine.MaterialExpressionVertexNormalWS Name="MaterialExpressionVertexNormalWS_1"
    End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_12"
-   End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_9"
-   End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_8"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_3"
    End Object
    Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
    End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_7"
-   End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
-   End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_3"
-   End Object
    Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
-   End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_3"
-   End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_2"
    End Object
    Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
    End Object
    Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
    End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDesaturation Name="MaterialExpressionDesaturation_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_12"
+   End Object
    Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_11"
    End Object
    Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_10"
    End Object
-   Begin Object Class=/Script/Engine.MaterialExpressionDesaturation Name="MaterialExpressionDesaturation_0"
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=0.296875,G=0.296875,B=0.296875,A=0.000000)
+      MaterialExpressionEditorX=-768
+      MaterialExpressionEditorY=-96
+      MaterialExpressionGuid=D8DC9FBD4DFFD0239D93F588DDD1F6AF
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_5"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.Blend_Darken"'
+      FunctionInputs(0)=(ExpressionInputId=A591DEF24B8DE9173A27AE80DCEF3259,Input=(Expression=MaterialExpressionDivide'"BlackWool:MaterialExpressionDivide_8"',InputName="Blend"))
+      FunctionInputs(1)=(ExpressionInputId=A2AC794848506B955B2643B4D7D5E64E,Input=(Expression=MaterialExpressionConstant3Vector'"BlackWool:MaterialExpressionConstant3Vector_0"',InputName="Base"))
+      FunctionOutputs(0)=(ExpressionOutputId=085286B14E9452E3918853BB8CB1AB7D,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-608
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=FC63B73146523DD64CB42986E2AED0C6
+      Material=Material'"BlackWool"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionConstant_19"
+      R=2.000000
+      MaterialExpressionEditorX=-880
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=79B0703942E4DEAA446C6E8B852FA0AC
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_8"
+      A=(Expression=MaterialExpressionTextureSample'"BlackWool:MaterialExpressionTextureSample_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"BlackWool:MaterialExpressionConstant_19"')
+      MaterialExpressionEditorX=-752
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=E06067A4460C90860AA0278259910AA5
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_18"
+      R=2.000000
+      MaterialExpressionEditorX=-256
+      MaterialExpressionEditorY=496
+      MaterialExpressionGuid=0985F0D04C0E301D7D8BD1872FB904E0
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionVertexColor_5"
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=784
+      MaterialExpressionGuid=5E420B5B4C71C852368246A164098A4B
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_8"
+      A=(Expression=MaterialExpressionMultiply'"BlackWool:MaterialExpressionMultiply_3"')
+      B=(Expression=MaterialExpressionVertexColor'"BlackWool:MaterialExpressionVertexColor_5"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-240
+      MaterialExpressionEditorY=576
+      MaterialExpressionGuid=235A37D541A3E789CD8759BE94185BB8
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_7"
+      A=(Expression=MaterialExpressionMultiply'"BlackWool:MaterialExpressionMultiply_8"')
+      B=(Expression=MaterialExpressionConstant'"BlackWool:MaterialExpressionConstant_18"')
+      MaterialExpressionEditorX=-144
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=11B3B2AF4330B7F0EEC5E8B051A5F99D
+      Material=Material'"BlackWool"'
    End Object
    Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
-   End Object
-   Begin Object Name="MaterialExpressionConstant_1"
-      R=0.500000
-      MaterialExpressionEditorX=-496
-      MaterialExpressionEditorY=160
-      MaterialExpressionGuid=59C0359844640E24736ED991B63167AB
-      Material=Material'"BlackWool"'
-   End Object
-   Begin Object Name="MaterialExpressionConstant_0"
-      R=2.000000
-      MaterialExpressionEditorX=-400
-      MaterialExpressionEditorY=-32
-      MaterialExpressionGuid=DAAA3C274331A3AF66F4AF9E12A3A6F4
-      Material=Material'"BlackWool"'
    End Object
    Begin Object Name="MaterialExpressionVertexNormalWS_1"
       MaterialExpressionEditorX=-672
       MaterialExpressionEditorY=672
       MaterialExpressionGuid=2F647C0A40CC6B29F5E745A150C5B60D
-      Material=Material'"BlackWool"'
-   End Object
-   Begin Object Name="MaterialExpressionConstant_12"
-      R=2.000000
-      MaterialExpressionEditorX=-528
-      MaterialExpressionEditorY=768
-      MaterialExpressionGuid=2A58F449448A6D3DD631D4836B9A51DD
-      Material=Material'"BlackWool"'
-   End Object
-   Begin Object Name="MaterialExpressionConstant_9"
-      R=1.000000
-      MaterialExpressionEditorX=-576
-      MaterialExpressionEditorY=352
-      MaterialExpressionGuid=24735F8A4E6EE02FEBAD34996A3B5EF2
-      Material=Material'"BlackWool"'
-   End Object
-   Begin Object Name="MaterialExpressionConstant_8"
-      R=0.500000
-      MaterialExpressionEditorX=-576
-      MaterialExpressionEditorY=192
-      MaterialExpressionGuid=083FFC20483A870F07C5B691EBB56873
-      Material=Material'"BlackWool"'
-   End Object
-   Begin Object Name="MaterialExpressionTextureSample_2"
-      Texture=Texture2D'"/Game/textures/Black_WoolBitmap2Material_3_Base_Color.Black_WoolBitmap2Material_3_Base_Color"'
-      SamplerType=SAMPLERTYPE_LinearColor
-      MaterialExpressionEditorX=-944
-      MaterialExpressionEditorY=32
-      MaterialExpressionGuid=B188AFE849732B454F0CCBA3D4D5C61B
-      Material=Material'"BlackWool"'
-   End Object
-   Begin Object Name="MaterialExpressionConstant_7"
-      R=0.500000
-      MaterialExpressionEditorX=-768
-      MaterialExpressionEditorY=112
-      MaterialExpressionGuid=0EF348614751411360D275AFFF2A1C25
-      Material=Material'"BlackWool"'
-   End Object
-   Begin Object Name="MaterialExpressionMultiply_2"
-      A=(Expression=MaterialExpressionTextureSample'"BlackWool:MaterialExpressionTextureSample_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
-      B=(Expression=MaterialExpressionConstant'"BlackWool:MaterialExpressionConstant_7"')
-      MaterialExpressionEditorX=-560
-      MaterialExpressionEditorY=64
-      MaterialExpressionGuid=33DC113B4ABE10E55A02CA8AC4143C8E
       Material=Material'"BlackWool"'
    End Object
    Begin Object Name="MaterialExpressionTextureSample_3"
@@ -111,24 +127,20 @@ Begin Object Class=/Script/Engine.Material Name="BlackWool"
       MaterialExpressionGuid=584737D04A2EA0C7A6AD04AA7F4F8013
       Material=Material'"BlackWool"'
    End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'"/Game/textures/Black_WoolBitmap2Material_3_Base_Color.Black_WoolBitmap2Material_3_Base_Color"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-944
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=B188AFE849732B454F0CCBA3D4D5C61B
+      Material=Material'"BlackWool"'
+   End Object
    Begin Object Name="MaterialExpressionMultiply_3"
       A=(Expression=MaterialExpressionVertexNormalWS'"BlackWool:MaterialExpressionVertexNormalWS_1"')
       B=(Expression=MaterialExpressionConstant'"BlackWool:MaterialExpressionConstant_12"')
       MaterialExpressionEditorX=-437
       MaterialExpressionEditorY=668
       MaterialExpressionGuid=56D0FCB94A75E5E0E1C04DA76483FA6E
-      Material=Material'"BlackWool"'
-   End Object
-   Begin Object Name="MaterialExpressionConstant3Vector_3"
-      MaterialExpressionEditorX=-560
-      MaterialExpressionEditorY=464
-      MaterialExpressionGuid=CCBA65B94A16932D128B99B978BCEC7B
-      Material=Material'"BlackWool"'
-   End Object
-   Begin Object Name="MaterialExpressionConstant3Vector_2"
-      MaterialExpressionEditorX=-320
-      MaterialExpressionEditorY=304
-      MaterialExpressionGuid=3E97807E42FA0349C98677B67B1A405B
       Material=Material'"BlackWool"'
    End Object
    Begin Object Name="MaterialExpressionMultiply_0"
@@ -148,6 +160,47 @@ Begin Object Class=/Script/Engine.Material Name="BlackWool"
       MaterialExpressionGuid=AFBBA50244BD75D1858208BDB9A2FFCA
       Material=Material'"BlackWool"'
    End Object
+   Begin Object Name="MaterialExpressionDesaturation_0"
+      Input=(Expression=MaterialExpressionMaterialFunctionCall'"BlackWool:MaterialExpressionMaterialFunctionCall_5"')
+      Fraction=(Expression=MaterialExpressionConstant'"BlackWool:MaterialExpressionConstant_1"')
+      MaterialExpressionEditorX=-336
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=2B4478FC48E086FD4B4215913811771B
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_3"
+      MaterialExpressionEditorX=-560
+      MaterialExpressionEditorY=464
+      MaterialExpressionGuid=CCBA65B94A16932D128B99B978BCEC7B
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_2"
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=3E97807E42FA0349C98677B67B1A405B
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_9"
+      R=1.000000
+      MaterialExpressionEditorX=-576
+      MaterialExpressionEditorY=352
+      MaterialExpressionGuid=24735F8A4E6EE02FEBAD34996A3B5EF2
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_8"
+      R=0.500000
+      MaterialExpressionEditorX=-576
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=083FFC20483A870F07C5B691EBB56873
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_12"
+      R=2.000000
+      MaterialExpressionEditorX=-528
+      MaterialExpressionEditorY=768
+      MaterialExpressionGuid=2A58F449448A6D3DD631D4836B9A51DD
+      Material=Material'"BlackWool"'
+   End Object
    Begin Object Name="MaterialExpressionConstant_11"
       MaterialExpressionEditorX=-272
       MaterialExpressionEditorY=144
@@ -160,12 +213,18 @@ Begin Object Class=/Script/Engine.Material Name="BlackWool"
       MaterialExpressionGuid=0AFDF1974F9D1EEB3466868D3E69ADFC
       Material=Material'"BlackWool"'
    End Object
-   Begin Object Name="MaterialExpressionDesaturation_0"
-      Input=(Expression=MaterialExpressionMultiply'"BlackWool:MaterialExpressionMultiply_2"')
-      Fraction=(Expression=MaterialExpressionConstant'"BlackWool:MaterialExpressionConstant_1"')
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=0.300000
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=96
+      MaterialExpressionGuid=59C0359844640E24736ED991B63167AB
+      Material=Material'"BlackWool"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=2.000000
       MaterialExpressionEditorX=-400
-      MaterialExpressionEditorY=64
-      MaterialExpressionGuid=2B4478FC48E086FD4B4215913811771B
+      MaterialExpressionEditorY=-32
+      MaterialExpressionGuid=DAAA3C274331A3AF66F4AF9E12A3A6F4
       Material=Material'"BlackWool"'
    End Object
    BaseColor=(Expression=MaterialExpressionDesaturation'"MaterialExpressionDesaturation_0"')
@@ -175,7 +234,7 @@ Begin Object Class=/Script/Engine.Material Name="BlackWool"
    Normal=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"')
    EmissiveColor=(Expression=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_2"')
    AmbientOcclusion=(Expression=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_3"')
-   PixelDepthOffset=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"')
+   PixelDepthOffset=(Expression=MaterialExpressionDivide'"MaterialExpressionDivide_7"')
    bUsedWithStaticLighting=True
    EditorY=16
    Expressions(0)=MaterialExpressionDesaturation'"MaterialExpressionDesaturation_0"'
@@ -187,19 +246,26 @@ Begin Object Class=/Script/Engine.Material Name="BlackWool"
    Expressions(6)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_3"'
    Expressions(7)=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"'
    Expressions(8)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_3"'
-   Expressions(9)=MaterialExpressionMultiply'"MaterialExpressionMultiply_2"'
-   Expressions(10)=MaterialExpressionConstant'"MaterialExpressionConstant_7"'
-   Expressions(11)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
-   Expressions(12)=MaterialExpressionConstant'"MaterialExpressionConstant_8"'
-   Expressions(13)=MaterialExpressionConstant'"MaterialExpressionConstant_9"'
-   Expressions(14)=MaterialExpressionConstant'"MaterialExpressionConstant_12"'
-   Expressions(15)=MaterialExpressionVertexNormalWS'"MaterialExpressionVertexNormalWS_1"'
-   Expressions(16)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
-   Expressions(17)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(9)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   Expressions(10)=MaterialExpressionConstant'"MaterialExpressionConstant_8"'
+   Expressions(11)=MaterialExpressionConstant'"MaterialExpressionConstant_9"'
+   Expressions(12)=MaterialExpressionConstant'"MaterialExpressionConstant_12"'
+   Expressions(13)=MaterialExpressionVertexNormalWS'"MaterialExpressionVertexNormalWS_1"'
+   Expressions(14)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   Expressions(15)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(16)=MaterialExpressionMultiply'"MaterialExpressionMultiply_8"'
+   Expressions(17)=MaterialExpressionVertexColor'"MaterialExpressionVertexColor_5"'
+   Expressions(18)=MaterialExpressionDivide'"MaterialExpressionDivide_7"'
+   Expressions(19)=MaterialExpressionConstant'"MaterialExpressionConstant_18"'
+   Expressions(20)=MaterialExpressionDivide'"MaterialExpressionDivide_8"'
+   Expressions(21)=MaterialExpressionConstant'"MaterialExpressionConstant_19"'
+   Expressions(22)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_5"'
+   Expressions(23)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   MaterialFunctionInfos(0)=(StateId=7058934F46DB6582B35FDDAE4F588F95,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.Blend_Darken"')
    bCanMaskedBeAssumedOpaque=True
-   StateId=9B8E7D994D98F12DB591958C3335CDAF
+   StateId=ACE63AA14E0A559DDC80628F9D004C1C
    ReferencedTextureGuids(0)=5B2C8EA440993DE8ECB66A8D4191B66A
    ReferencedTextureGuids(1)=506C22AA4959BD345F0ABDBB74870806
    ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
-   LightingGuid=688D6BFD4933554B1FAFA6B0534C5FD3
+   LightingGuid=0213DB044FEFE16B22ADFDBD101B066E
 End Object
