@@ -1,0 +1,297 @@
+Begin Object Class=/Script/Engine.Material Name="DarkerGunstock"
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVertexColor Name="MaterialExpressionVertexColor_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPixelNormalWS Name="MaterialExpressionPixelNormalWS_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDesaturation Name="MaterialExpressionDesaturation_0"
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1"
+      Constant=(R=0.348958,G=0.271205,B=0.156270,A=0.000000)
+      MaterialExpressionEditorX=-640
+      MaterialExpressionEditorY=-112
+      MaterialExpressionGuid=A0E5B0DF4DE243FE5B1B9EA63818FDB0
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_1"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.Blend_Darken"'
+      FunctionInputs(0)=(ExpressionInputId=A591DEF24B8DE9173A27AE80DCEF3259,Input=(Expression=MaterialExpressionMaterialFunctionCall'"DarkerGunstock:MaterialExpressionMaterialFunctionCall_0"',InputName="Blend"))
+      FunctionInputs(1)=(ExpressionInputId=A2AC794848506B955B2643B4D7D5E64E,Input=(Expression=MaterialExpressionConstant3Vector'"DarkerGunstock:MaterialExpressionConstant3Vector_1"',InputName="Base"))
+      FunctionOutputs(0)=(ExpressionOutputId=085286B14E9452E3918853BB8CB1AB7D,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-464
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=70F8E0744D5F89D5C55F1E811BF45C7C
+      Material=Material'"DarkerGunstock"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=4.000000
+      MaterialExpressionEditorX=-896
+      MaterialExpressionEditorY=80
+      MaterialExpressionGuid=0BCE059E45B9EC5F01026CA6C2393EC5
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_0"
+      A=(Expression=MaterialExpressionTextureSample'"DarkerGunstock:MaterialExpressionTextureSample_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"DarkerGunstock:MaterialExpressionConstant_3"')
+      MaterialExpressionEditorX=-816
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=715D86A24982543351AA99B7D2F77491
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVertexColor_3"
+      MaterialExpressionEditorX=-560
+      MaterialExpressionEditorY=784
+      MaterialExpressionGuid=9F2BFCB149A25AA94B2B5B9E8BA5489F
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_14"
+      R=2.000000
+      MaterialExpressionEditorX=-196
+      MaterialExpressionEditorY=690
+      MaterialExpressionGuid=F133A0994F9F03FBB3CDD0B57AC720A2
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionMultiply'"DarkerGunstock:MaterialExpressionMultiply_3"')
+      B=(Expression=MaterialExpressionVertexColor'"DarkerGunstock:MaterialExpressionVertexColor_3"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-352
+      MaterialExpressionEditorY=640
+      MaterialExpressionGuid=8038C02F4ACB11E96D91689463280013
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionPixelNormalWS_3"
+      MaterialExpressionEditorX=-848
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=E574DD634BB8598A685E58A25BFB1FCB
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=0.250000
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=59C0359844640E24736ED991B63167AB
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=0.354167,G=0.326055,B=0.232422,A=0.000000)
+      MaterialExpressionEditorX=-944
+      MaterialExpressionEditorY=-128
+      MaterialExpressionGuid=645D5A7F40BBFCD9B1CCF1A82814CEF2
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.Blend_Darken"'
+      FunctionInputs(0)=(ExpressionInputId=A591DEF24B8DE9173A27AE80DCEF3259,Input=(Expression=MaterialExpressionDivide'"DarkerGunstock:MaterialExpressionDivide_0"',InputName="Blend"))
+      FunctionInputs(1)=(ExpressionInputId=A2AC794848506B955B2643B4D7D5E64E,Input=(Expression=MaterialExpressionConstant3Vector'"DarkerGunstock:MaterialExpressionConstant3Vector_0"',InputName="Base"))
+      FunctionOutputs(0)=(ExpressionOutputId=085286B14E9452E3918853BB8CB1AB7D,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-640
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=DFE7E7DD431A8890E3DD94AFC9AC8255
+      Material=Material'"DarkerGunstock"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=2.000000
+      MaterialExpressionEditorX=-400
+      MaterialExpressionEditorY=-32
+      MaterialExpressionGuid=DAAA3C274331A3AF66F4AF9E12A3A6F4
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_12"
+      R=2.000000
+      MaterialExpressionEditorX=-720
+      MaterialExpressionEditorY=752
+      MaterialExpressionGuid=2A58F449448A6D3DD631D4836B9A51DD
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_9"
+      R=0.500000
+      MaterialExpressionEditorX=-576
+      MaterialExpressionEditorY=352
+      MaterialExpressionGuid=24735F8A4E6EE02FEBAD34996A3B5EF2
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_8"
+      MaterialExpressionEditorX=-672
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=083FFC20483A870F07C5B691EBB56873
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'"/Game/textures/GunstocklBitmap2Material_3_Base_Color.GunstocklBitmap2Material_3_Base_Color"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-1056
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=B188AFE849732B454F0CCBA3D4D5C61B
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_3"
+      Texture=Texture2D'"/Game/textures/GunstocklBitmap2Material_3_Normal.GunstocklBitmap2Material_3_Normal"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-672
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=584737D04A2EA0C7A6AD04AA7F4F8013
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionPixelNormalWS'"DarkerGunstock:MaterialExpressionPixelNormalWS_3"')
+      B=(Expression=MaterialExpressionConstant'"DarkerGunstock:MaterialExpressionConstant_12"')
+      MaterialExpressionEditorX=-608
+      MaterialExpressionEditorY=656
+      MaterialExpressionGuid=56D0FCB94A75E5E0E1C04DA76483FA6E
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_3"
+      A=(Expression=MaterialExpressionMultiply'"DarkerGunstock:MaterialExpressionMultiply_6"')
+      B=(Expression=MaterialExpressionConstant'"DarkerGunstock:MaterialExpressionConstant_14"')
+      MaterialExpressionEditorX=-160
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=AB67A18E4E2766A753D000A27B01E01A
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_3"
+      Constant=(R=0.333333,G=0.333333,B=0.333333,A=0.000000)
+      MaterialExpressionEditorX=-544
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=CCBA65B94A16932D128B99B978BCEC7B
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_2"
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=3E97807E42FA0349C98677B67B1A405B
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionTextureSample'"DarkerGunstock:MaterialExpressionTextureSample_3"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"DarkerGunstock:MaterialExpressionConstant_0"')
+      MaterialExpressionEditorX=-240
+      MaterialExpressionEditorY=-64
+      MaterialExpressionGuid=699D5B9649888880E728A6A4BF2C5095
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionConstant'"DarkerGunstock:MaterialExpressionConstant_8"')
+      B=(Expression=MaterialExpressionConstant'"DarkerGunstock:MaterialExpressionConstant_9"')
+      Alpha=(Expression=MaterialExpressionTextureSample'"DarkerGunstock:MaterialExpressionTextureSample_2"',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-453
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=AFBBA50244BD75D1858208BDB9A2FFCA
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_11"
+      R=0.250000
+      MaterialExpressionEditorX=-288
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=5691F3604EE1E523EA4BCF8BF29D60A0
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_10"
+      MaterialExpressionEditorX=-96
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=0AFDF1974F9D1EEB3466868D3E69ADFC
+      Material=Material'"DarkerGunstock"'
+   End Object
+   Begin Object Name="MaterialExpressionDesaturation_0"
+      Input=(Expression=MaterialExpressionMaterialFunctionCall'"DarkerGunstock:MaterialExpressionMaterialFunctionCall_1"')
+      Fraction=(Expression=MaterialExpressionConstant'"DarkerGunstock:MaterialExpressionConstant_1"')
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=2B4478FC48E086FD4B4215913811771B
+      Material=Material'"DarkerGunstock"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionDesaturation'"MaterialExpressionDesaturation_0"')
+   Metallic=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_10"')
+   Specular=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_11"')
+   Roughness=(Expression=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"')
+   Normal=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"')
+   EmissiveColor=(Expression=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_2"')
+   AmbientOcclusion=(Expression=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_3"')
+   PixelDepthOffset=(Expression=MaterialExpressionDivide'"MaterialExpressionDivide_3"')
+   bUsedWithStaticLighting=True
+   EditorY=16
+   Expressions(0)=MaterialExpressionDesaturation'"MaterialExpressionDesaturation_0"'
+   Expressions(1)=MaterialExpressionConstant'"MaterialExpressionConstant_10"'
+   Expressions(2)=MaterialExpressionConstant'"MaterialExpressionConstant_11"'
+   Expressions(3)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"'
+   Expressions(4)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(5)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_2"'
+   Expressions(6)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_3"'
+   Expressions(7)=MaterialExpressionDivide'"MaterialExpressionDivide_3"'
+   Expressions(8)=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"'
+   Expressions(9)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_3"'
+   Expressions(10)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   Expressions(11)=MaterialExpressionConstant'"MaterialExpressionConstant_8"'
+   Expressions(12)=MaterialExpressionConstant'"MaterialExpressionConstant_9"'
+   Expressions(13)=MaterialExpressionConstant'"MaterialExpressionConstant_12"'
+   Expressions(14)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   Expressions(15)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_0"'
+   Expressions(16)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   Expressions(17)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(18)=MaterialExpressionPixelNormalWS'"MaterialExpressionPixelNormalWS_3"'
+   Expressions(19)=MaterialExpressionMultiply'"MaterialExpressionMultiply_6"'
+   Expressions(20)=MaterialExpressionConstant'"MaterialExpressionConstant_14"'
+   Expressions(21)=MaterialExpressionVertexColor'"MaterialExpressionVertexColor_3"'
+   Expressions(22)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_1"'
+   Expressions(23)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_1"'
+   Expressions(24)=MaterialExpressionDivide'"MaterialExpressionDivide_0"'
+   Expressions(25)=MaterialExpressionConstant'"MaterialExpressionConstant_3"'
+   MaterialFunctionInfos(0)=(StateId=7058934F46DB6582B35FDDAE4F588F95,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.Blend_Darken"')
+   MaterialFunctionInfos(1)=(StateId=7058934F46DB6582B35FDDAE4F588F95,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.Blend_Darken"')
+   bCanMaskedBeAssumedOpaque=True
+   StateId=88500EE848D2C122C4D7C89EBA742698
+   ReferencedTextureGuids(0)=E1DB7AFB4607B88F05B8E7AD790CBA4F
+   ReferencedTextureGuids(1)=BE6E856440768B3ADBD1B0966BA1F0BA
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=3AC6FD574C04E1562938C99A8D6118A4
+End Object
