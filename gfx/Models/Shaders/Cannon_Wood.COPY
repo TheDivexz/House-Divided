@@ -1,0 +1,258 @@
+Begin Object Class=/Script/Engine.Material Name="Cannon_Wood"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVertexColor Name="MaterialExpressionVertexColor_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPixelNormalWS Name="MaterialExpressionPixelNormalWS_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDesaturation Name="MaterialExpressionDesaturation_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVertexColor_4"
+      MaterialExpressionEditorX=-400
+      MaterialExpressionEditorY=768
+      MaterialExpressionGuid=0D7B106A41697F0DA9128680E9E9DEE3
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_3"
+      Texture=Texture2D'"/Game/textures/Cannon_WoodBitmap2Material_3_Normal.Cannon_WoodBitmap2Material_3_Normal"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-608
+      MaterialExpressionEditorY=-176
+      MaterialExpressionGuid=584737D04A2EA0C7A6AD04AA7F4F8013
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"Cannon_Wood:MaterialExpressionTextureCoordinate_0"')
+      Texture=Texture2D'"/Game/textures/Cannon_WoodBitmap2Material_3_Base_Color.Cannon_WoodBitmap2Material_3_Base_Color"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-960
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=B188AFE849732B454F0CCBA3D4D5C61B
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      UTiling=4.000000
+      MaterialExpressionEditorX=-1120
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=83734F7E4B3879D2FE368A81B8AFFBB6
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionPixelNormalWS_4"
+      MaterialExpressionEditorX=-656
+      MaterialExpressionEditorY=656
+      MaterialExpressionGuid=27950FCB486F3BE7E0AF38B07783BE6F
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_7"
+      A=(Expression=MaterialExpressionMultiply'"Cannon_Wood:MaterialExpressionMultiply_3"')
+      B=(Expression=MaterialExpressionVertexColor'"Cannon_Wood:MaterialExpressionVertexColor_4"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-240
+      MaterialExpressionEditorY=576
+      MaterialExpressionGuid=EE3D840C471C3D59F35C2AB78CF2BF84
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionPixelNormalWS'"Cannon_Wood:MaterialExpressionPixelNormalWS_4"')
+      B=(Expression=MaterialExpressionConstant'"Cannon_Wood:MaterialExpressionConstant_12"')
+      MaterialExpressionEditorX=-437
+      MaterialExpressionEditorY=668
+      MaterialExpressionGuid=56D0FCB94A75E5E0E1C04DA76483FA6E
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionTextureSample'"Cannon_Wood:MaterialExpressionTextureSample_3"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"Cannon_Wood:MaterialExpressionConstant_0"')
+      MaterialExpressionEditorX=-240
+      MaterialExpressionEditorY=-64
+      MaterialExpressionGuid=699D5B9649888880E728A6A4BF2C5095
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionConstant'"Cannon_Wood:MaterialExpressionConstant_8"')
+      B=(Expression=MaterialExpressionConstant'"Cannon_Wood:MaterialExpressionConstant_9"')
+      Alpha=(Expression=MaterialExpressionTextureSample'"Cannon_Wood:MaterialExpressionTextureSample_2"',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-453
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=AFBBA50244BD75D1858208BDB9A2FFCA
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_6"
+      A=(Expression=MaterialExpressionMultiply'"Cannon_Wood:MaterialExpressionMultiply_7"')
+      B=(Expression=MaterialExpressionConstant'"Cannon_Wood:MaterialExpressionConstant_17"')
+      MaterialExpressionEditorX=-112
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=BCD76C3A4430C720BF8810B4524DF347
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_5"
+      A=(Expression=MaterialExpressionTextureSample'"Cannon_Wood:MaterialExpressionTextureSample_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"Cannon_Wood:MaterialExpressionConstant_16"')
+      MaterialExpressionEditorX=-656
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=56D553624A83D31B586863ACAF3832D6
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionDesaturation_0"
+      Input=(Expression=MaterialExpressionDivide'"Cannon_Wood:MaterialExpressionDivide_5"')
+      Fraction=(Expression=MaterialExpressionConstant'"Cannon_Wood:MaterialExpressionConstant_1"')
+      MaterialExpressionEditorX=-432
+      MaterialExpressionEditorY=64
+      MaterialExpressionGuid=2B4478FC48E086FD4B4215913811771B
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_3"
+      Constant=(R=0.317708,G=0.317708,B=0.317708,A=0.000000)
+      MaterialExpressionEditorX=-560
+      MaterialExpressionEditorY=464
+      MaterialExpressionGuid=CCBA65B94A16932D128B99B978BCEC7B
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_2"
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=3E97807E42FA0349C98677B67B1A405B
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_9"
+      R=0.500000
+      MaterialExpressionEditorX=-576
+      MaterialExpressionEditorY=352
+      MaterialExpressionGuid=24735F8A4E6EE02FEBAD34996A3B5EF2
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_8"
+      R=0.100000
+      MaterialExpressionEditorX=-576
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=083FFC20483A870F07C5B691EBB56873
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_17"
+      R=2.000000
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=496
+      MaterialExpressionGuid=2C870521469FA6C4609528A8FBAC24D1
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_16"
+      R=6.000000
+      MaterialExpressionEditorX=-752
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=C5B960244C425C07BEC4C69424BF201D
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_12"
+      R=2.000000
+      MaterialExpressionEditorX=-528
+      MaterialExpressionEditorY=768
+      MaterialExpressionGuid=2A58F449448A6D3DD631D4836B9A51DD
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_11"
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=5691F3604EE1E523EA4BCF8BF29D60A0
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_10"
+      MaterialExpressionEditorX=-112
+      MaterialExpressionEditorY=-96
+      MaterialExpressionGuid=0AFDF1974F9D1EEB3466868D3E69ADFC
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=0.250000
+      MaterialExpressionEditorX=-544
+      MaterialExpressionEditorY=128
+      MaterialExpressionGuid=59C0359844640E24736ED991B63167AB
+      Material=Material'"Cannon_Wood"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=2.000000
+      MaterialExpressionEditorX=-400
+      MaterialExpressionEditorY=-32
+      MaterialExpressionGuid=DAAA3C274331A3AF66F4AF9E12A3A6F4
+      Material=Material'"Cannon_Wood"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionDesaturation'"MaterialExpressionDesaturation_0"')
+   Metallic=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_10"')
+   Specular=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_11"')
+   Roughness=(Expression=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"')
+   Normal=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"')
+   EmissiveColor=(Expression=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_2"')
+   AmbientOcclusion=(Expression=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_3"')
+   PixelDepthOffset=(Expression=MaterialExpressionDivide'"MaterialExpressionDivide_6"')
+   bUsedWithStaticLighting=True
+   EditorY=16
+   Expressions(0)=MaterialExpressionDesaturation'"MaterialExpressionDesaturation_0"'
+   Expressions(1)=MaterialExpressionConstant'"MaterialExpressionConstant_10"'
+   Expressions(2)=MaterialExpressionConstant'"MaterialExpressionConstant_11"'
+   Expressions(3)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"'
+   Expressions(4)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(5)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_2"'
+   Expressions(6)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_3"'
+   Expressions(7)=MaterialExpressionDivide'"MaterialExpressionDivide_6"'
+   Expressions(8)=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"'
+   Expressions(9)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_3"'
+   Expressions(10)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   Expressions(11)=MaterialExpressionConstant'"MaterialExpressionConstant_8"'
+   Expressions(12)=MaterialExpressionConstant'"MaterialExpressionConstant_9"'
+   Expressions(13)=MaterialExpressionConstant'"MaterialExpressionConstant_12"'
+   Expressions(14)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   Expressions(15)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(16)=MaterialExpressionDivide'"MaterialExpressionDivide_5"'
+   Expressions(17)=MaterialExpressionConstant'"MaterialExpressionConstant_16"'
+   Expressions(18)=MaterialExpressionPixelNormalWS'"MaterialExpressionPixelNormalWS_4"'
+   Expressions(19)=MaterialExpressionMultiply'"MaterialExpressionMultiply_7"'
+   Expressions(20)=MaterialExpressionVertexColor'"MaterialExpressionVertexColor_4"'
+   Expressions(21)=MaterialExpressionConstant'"MaterialExpressionConstant_17"'
+   Expressions(22)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=2A0FEA0A4B35C20521DF10BBC52B4FE4
+   ReferencedTextureGuids(0)=9EB6092948AE94BC8A74CE812EDF7AF3
+   ReferencedTextureGuids(1)=13EB8F444C0DDBF343FF6199A9DC44B4
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=C52578E44E253FD4D51DE6895BD1DC0A
+End Object
