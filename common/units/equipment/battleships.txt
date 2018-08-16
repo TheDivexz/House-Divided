@@ -1,0 +1,376 @@
+equipments = {
+
+	battleship = { 
+		year = 1842
+
+		is_archetype = yes
+		is_buildable = no
+		type = capital_ship
+		group_by = archetype
+		
+		interface_category = interface_category_capital_ships
+		
+		upgrades = {
+			ship_reliability_upgrade
+			ship_engine_upgrade
+			ship_armor_upgrade
+			ship_gun_upgrade
+		}
+
+		ap_attack = 31
+		attack = 18
+		fire_range = 32
+		torpedo_attack = 0
+		shore_bombardment = 10
+		
+		anti_air_attack = 4
+		
+		armor_value = 26
+		evasion = 10
+		
+		surface_detection = 12
+		sub_detection = 5
+		surface_visibility = 30
+		naval_speed = 20
+		reliability = 0.80
+
+		naval_range = 3000
+		
+		max_strength = 350
+		port_capacity_usage = 2
+		
+		build_cost_ic = 9600
+		resources = {
+			skilled = 1
+			iron = 3
+			unskilled = 1
+		}
+
+		manpower = 150
+	}
+
+	uss_congress_equipment = {
+		year = 1842
+
+		archetype = battleship
+		priority = 60
+
+	}
+	
+	uss_powhatan_equipment = {
+		year = 1852
+
+		archetype = battleship
+		parent = uss_congress_equipment
+		priority = 60
+		
+		ap_attack = 36
+		attack = 22
+		fire_range = 33
+		torpedo_attack = 0
+		shore_bombardment = 12
+		
+		anti_air_attack = 10
+		
+		armor_value = 32
+		evasion = 12
+		
+		surface_detection = 15
+		sub_detection = 5
+		surface_visibility = 30
+		naval_speed = 26
+		reliability = 0.85
+
+		naval_range = 4000
+
+		max_strength = 450		
+		port_capacity_usage = 2
+
+		build_cost_ic = 10400
+		resources = {
+			skilled = 2
+			iron = 4
+			unskilled = 1
+		}
+		manpower = 150
+		
+	}
+	
+	uss_constellation_equipment = {
+		year = 1855
+
+		archetype = battleship
+		parent = uss_powhatan_equipment
+		shore_bombardment = 12
+		priority = 60
+		
+		ap_attack = 40
+		attack = 26
+		fire_range = 34
+		torpedo_attack = 0
+		
+		anti_air_attack = 13
+		
+		armor_value = 37
+		evasion = 16
+		
+		surface_detection = 25
+		sub_detection = 5
+		surface_visibility = 30
+		naval_speed = 28
+		reliability = 0.90
+
+		naval_range = 5000
+		
+		max_strength = 500
+		
+		port_capacity_usage = 2
+		
+		build_cost_ic = 11200
+		resources = {
+			skilled = 2
+			iron = 4
+			unskilled = 2
+		}
+		manpower = 175
+
+	}
+	uss_wabash_equipment = {
+		year = 1856
+
+		archetype = battleship
+		parent = uss_powhatan_equipment
+		shore_bombardment = 12
+		priority = 60
+		
+		ap_attack = 41
+		attack = 28
+		fire_range = 36
+		torpedo_attack = 0
+		shore_bombardment = 15
+		
+		anti_air_attack = 13
+		
+		armor_value = 37
+		evasion = 16
+		
+		surface_detection = 25
+		sub_detection = 5
+		surface_visibility = 30
+		naval_speed = 32
+		reliability = 0.90
+
+		naval_range = 5000
+		
+		max_strength = 500
+		
+		port_capacity_usage = 2
+		
+		build_cost_ic = 11200
+		resources = {
+			skilled = 2
+			iron = 4
+			unskilled = 2
+		}
+		manpower = 175
+
+	}
+	
+	uss_hartford_equipment = {
+		year = 1859
+
+		archetype = battleship
+		parent = uss_constellation_equipment
+		priority = 60
+		
+		ap_attack = 41
+		attack = 28
+		fire_range = 36
+		torpedo_attack = 0
+		shore_bombardment = 15
+
+		anti_air_attack = 22
+		
+		armor_value = 40
+		evasion = 20
+		
+		surface_detection = 40
+		sub_detection = 5
+		surface_visibility = 30
+		naval_speed = 30
+		reliability = 0.92
+
+		naval_range = 6000
+		
+		max_strength = 550
+		
+		port_capacity_usage = 2
+		
+		build_cost_ic = 12000
+		resources = {
+			skilled = 2
+			iron = 5
+			food = 3
+		}
+		manpower = 185
+		
+	}
+	uss_brooklyn_equipment = {
+		year = 1859
+
+		archetype = battleship
+		parent = uss_constellation_equipment
+		priority = 60
+		
+		ap_attack = 43
+		attack = 30
+		fire_range = 35
+		torpedo_attack = 0
+		shore_bombardment = 15
+
+		anti_air_attack = 22
+		
+		armor_value = 40
+		evasion = 20
+		
+		surface_detection = 25
+		sub_detection = 5
+		surface_visibility = 30
+		naval_speed = 32
+		reliability = 0.90
+
+		naval_range = 6000
+		
+		max_strength = 550
+		
+		port_capacity_usage = 2
+		
+		build_cost_ic = 12000
+		resources = {
+			skilled = 2
+			iron = 5
+			food = 3
+		}
+		manpower = 185
+		
+	}
+
+
+	css_alabama_equipment = {
+		year = 1862
+
+		archetype = battleship
+		priority = 60
+
+		ap_attack = 43
+		attack = 30
+		fire_range = 35
+		torpedo_attack = 0
+		shore_bombardment = 15
+		
+		anti_air_attack = 12
+		
+		armor_value = 47
+		evasion = 12
+		
+		surface_detection = 15
+		sub_detection = 5
+		surface_visibility = 30
+		naval_speed = 26
+		reliability = 0.85
+		
+		naval_range = 4000
+		
+		max_strength = 600
+		
+		port_capacity_usage = 4
+		
+		build_cost_ic = 18500
+		resources = {
+			skilled = 2
+			iron = 4
+			food = 1
+		}
+		manpower = 225
+		
+	}
+	uss_kearsarge_equipment = {
+		year = 1862
+
+		archetype = battleship
+		priority = 60
+
+		ap_attack = 50
+		attack = 32
+		fire_range = 38
+		torpedo_attack = 0
+		shore_bombardment = 16
+		
+		anti_air_attack = 12
+		
+		armor_value = 47
+		evasion = 12
+		
+		surface_detection = 25
+		sub_detection = 5
+		surface_visibility = 30
+		naval_speed = 32
+		reliability = 0.90
+		
+		naval_range = 4000
+		
+		max_strength = 600
+		
+		port_capacity_usage = 4
+		
+		build_cost_ic = 18500
+		resources = {
+			skilled = 2
+			iron = 4
+			food = 1
+		}
+		manpower = 225
+		
+	}
+	
+	css_shenandoah_equipment = {
+		year = 1944
+
+		archetype = battleship
+		parent = css_alabama_equipment
+		priority = 60
+		
+		ap_attack = 61
+		attack = 36
+		fire_range = 38
+		torpedo_attack = 0
+		shore_bombardment = 20
+
+		anti_air_attack = 14
+		
+		armor_value = 58
+		evasion = 14
+		
+		surface_detection = 25
+		sub_detection = 5
+		surface_visibility = 30
+		naval_speed = 28
+		reliability = 0.90
+		
+		naval_range = 4500
+
+		max_strength = 800
+		
+		port_capacity_usage = 4
+		
+		build_cost_ic = 23000
+		resources = {
+			skilled = 2
+			iron = 5
+			food = 3
+		}
+		manpower = 250
+		
+	}
+
+}

@@ -5,7 +5,7 @@ technologies = {
 	@col_2 = 4
 	@col_3 = 8
 	@col_4 = 12
-	@col_4 = 16
+	@col_5 = 16
 	
 	#y coordinates
 	@1835 = 0
@@ -47,6 +47,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1835
 		
 		folder = {
 			name = artillery_folder
@@ -65,6 +66,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1841
 		
 		folder = {
 			name = artillery_folder
@@ -83,6 +85,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1841
 		
 		folder = {
 			name = artillery_folder
@@ -106,6 +109,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1841
 		
 		folder = {
 			name = artillery_folder
@@ -129,6 +133,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1841
 		
 		folder = {
 			name = artillery_folder
@@ -152,6 +157,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1841
 		
 		folder = {
 			name = artillery_folder
@@ -170,6 +176,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1841
 		
 		folder = {
 			name = artillery_folder
@@ -193,6 +200,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1841
 		
 		folder = {
 			name = artillery_folder
@@ -221,6 +229,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1857
 		
 		folder = {
 			name = artillery_folder
@@ -244,6 +253,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1861
 		
 		folder = {
 			name = artillery_folder
@@ -262,6 +272,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1861
 		
 		folder = {
 			name = artillery_folder
@@ -280,6 +291,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1861
 		
 		folder = {
 			name = artillery_folder
@@ -298,6 +310,7 @@ technologies = {
 		}
 		
 		research_cost = 1.5
+		start_year = 1861
 		
 		folder = {
 			name = artillery_folder

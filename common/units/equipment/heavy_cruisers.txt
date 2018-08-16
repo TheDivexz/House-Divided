@@ -1,0 +1,218 @@
+equipments = {
+
+	heavy_cruiser = {
+		year = 1863
+
+		is_archetype = yes
+		is_buildable = no
+		type = capital_ship
+		group_by = archetype
+		
+		interface_category = interface_category_capital_ships
+
+		upgrades = {
+			ship_reliability_upgrade
+			ship_engine_upgrade
+			ship_armor_upgrade
+			ship_gun_upgrade
+		}
+
+		ap_attack = 11
+		attack = 10
+		fire_range = 24
+		torpedo_attack = 0
+		shore_bombardment = 3
+		
+		anti_air_attack = 6
+		
+		armor_value = 9
+		evasion = 20
+		
+		surface_detection = 12
+		sub_detection = 5
+		surface_visibility = 20
+		naval_speed = 24
+		reliability = 0.80
+		
+		naval_range = 3000
+		
+		max_strength = 150
+		
+		port_capacity_usage = 1
+		
+		build_cost_ic = 4200
+		resources = {
+			skilled = 1
+			iron = 3
+		}
+		
+		manpower = 38
+	}
+
+	uss_lafayette_equipment = {
+		year = 1863
+
+		archetype = heavy_cruiser
+		priority = 40
+		
+	}
+	css_georgia_equipment = {
+		year = 1863
+
+		archetype = heavy_cruiser
+		priority = 40
+		
+	}
+	
+	css_tennessee_equipment = {
+		year = 1864
+
+		archetype = heavy_cruiser
+		parent = uss_lafayette_equipment
+		priority = 40
+
+		ap_attack = 11
+		attack = 10
+		fire_range = 24
+		torpedo_attack = 0
+		shore_bombardment = 3
+		
+		anti_air_attack = 6
+		
+		armor_value = 9
+		evasion = 25
+		
+		surface_detection = 15
+		sub_detection = 5
+		surface_visibility = 20
+		naval_speed = 30
+		reliability = 0.85
+
+		naval_range = 4000
+		
+		max_strength = 175
+		
+		port_capacity_usage = 1
+
+		build_cost_ic = 4600
+		resources = {
+			skilled = 1
+			iron = 4
+		}		
+		manpower = 43
+	}
+	css_albemarie_equipment = {
+		year = 1864
+
+		archetype = heavy_cruiser
+		parent = uss_lafayette_equipment
+		priority = 40
+
+		ap_attack = 12
+		attack = 14
+		fire_range = 25
+		torpedo_attack = 0
+		shore_bombardment = 4
+		
+		anti_air_attack = 8
+		
+		armor_value = 11
+		evasion = 20
+		
+		surface_detection = 12
+		sub_detection = 5
+		surface_visibility = 20
+		naval_speed = 24
+		reliability = 0.80
+
+		naval_range = 4000
+		
+		max_strength = 175
+		
+		port_capacity_usage = 1
+
+		build_cost_ic = 4600
+		resources = {
+			skilled = 1
+			iron = 4
+		}		
+		manpower = 43
+	}
+	
+	css_stonewall_equipment = {
+		year = 1864
+
+		archetype = heavy_cruiser
+		parent = css_albemarie_equipment
+		priority = 40
+
+		ap_attack = 13
+		attack = 17
+		fire_range = 26
+		torpedo_attack = 0
+		shore_bombardment = 5
+		
+		anti_air_attack = 12
+		
+		armor_value = 12
+		evasion = 28
+		
+		surface_detection = 25
+		sub_detection = 5
+		surface_visibility = 20
+		naval_speed = 33
+		reliability = 0.90
+
+		naval_range = 4500
+		
+		max_strength = 200
+		
+		port_capacity_usage = 1
+
+		build_cost_ic = 5000
+		resources = {
+			skilled = 2
+			iron = 4
+		}		
+		manpower = 48
+	}
+	
+	uss_dunderberg_equipment = {
+		year = 1865
+
+		archetype = heavy_cruiser
+		parent = css_stonewall_equipment
+		priority = 40
+
+		ap_attack = 14
+		attack = 20
+		fire_range = 27
+		torpedo_attack = 0
+		shore_bombardment = 6
+		
+		anti_air_attack = 18
+		
+		armor_value = 13
+		evasion = 30
+		
+		surface_detection = 40
+		sub_detection = 5
+		surface_visibility = 20
+		naval_speed = 33
+		reliability = 0.92
+
+		naval_range = 5000
+		
+		max_strength = 225
+		
+		port_capacity_usage = 1
+
+		build_cost_ic = 5400
+		resources = {
+			skilled = 2
+			iron = 5
+			food = 1
+		}		
+		manpower = 2200
+	}
+}
