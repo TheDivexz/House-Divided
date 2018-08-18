@@ -20,7 +20,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "I Këmbësori Pjesëtim"
+		name = "1. Alabama Infantry"
 		location = 1000
 		division_template = "Këmbësori Pjesëtim"
 		start_experience_factor = 0.2

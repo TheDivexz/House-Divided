@@ -15,6 +15,10 @@ state={
 			industrial_complex = 4
 			infrastructure = 5
 		}
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 

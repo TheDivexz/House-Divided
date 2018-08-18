@@ -13,49 +13,49 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Robin Redbreast"
+		name = "1. Michigan Infantry"
 		location = 4175
 		division_template = "Michigan Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Apple Blossom"
+		name = "2. Michigan Infantry"
 		location = 4371
 		division_template = "Michigan Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Mastodon"
+		name = "3. Michigan Infantry"
 		location = 4334
 		division_template = "Michigan Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "White-Tailed Deers"
+		name = "4. Michigan Infantry"
 		location = 4176
 		division_template = "Michigan Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Isle Royale"
+		name = "5. Michigan Infantry"
 		location = 4105
 		division_template = "Michigan Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Eastern White Pines"
+		name = "6. Michigan Infantry"
 		location = 4010
 		division_template = "Michigan Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Dwarf Lake Iris"
+		name = "7. Michigan Infantry"
 		location = 4017
 		division_template = "Michigan Infantry"
 		start_experience_factor = 0.2

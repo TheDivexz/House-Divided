@@ -17,7 +17,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Dirigo"
+		name = "1. Maine Infantry"
 		location = 4838
 		division_template = "Maine Infantry"
 		start_experience_factor = 0.2

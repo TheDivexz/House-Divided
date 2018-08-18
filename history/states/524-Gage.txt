@@ -9,6 +9,10 @@ state={
 	history={
 		owner = NEB
 		add_core_of = NEB
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 	provinces={

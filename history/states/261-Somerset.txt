@@ -15,6 +15,10 @@ state={
 			industrial_complex = 6
 			infrastructure = 6
 		}
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 	provinces={

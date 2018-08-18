@@ -11,6 +11,10 @@ state={
 	history={
 		owner = NCA
 		add_core_of = NCA
+		1858.1.11 = {
+			owner = CSA
+			controller = CSA
+		}
 		
 
 	}

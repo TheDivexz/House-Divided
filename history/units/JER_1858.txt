@@ -18,21 +18,21 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "A.J. Meerwald"
+		name = "1. New Jersey Infantry"
 		location = 3550
 		division_template = "New Jersey Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Northern Red Oak"
+		name = "2. New Jersey Infantry"
 		location = 3682
 		division_template = "New Jersey Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Violets"
+		name = "3. New Jersey Infantry"
 		location = 3253
 		division_template = "New Jersey Infantry"
 		start_experience_factor = 0.2

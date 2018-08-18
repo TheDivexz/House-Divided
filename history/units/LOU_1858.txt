@@ -17,14 +17,14 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Pelicans"
+		name = "1. Louisiana Infantry"
 		location = 583
 		division_template = "Louisiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Crawfish"
+		name = "2. Louisiana Infantry"
 		location = 627
 		division_template = "Louisiana Infantry"
 		start_experience_factor = 0.2

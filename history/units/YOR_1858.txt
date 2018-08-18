@@ -18,119 +18,119 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Beavers"
+		name = "1. New York Infantry"
 		location = 4178
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Eastern Bluebirds"
+		name = "2. New York Infantry"
 		location = 3918
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Lilacs"
+		name = "3. New York Infantry"
 		location = 4273
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Roses"
+		name = "4. New York Infantry"
 		location = 4284
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Garnet"
+		name = "5. New York Infantry"
 		location = 3715
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Sugar Maple"
+		name = "6. New York Infantry"
 		location = 4172
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Yankees"
+		name = "6. New York Infantry"
 		location = 4304
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Mets"
+		name = "7. New York Infantry"
 		location = 4355
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Knicks"
+		name = "8. New York Infantry"
 		location = 4396
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Jets"
+		name = "9. New York Infantry"
 		location = 3632
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Rangers"
+		name = "10. New York Infantry"
 		location = 4152
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "FC"
+		name = "11. New York Infantry"
 		location = 4224
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Nets"
+		name = "12. New York Infantry"
 		location = 4052
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Islanders"
+		name = "13. New York Infantry"
 		location = 4297
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Red Bulls"
+		name = "14. New York Infantry"
 		location = 4076
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Red Storm"
+		name = "15. New York Infantry"
 		location = 4260
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Blackbirds"
+		name = "16. New York Infantry"
 		location = 4250
 		division_template = "New York Infantry"
 		start_experience_factor = 0.2

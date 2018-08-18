@@ -14,21 +14,21 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Hermit Thrush"
+		name = "1. Vermont Infantry"
 		location = 4731
 		division_template = "Vermont Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Red Clover"
+		name = "2. Vermont Infantry"
 		location = 4540
 		division_template = "Vermont Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Talc"
+		name = "3. Vermont Infantry"
 		location = 4274
 		division_template = "Vermont Infantry"
 		start_experience_factor = 0.2

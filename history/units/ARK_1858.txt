@@ -15,7 +15,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Quartz"
+		name = "1. Arkansas Infantry"
 		location = 1456
 		division_template = "Arkansas Infantry"
 		start_experience_factor = 0.2
@@ -23,7 +23,7 @@ units = {
 
 	}
 	division = {
-		name = "Apple Blossom"
+		name = "2. Arkansas Infantry"
 		location = 1583
 		division_template = "Arkansas Infantry"
 		start_experience_factor = 0.2

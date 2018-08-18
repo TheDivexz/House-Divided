@@ -12,6 +12,10 @@ state={
 	history={
 		owner = ALA
 		add_core_of = ALA
+		1858.1.11 = {
+			owner = CSA
+			controller = CSA
+		}
 
 	}
 	provinces={

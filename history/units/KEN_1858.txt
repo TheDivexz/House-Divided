@@ -18,28 +18,28 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Honeybees"
+		name = "1. Kentucky Infantry"
 		location = 2867
 		division_template = "Kentucky Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Northern Cardinals"
+		name = "2. Kentucky Infantry"
 		location = 2850
 		division_template = "Kentucky Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Viceroys"
+		name = "3. Kentucky Infantry"
 		location = 2867
 		division_template = "Kentucky Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Goldenrods"
+		name = "4. Kentucky Infantry"
 		location = 2670
 		division_template = "Kentucky Infantry"
 		start_experience_factor = 0.2

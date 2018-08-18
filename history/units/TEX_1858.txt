@@ -14,21 +14,21 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Mockingbird"
+		name = "1. Texas Infantry"
 		location = 647
 		division_template = "Texas Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Blue Lacy"
+		name = "2. Texas Infantry"
 		location = 477
 		division_template = "Texas Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Cotton"
+		name = "3. Texas Infantry"
 		location = 587
 		division_template = "Texas Infantry"
 		start_experience_factor = 0.2

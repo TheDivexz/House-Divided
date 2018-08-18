@@ -9,6 +9,10 @@ state={
 	history={
 		owner = IOW
 		add_core_of = IOW
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 	provinces={

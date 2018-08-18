@@ -18,7 +18,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Bighorn Sheep"
+		name = "1. Colorado Infantry"
 		location = 2907
 		division_template = "Colorado Infantry"
 		start_experience_factor = 0.2

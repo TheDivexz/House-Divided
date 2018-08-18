@@ -12,6 +12,10 @@ state={
 		buildings = {
 			industrial_complex = 1
 		}
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 	provinces={

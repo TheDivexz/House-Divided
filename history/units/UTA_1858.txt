@@ -26,14 +26,14 @@ division_template = {
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Elks"
+		name = "1. Utah Infantry"
 		location = 3090
 		division_template = "Utah Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Desert Bighorn Sheep"
+		name = "2. Utah Infantry"
 		location = 3177
 		division_template = "Nevada Infantry"
 		start_experience_factor = 0.2

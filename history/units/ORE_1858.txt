@@ -16,7 +16,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Beavers"
+		name = "1. Oregon Infantry"
 		location = 4796
 		division_template = "Oregon Infantry"
 		start_experience_factor = 0.2

@@ -14,7 +14,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Black Bear"
+		name = "1. Alabama Infantry"
 		location = 947
 		division_template = "Alabama Infantry"
 		start_experience_factor = 0.2
@@ -22,7 +22,7 @@ units = {
 
 	}
 	division = {
-		name = "Camilla"
+		name = "2. Alabama Infantry"
 		location = 797
 		division_template = "Alabama Infantry"
 		start_experience_factor = 0.2
@@ -30,7 +30,7 @@ units = {
 
 	}
 	division = {
-		name = "Northern Flicker"
+		name = "3. Alabama Infantry"
 		location = 802
 		division_template = "Alabama Infantry"
 		start_experience_factor = 0.2
@@ -38,7 +38,7 @@ units = {
 
 	}
 	division = {
-		name = "Longleaf Pine"
+		name = "3. Alabama Infantry"
 		location = 1010
 		division_template = "Alabama Infantry"
 		start_experience_factor = 0.2

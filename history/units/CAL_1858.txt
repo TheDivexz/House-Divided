@@ -13,7 +13,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Grizzly Bear"
+		name = "1. California Infantry"
 		location = 2618
 		division_template = "California Infantry"
 		start_experience_factor = 0.2
@@ -21,7 +21,7 @@ units = {
 
 	}
 	division = {
-		name = "Poppy"
+		name = "2. California Infantry"
 		location = 2310
 		division_template = "California Infantry"
 		start_experience_factor = 0.2
@@ -29,7 +29,7 @@ units = {
 
 	}
 	division = {
-		name = "Quail"
+		name = "3. California Infantry"
 		location = 2279
 		division_template = "California Infantry"
 		start_experience_factor = 0.2
@@ -37,7 +37,7 @@ units = {
 
 	}
 	division = {
-		name = "Redwood"
+		name = "4. California Infantry"
 		location = 2878
 		division_template = "California Infantry"
 		start_experience_factor = 0.2

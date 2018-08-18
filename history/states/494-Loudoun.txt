@@ -11,6 +11,10 @@ state={
 	history={
 		owner = VIR
 		add_core_of = VIR
+		1858.1.11 = {
+			owner = CSA
+			controller = CSA
+		}
 
 	}
 	provinces={

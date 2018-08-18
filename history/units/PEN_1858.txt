@@ -13,175 +13,175 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Piper j-3 Cub"
+		name = "1. Pennsylvania Infantry"
 		location = 3549
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "White-tailed Deer"
+		name = "2. Pennsylvania Infantry"
 		location = 3343
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Ruffed Grouse"
+		name = "3. Pennsylvania Infantry"
 		location = 3471
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Great Danes"
+		name = "4. Pennsylvania Infantry"
 		location = 3598
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Long Rifles"
+		name = "5. Pennsylvania Infantry"
 		location = 3508
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Niagara"
+		name = "6. Pennsylvania Infantry"
 		location = 3345
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Mountain Laurel"
+		name = "7. Pennsylvania Infantry"
 		location = 3847
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Trilobite"
+		name = "8. Pennsylvania Infantry"
 		location = 3951
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Fireflies"
+		name = "9. Pennsylvania Infantry"
 		location = 3664
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "K4s"
+		name = "10. Pennsylvania Infantry"
 		location = 3338
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "GGI 4859"
+		name = "11. Pennsylvania Infantry"
 		location = 3337
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Penngift"
+		name = "12. Pennsylvania Infantry"
 		location = 3653
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Crownvetch"
+		name = "13. Pennsylvania Infantry"
 		location = 3937
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Hazelton"
+		name = "14. Pennsylvania Infantry"
 		location = 3698
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Eastern Hemlock"
+		name = "15. Pennsylvania Infantry"
 		location = 3681
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "76ers"
+		name = "16. Pennsylvania Infantry"
 		location = 3571
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Pen Quakers"
+		name = "17. Pennsylvania Infantry"
 		location = 3463
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Panthers"
+		name = "18. Pennsylvania Infantry"
 		location = 3947
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Nittany Lions"
+		name = "19. Pennsylvania Infantry"
 		location = 3647
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Wildcats"
+		name = "20. Pennsylvania Infantry"
 		location = 3478
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Pirates"
+		name = "21. Pennsylvania Infantry"
 		location = 3333
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Flyers"
+		name = "22. Pennsylvania Infantry"
 		location = 3664
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Steelers"
+		name = "23. Pennsylvania Infantry"
 		location = 3471
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Penguins"
+		name = "24. Pennsylvania Infantry"
 		location = 3966
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Eagles"
+		name = "25. Pennsylvania Infantry"
 		location = 3685
 		division_template = "Pennsylvania Infantry"
 		start_experience_factor = 0.2

@@ -15,7 +15,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "The Presidential Guard"
+		name = "1. Union Infantry"
 		location = 3015
 		division_template = "DC Infantry"
 		start_experience_factor = 0.2

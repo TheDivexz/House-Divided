@@ -15,7 +15,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Horseshoe Crab"
+		name = "1. Delaware Infantry"
 		location = 3027
 		division_template = "Delaware Infantry"
 		start_experience_factor = 0.2

@@ -18,14 +18,14 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Bullfrogs"
+		name = "1. Indian Infantry"
 		location = 1688
 		division_template = "Oklahoma Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Buffalo"
+		name = "2. Indian Infantry"
 		location = 2153
 		division_template = "Oklahoma Infantry"
 		start_experience_factor = 0.2

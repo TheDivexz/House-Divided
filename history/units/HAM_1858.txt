@@ -13,28 +13,28 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Bobcats"
+		name = "1. New Hampshire Infantry"
 		location = 4605
 		division_template = "New Hampshire Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Pink Lady's Slipper"
+		name = "2. New Hampshire Infantry"
 		location = 4379
 		division_template = "New Hampshire Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "White Birch"
+		name = "3. New Hampshire Infantry"
 		location = 4370
 		division_template = "New Hampshire Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Beryl"
+		name = "4. New Hampshire Infantry"
 		location = 4359
 		division_template = "New Hampshire Infantry"
 		start_experience_factor = 0.2

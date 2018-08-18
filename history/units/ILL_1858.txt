@@ -13,105 +13,105 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Eastern Tiger Salamanders"
+		name = "1. Illinois Infantry"
 		location = 3249
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "White-tailed Deers"
+		name = "2. Illinois Infantry"
 		location = 3346
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Pirogues"
+		name = "3. Illinois Infantry"
 		location = 3637
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Northern Cardinals"
+		name = "4. Illinois Infantry"
 		location = 3605
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Bluegills"
+		name = "5. Illinois Infantry"
 		location = 3311
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Violets"
+		name = "6. Illinois Infantry"
 		location = 2995
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Tully Monsters"
+		name = "7. Illinois Infantry"
 		location = 3075
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Golden Apples"
+		name = "8. Illinois Infantry"
 		location = 3817
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Monarchs"
+		name = "9. Illinois Infantry"
 		location = 3624
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Flourites"
+		name = "10. Illinois Infantry"
 		location = 3633
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Big Bluestems"
+		name = "11. Illinois Infantry"
 		location = 3384
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Painted Turtles"
+		name = "12. Illinois Infantry"
 		location = 3208
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Drummers Soils"
+		name = "13. Illinois Infantry"
 		location = 3158
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "White Oaks"
+		name = "14. Illinois Infantry"
 		location = 3138
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Sweet Corns"
+		name = "15. Illinois Infantry"
 		location = 2951
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2

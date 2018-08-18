@@ -15,42 +15,42 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Memphis Belle"
+		name = "1. Tennessee Infantry"
 		location = 2131
 		division_template = "Tennessee Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Racoons"
+		name = "2. Tennessee Infantry"
 		location = 2148
 		division_template = "Tennessee Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Sandy"
+		name = "3. Tennessee Infantry"
 		location = 1902
 		division_template = "Tennessee Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Mockingbird"
+		name = "4. Tennessee Infantry"
 		location = 1878
 		division_template = "Tennessee Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Iris"
+		name = "5. Tennessee Infantry"
 		location = 2128
 		division_template = "Tennessee Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Pterotrigonia"
+		name = "6. Tennessee Infantry"
 		location = 1983
 		division_template = "Tennessee Infantry"
 		start_experience_factor = 0.2

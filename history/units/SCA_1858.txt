@@ -16,14 +16,14 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Carolina Wren"
+		name = "1. South Carolina Infantry"
 		location = 1316
 		division_template = "South Carolina Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Tiger Swallowtail"
+		name = "2. South Carolina Infantry"
 		location = 1217
 		division_template = "South Carolina Infantry"
 		start_experience_factor = 0.2

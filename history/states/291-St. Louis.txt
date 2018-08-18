@@ -12,6 +12,10 @@ state={
 		buildings = {
 			infrastructure = 7
 		}
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 	provinces={

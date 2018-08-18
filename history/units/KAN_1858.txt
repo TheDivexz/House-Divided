@@ -28,21 +28,21 @@ division_template = {
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Barred Tiger Salamanders"
+		name = "1. Kansas Infantry"
 		location = 3029
 		division_template = "Kansas Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Buffalos"
+		name = "2. Kansas Infantry"
 		location = 2864
 		division_template = "Kansas Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Bighorn Sheep"
+		name = "3. Kansas Infantry"
 		location = 2907
 		division_template = "Colorado Infantry"
 		start_experience_factor = 0.2

@@ -17,6 +17,10 @@ state={
 			infrastructure = 1
 			arms_factory = 1
 		}
+		1858.1.11 = {
+			owner = CSA
+			controller = CSA
+		}
 
 	}
 	provinces={

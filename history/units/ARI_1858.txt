@@ -17,7 +17,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Ringtail Cat"
+		name = "1. Arizona Infantry"
 		location = 1412
 		division_template = "Arizona Infantry"
 		start_experience_factor = 0.2

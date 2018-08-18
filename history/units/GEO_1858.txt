@@ -11,70 +11,70 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Green Tree Frogs"
+		name = "1. Georgia Infantry"
 		location = 1373
 		division_template = "Georgia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Brown Thrashers"
+		name = "2. Georgia Infantry"
 		location = 1355
 		division_template = "Georgia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Cherokee Roses"
+		name = "3. Georgia Infantry"
 		location = 1503
 		division_template = "Georgia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Shark Teeth"
+		name = "4. Georgia Infantry"
 		location = 1599
 		division_template = "Georgia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Peaches"
+		name = "5. Georgia Infantry"
 		location = 1567
 		division_template = "Georgia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Bobwhite Quails"
+		name = "6. Georgia Infantry"
 		location = 1438
 		division_template = "Georgia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Quartz"
+		name = "7. Georgia Infantry"
 		location = 1239
 		division_template = "Georgia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Honeybees"
+		name = "8. Georgia Infantry"
 		location = 1144
 		division_template = "Georgia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Grits"
+		name = "9. Georgia Infantry"
 		location = 1032
 		division_template = "Georgia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Red Drums"
+		name = "10. Georgia Infantry"
 		location = 1066
 		division_template = "Georgia Infantry"
 		start_experience_factor = 0.2

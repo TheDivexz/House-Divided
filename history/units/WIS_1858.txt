@@ -14,42 +14,42 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Badgers"
+		name = "1. Wisconsin Infantry"
 		location = 4300
 		division_template = "Wisconsin Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "American Robin"
+		name = "2. Wisconsin Infantry"
 		location = 4198
 		division_template = "Wisconsin Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Muskellunge"
+		name = "3. Wisconsin Infantry"
 		location = 4381
 		division_template = "Wisconsin Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Wood Violet"
+		name = "4. Wisconsin Infantry"
 		location = 4517
 		division_template = "Wisconsin Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Trilobite"
+		name = "5. Wisconsin Infantry"
 		location = 4399
 		division_template = "Wisconsin Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Red Granite"
+		name = "6. Wisconsin Infantry"
 		location = 4399
 		division_template = "Wisconsin Infantry"
 		start_experience_factor = 0.2

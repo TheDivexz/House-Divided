@@ -12,6 +12,11 @@ state={
 		victory_points = {
 			832 5
 		}
+		
+		1858.1.11 = {
+			owner = CSA
+			controller = CSA
+		}
 
 
 	}

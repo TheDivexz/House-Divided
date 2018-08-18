@@ -11,6 +11,10 @@ state={
 	history={
 		owner = MIU
 		add_core_of = MIU
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 	provinces={

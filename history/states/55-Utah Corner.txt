@@ -4,6 +4,10 @@ state={
 	history={
 		owner = UTA
 		add_core_of = WYO
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 	state_category = large_city

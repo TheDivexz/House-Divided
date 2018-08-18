@@ -10,70 +10,70 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Sperm Whale"
+		name = "1. Connecticut Infantry"
 		location = 3744
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Mountain-laurel"
+		name = "2. Connecticut Infantry"
 		location = 3925
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "American robin"
+		name = "3. Connecticut Infantry"
 		location = 3939
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "White Oak"
+		name = "4. Connecticut Infantry"
 		location = 3839
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Charter Oak"
+		name = "5. Connecticut Infantry"
 		location = 3958
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Nutmeg"
+		name = "6. Connecticut Infantry"
 		location = 3854
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Armorial Bearings"
+		name = "7. Connecticut Infantry"
 		location = 3976
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Dilophosaurus"
+		name = "8. Connecticut Infantry"
 		location = 3909
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "American Shad"
+		name = "9. Connecticut Infantry"
 		location = 3972
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "European Praying Mantis"
+		name = "10. Connecticut Infantry"
 		location = 3861
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2

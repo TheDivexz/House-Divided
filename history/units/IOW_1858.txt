@@ -15,35 +15,35 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Eastern Goldfinches"
+		name = "1. Iowa Infantry"
 		location = 3812
 		division_template = "Iowa Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Wild Roses"
+		name = "2. Iowa Infantry"
 		location = 3930
 		division_template = "Iowa Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Hawkeyes"
+		name = "3. Iowa Infantry"
 		location = 4031
 		division_template = "Iowa Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Geodes"
+		name = "4. Iowa Infantry"
 		location = 4020
 		division_template = "Iowa Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Tama Soils"
+		name = "5. Iowa Infantry"
 		location = 3814
 		division_template = "Iowa Infantry"
 		start_experience_factor = 0.2

@@ -12,49 +12,49 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Northern Cardinals"
+		name = "1. North Carolina Infantry"
 		location = 1889
 		division_template = "North Carolina Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Northern Cardinals"
+		name = "2. North Carolina Infantry"
 		location = 1894
 		division_template = "North Carolina Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Fraser Firs"
+		name = "3. North Carolina Infantry"
 		location = 2069
 		division_template = "North Carolina Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Plott Hounds"
+		name = "3. North Carolina Infantry"
 		location = 2123
 		division_template = "North Carolina Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Dogwoods"
+		name = "4. North Carolina Infantry"
 		location = 1832
 		division_template = "North Carolina Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Pines"
+		name = "5. North Carolina Infantry"
 		location = 1653
 		division_template = "North Carolina Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Carolina Lillies"
+		name = "6. North Carolina Infantry"
 		location = 1653
 		division_template = "North Carolina Infantry"
 		start_experience_factor = 0.2

@@ -11,6 +11,10 @@ state={
 	history={
 		owner = TEN
 		add_core_of = TEN
+		1858.1.11 = {
+			owner = CSA
+			controller = CSA
+		}
 
 	}
 	provinces={

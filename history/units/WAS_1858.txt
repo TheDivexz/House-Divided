@@ -31,14 +31,14 @@ division_template = {
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Appaloosas"
+		name = "1. Idaho Infantry"
 		location = 5198
 		division_template = "Idaho Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Lady Washington"
+		name = "1. Washington Infantry"
 		location = 5172
 		division_template = "Washington Infantry"
 		start_experience_factor = 0.2

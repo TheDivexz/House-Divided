@@ -10,203 +10,203 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "P-47 Thunderbolts"
+		name = "1. Indiana Infantry"
 		location = 3202
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Northern Cardinals"
+		name = "2. Indiana Infantry"
 		location = 3144
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Peony"
+		name = "3. Indiana Infantry"
 		location = 3406
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Say's Fireflies"
+		name = "4. Indiana Infantry"
 		location = 3494
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Hoosiers"
+		name = "5. Indiana Infantry"
 		location = 3402
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Grouseland Rifles"
+		name = "6. Indiana Infantry"
 		location = 3407
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Wabash"
+		name = "7. Indiana Infantry"
 		location = 3204
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Limestones"
+		name = "8. Indiana Infantry"
 		location = 3006
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Tulip Poplars"
+		name = "9. Indiana Infantry"
 		location = 2978
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "William Henry Harrison"
+		name = "10. Indiana Infantry"
 		location = 2915
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "John Gibson"
+		name = "11. Indiana Infantry"
 		location = 3590
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Thomas Posey"
+		name = "12. Indiana Infantry"
 		location = 3617
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Jonathan Jennings"
+		name = "13. Indiana Infantry"
 		location = 3651
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Ratliff Boon"
+		name = "14. Indiana Infantry"
 		location = 3619
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "William Hendricks"
+		name = "15. Indiana Infantry"
 		location = 3407
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "James Ray"
+		name = "16. Indiana Infantry"
 		location = 3263
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Mad Ants"
+		name = "17. Indiana Infantry"
 		location = 3068
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Fever"
+		name = "18. Indiana Infantry"
 		location = 2955
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Jaguars"
+		name = "19. Indiana Infantry"
 		location = 2866
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Purple Aces"
+		name = "20. Indiana Infantry"
 		location = 2803
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Fuel"
+		name = "21. Indiana Infantry"
 		location = 2794
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Elevens"
+		name = "22. Indiana Infantry"
 		location = 3679
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Tin Caps"
+		name = "23. Indiana Infantry"
 		location = 3850
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Pacers"
+		name = "24. Indiana Infantry"
 		location = 3787
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Colts"
+		name = "25. Indiana Infantry"
 		location = 3950
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Boilmakers"
+		name = "26. Indiana Infantry"
 		location = 3499
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Fighting Irish"
+		name = "27. Indiana Infantry"
 		location = 3202
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Bulldogs"
+		name = "28. Indiana Infantry"
 		location = 3572
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Komets"
+		name = "29. Indiana Infantry"
 		location = 3572
 		division_template = "Indiana Infantry"
 		start_experience_factor = 0.2

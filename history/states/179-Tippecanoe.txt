@@ -11,6 +11,10 @@ state={
 	history={
 		owner = IND
 		add_core_of = IND
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 	provinces={

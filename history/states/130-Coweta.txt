@@ -11,6 +11,11 @@ state={
 	history={
 		owner = GEO
 		add_core_of = GEO
+		1858.1.11 = {
+			owner = CSA
+			controller = CSA
+		}
+
 
 	}
 	provinces={

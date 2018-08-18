@@ -16,6 +16,10 @@ state={
 			industrial_complex = 6
 			infrastructure = 10
 		}
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 	state_category = large_city

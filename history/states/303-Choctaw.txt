@@ -10,6 +10,10 @@ state={
 	history={
 		owner = MIS
 		add_core_of = MIS
+		1858.1.11 = {
+			owner = CSA
+			controller = CSA
+		}
 
 	}
 	provinces={

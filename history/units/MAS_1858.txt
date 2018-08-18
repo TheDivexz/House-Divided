@@ -16,49 +16,49 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Cranberries"
+		name = "1. Massachusetts Infantry"
 		location = 4083
 		division_template = "Massachusetts Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Black-Capped Chickadees"
+		name = "2. Massachusetts Infantry"
 		location = 4127
 		division_template = "Massachusetts Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Tabby"
+		name = "3. Massachusetts Infantry"
 		location = 3977
 		division_template = "Massachusetts Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Mayflower"
+		name = "4. Massachusetts Infantry"
 		location = 4098
 		division_template = "Massachusetts Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Johny Appleseed"
+		name = "5. Massachusetts Infantry"
 		location = 4118
 		division_template = "Massachusetts Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Rhodonite"
+		name = "6. Massachusetts Infantry"
 		location = 3904
 		division_template = "Massachusetts Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Ms. G"
+		name = "7. Massachusetts Infantry"
 		location = 4129
 		division_template = "Massachusetts Infantry"
 		start_experience_factor = 0.2

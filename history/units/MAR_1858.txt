@@ -14,35 +14,35 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Skipjack"
+		name = "1. Maryland Infantry"
 		location = 2922
 		division_template = "Maryland Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Black-Eyed Susan"
+		name = "2. Maryland Infantry"
 		location = 3194
 		division_template = "Maryland Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "The Old Line"
+		name = "3. Maryland Infantry"
 		location = 3157
 		division_template = "Maryland Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "White Oak"
+		name = "4. Maryland Infantry"
 		location = 3022
 		division_template = "Maryland Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Calico"
+		name = "5. Maryland Infantry"
 		location = 2693
 		division_template = "Maryland Infantry"
 		start_experience_factor = 0.2

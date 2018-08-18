@@ -14,14 +14,14 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Providence"
+		name = "1. Rhode Island Infantry"
 		location = 3872
 		division_template = "Rhode Island Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Violet"
+		name = "2. Rhode Island Infantry"
 		location = 3919
 		division_template = "Rhode Island Infantry"
 		start_experience_factor = 0.2

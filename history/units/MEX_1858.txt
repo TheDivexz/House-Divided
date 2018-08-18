@@ -32,14 +32,14 @@ division_template = {
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Black Bears"
+		name = "1. New Mexico Infantry"
 		location = 1513
 		division_template = "New Mexico Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Ringtail Cat"
+		name = "2. New Mexico Infantry"
 		location = 1412
 		division_template = "Arizona Infantry"
 		start_experience_factor = 0.2

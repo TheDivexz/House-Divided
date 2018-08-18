@@ -15,7 +15,7 @@
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Florida Panthers"
+		name = "1. Flordia Infantry"
 		location = 610
 		division_template = "Flordia Infantry"
 		start_experience_factor = 0.2

@@ -8,6 +8,10 @@ state={
 	history={
 		owner = KEN
 		add_core_of = KEN
+		1858.1.11 = {
+			owner = USA
+			controller = USA
+		}
 
 	}
 	provinces={

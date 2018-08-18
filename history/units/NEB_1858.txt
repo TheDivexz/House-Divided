@@ -65,35 +65,35 @@ division_template = {
 units = {
 	#Ushtria Shqipëtarë
 	division = {
-		name = "Grizzyl Bears"
+		name = "1. Nebraska Infantry"
 		location = 3456
 		division_template = "Montana Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "White-tailed Deer"
+		name = "2. Nebraska Infantry"
 		location = 3689
 		division_template = "Nebraska Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Bison"
+		name = "3. Nebraska Infantry"
 		location = 3993
 		division_template = "Wyoming Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Coyotes"
+		name = "4. Nebraska Infantry"
 		location = 3451
 		division_template = "South Dakota Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "Western Meadowlark"
+		name = "5. Nebraska Infantry"
 		location = 4110
 		division_template = "South Dakota Infantry"
 		start_experience_factor = 0.2
