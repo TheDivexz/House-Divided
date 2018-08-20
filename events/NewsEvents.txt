@@ -65,3 +65,66 @@ news_event = {
 		name = news.3.a
 	}
 }
+
+#Lincoln-Douglas debates
+news_event = {
+	id = news.4
+	title = news.4.t
+	desc = news.4.d
+	picture = GFX_news_event_004
+	
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1858.8.18
+		date < 1858.8.24
+	}
+	
+	option = {
+		name = news.4.a
+	}
+	option = {
+		name = news.4.b
+	}
+}
+
+#Oregon is admitted as the 33rd US state
+news_event = {
+	id = news.5
+	title = news.5.t
+	desc = news.5.d
+	picture = GFX_news_event_005
+	
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1859.2.11
+		date < 1859.2.17
+	}
+	
+	option = {
+		name = news.5.a
+	}
+	option = {
+		name = news.5.b
+	}
+}
+
+#Murder of Phillip Barton Key
+news_event = {
+	id = news.6
+	title = news.6.t
+	desc = news.6.d
+	picture = GFX_news_event_006
+	
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1859.2.24
+		date < 1859.3.1
+	}
+	
+	option = {
+		name = news.6.a
+	}
+}
