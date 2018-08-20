@@ -1,0 +1,67 @@
+# News Events
+###########################
+
+add_namespace = news
+
+#speech by James Henry Hammond
+news_event = {
+	id = news.1
+	title = news.1.t
+	desc = news.1.d
+	picture = GFX_news_event_001
+	
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1858.3.1
+		date < 1858.3.7
+	}
+	
+	option = {
+		name = news.1.a
+	}
+	option = {
+		name = news.1.b
+	}
+}
+
+#Minnesota becomes a state
+news_event = {
+	id = news.2
+	title = news.2.t
+	desc = news.2.d
+	picture = GFX_news_event_002
+	
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1858.5.8
+		date < 1858.3.14
+	}
+	
+	option = {
+		name = news.2.a
+	}
+	option = {
+		name = news.2.b
+	}
+}
+
+#House Divided Speech
+news_event = {
+	id = news.3
+	title = news.3.t
+	desc = news.3.d
+	picture = GFX_news_event_003
+	
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1858.6.13
+		date < 1858.6.19
+	}
+	
+	option = {
+		name = news.3.a
+	}
+}

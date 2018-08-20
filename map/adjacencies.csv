@@ -1,2 +1,12 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+2281;2304;;5540;-1;-1;-1;-1;PORT_KENTUCKY;Kentucky
+1859;1877;;5542;-1;-1;-1;-1;PORT_TENNESSEE;Tennessee
+1608;1533;;5544;-1;-1;-1;-1;PORT_ALABAMA;Alabama
+583;570;;5478;-1;-1;-1;-1;PORT_LOUISIANA;Louisiana
+561;545;;5474;-1;-1;-1;-1;PORT_LAFAYETTE;Louisiana
+830;899;;5483;-1;-1;-1;-1;PORT_NATCHITOCHES;Louisiana
+1221;1312;;5485;-1;-1;-1;-1;PORT_COLUMBIA;Arkansas
+1582;1587;;5495;-1;-1;-1;-1;PORT_ARKANSAS;Arkansas
+2844;2925;;5554;-1;-1;-1;-1;PORT_MISSOURI;Missouri
+1980;2007;;5501;-1;-1;-1;-1;PORT_OKLAHOMA;Oklahoma
 -1;-1;;-1;-1;-1;-1;-1;-1
