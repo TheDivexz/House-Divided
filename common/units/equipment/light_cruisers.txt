@@ -45,7 +45,7 @@ equipments = {
 			iron = 2
 		}
 		
-		manpower = 15
+		manpower = 60
 	}
 
 	uss_roanoke_equipment = {
@@ -99,7 +99,7 @@ equipments = {
 			skilled = 1
 			iron = 3
 		}
-		manpower = 20
+		manpower = 80
 	}
 	uss_miami_equipment = {
 		year = 1861
@@ -140,7 +140,7 @@ equipments = {
 			skilled = 1
 			iron = 3
 		}
-		manpower = 20
+		manpower = 80
 	}
 	
 	
@@ -182,7 +182,7 @@ equipments = {
 			skilled = 2
 			iron = 3
 		}
-		manpower = 24
+		manpower = 96
 	}
 	uss_monitor_equipment = {
 		year = 1862
@@ -223,7 +223,7 @@ equipments = {
 			skilled = 2
 			iron = 3
 		}
-		manpower = 24
+		manpower = 96
 	}
 	uss_benton_equipment = {
 		year = 1862
@@ -263,7 +263,7 @@ equipments = {
 			skilled = 2
 			iron = 3
 		}
-		manpower = 24
+		manpower = 96
 	}
 	
 	
@@ -306,7 +306,7 @@ equipments = {
 			iron = 4
 			food = 1
 		}
-		manpower = 30
+		manpower = 120
 	}
 
 	###### SPECIAL JAP TECH FROM FOCUS ######	

@@ -45,7 +45,7 @@ equipments = {
 			iron = 2
 		}
 		
-		manpower = 7
+		manpower = 28
 	}
 
 	css_louisiana_equipment = {
@@ -100,7 +100,7 @@ equipments = {
 			skilled = 1
 			iron = 3
 		}		
-		manpower = 8
+		manpower = 32
 	}
 	css_missouri_equipment = {
 		year = 1863
@@ -142,7 +142,7 @@ equipments = {
 			skilled = 1
 			iron = 3
 		}		
-		manpower = 8
+		manpower = 32
 	}
 	css_mississippi_equipment = {
 		year = 1862
@@ -184,7 +184,7 @@ equipments = {
 			skilled = 1
 			iron = 3
 		}		
-		manpower = 8
+		manpower = 32
 	}
 	
 	uss_keokuk_equipment = {
@@ -226,7 +226,7 @@ equipments = {
 			skilled = 2
 			iron = 3
 		}
-		manpower = 10
+		manpower = 40
 	}
 	css_fredericksburg_equipment = {
 		year = 1864
@@ -267,7 +267,7 @@ equipments = {
 			skilled = 2
 			iron = 3
 		}
-		manpower = 10
+		manpower = 40
 	}
 	uss_onondaga_equipment = {
 		year = 1864
@@ -308,7 +308,7 @@ equipments = {
 			skilled = 2
 			iron = 3
 		}
-		manpower = 10
+		manpower = 40
 	}
 	
 	destroyer_4 = {
@@ -352,6 +352,6 @@ equipments = {
 			iron = 4
 			food = 1
 		}		
-		manpower = 13
+		manpower = 52
 	}
 }

@@ -46,7 +46,7 @@ equipments = {
 			iron = 3
 		}
 		
-		manpower = 38
+		manpower = 152
 	}
 
 	uss_lafayette_equipment = {
@@ -99,7 +99,7 @@ equipments = {
 			skilled = 1
 			iron = 4
 		}		
-		manpower = 43
+		manpower = 172
 	}
 	css_albemarie_equipment = {
 		year = 1864
@@ -136,7 +136,7 @@ equipments = {
 			skilled = 1
 			iron = 4
 		}		
-		manpower = 43
+		manpower = 172
 	}
 	
 	css_stonewall_equipment = {
@@ -174,7 +174,7 @@ equipments = {
 			skilled = 2
 			iron = 4
 		}		
-		manpower = 48
+		manpower = 192
 	}
 	
 	uss_dunderberg_equipment = {
@@ -213,6 +213,6 @@ equipments = {
 			iron = 5
 			food = 1
 		}		
-		manpower = 2200
+		manpower = 220
 	}
 }

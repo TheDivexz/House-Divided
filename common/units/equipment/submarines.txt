@@ -46,7 +46,7 @@ equipments = {
 			iron = 1
 		}
 		
-		manpower = 5
+		manpower = 20
 	}
 
 	css_hlhunley_equipment = {

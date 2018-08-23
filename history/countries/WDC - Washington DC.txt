@@ -80,7 +80,6 @@ add_to_faction = OHI
 add_to_faction = PEN
 add_to_faction = RHO
 add_to_faction = SCA
-add_to_faction = SDA
 add_to_faction = TEN
 add_to_faction = TEX
 add_to_faction = VER

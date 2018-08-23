@@ -47,7 +47,7 @@ equipments = {
 			food = 1
 		}
 		
-		manpower = 88
+		manpower = 352
 	}
 	
 	uss_vermont_equipment = {

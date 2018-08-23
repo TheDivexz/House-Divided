@@ -12,8 +12,8 @@ USA = {
 	color_ui = rgb { 0  40  104 }
 }
 CSA = {
-	color = rgb { 100  100  100 }
-	color_ui = rgb { 100  100  100 }
+	color = rgb { 50  50  50 }
+	color_ui = rgb { 50  50  50 }
 }
 ARK = {
 	color = rgb { 0  240  0 }
@@ -164,8 +164,8 @@ RHO = {
 	color_ui = rgb { 10  137  245 }
 }
 SCA = {
-	color = rgb { 0  255  127 }
-	color_ui = rgb { 10  245  137 }
+	color = rgb { 50 50 50 }
+	color_ui = rgb { 50 50 50 }
 }
 SDA = {
 	color = rgb { 35  107  142 }
@@ -192,8 +192,8 @@ VIR = {
 	color_ui = rgb { 89  57  89 }
 }
 WDC = {
-	color = rgb { 204  50  153 }
-	color_ui = rgb { 214  60  163 }
+	color = rgb { 0 40 104 }
+	color_ui = rgb { 0 40 104 }
 }
 WAS = {
 	color = rgb { 153  204  50 }

@@ -46,7 +46,7 @@ equipments = {
 			unskilled = 1
 		}
 
-		manpower = 150
+		manpower = 600
 	}
 
 	uss_congress_equipment = {
@@ -92,7 +92,7 @@ equipments = {
 			iron = 4
 			unskilled = 1
 		}
-		manpower = 150
+		manpower = 600
 		
 	}
 	
@@ -132,7 +132,7 @@ equipments = {
 			iron = 4
 			unskilled = 2
 		}
-		manpower = 175
+		manpower = 700
 
 	}
 	uss_wabash_equipment = {
@@ -172,7 +172,7 @@ equipments = {
 			iron = 4
 			unskilled = 2
 		}
-		manpower = 175
+		manpower = 700
 
 	}
 	
@@ -212,7 +212,7 @@ equipments = {
 			iron = 5
 			food = 3
 		}
-		manpower = 185
+		manpower = 740
 		
 	}
 	uss_brooklyn_equipment = {
@@ -291,7 +291,7 @@ equipments = {
 			iron = 4
 			food = 1
 		}
-		manpower = 225
+		manpower = 740
 		
 	}
 	uss_kearsarge_equipment = {
@@ -329,7 +329,7 @@ equipments = {
 			iron = 4
 			food = 1
 		}
-		manpower = 225
+		manpower = 900
 		
 	}
 	
@@ -369,7 +369,7 @@ equipments = {
 			iron = 5
 			food = 3
 		}
-		manpower = 250
+		manpower = 1000
 		
 	}
 
