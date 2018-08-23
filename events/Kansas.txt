@@ -1,0 +1,20 @@
+###########################
+# Kansas Events
+###########################
+
+add_namespace = kansas
+
+country_event = {
+	id = kansas.1
+	title = kansas.1.t
+	desc = kansas.1.d
+	picture = GFX_kansas_event_001
+	
+	trigger = {
+		NOT = { has_global_flag = scw_over }
+		tag = KAN
+		has_defensive_war = no
+		NOT = { has_government = communism }
+		date > 1936.2.16 # Trigger at some point after 1936 elections
+	}
+}
