@@ -4,6 +4,7 @@
 
 add_namespace = kansas
 
+#Marais des Cygnes massacre
 country_event = {
 	id = kansas.1
 	title = kansas.1.t
@@ -15,6 +16,53 @@ country_event = {
 		tag = KAN
 		has_defensive_war = no
 		NOT = { has_government = communism }
-		date > 1936.2.16 # Trigger at some point after 1936 elections
+		date > 1858.5.16
+		date < 1858.5.22
+	}
+	
+	option = { #Support Slavery
+		name = kansas.1.a
+		trigger = {
+			is_ai = no
+		}
+		hidden_effect = {
+			set_capital = 217
+			start_civil_war = {
+				ruling_party = communism
+				ideology = democratic
+				size = 0.5
+				capital = 37
+				states = {
+					213 214 215 216 217 222
+				}
+			}
+			random_other_country = {
+				limit = {
+					original_tag = KAN
+					has_government = democratic
+				}
+				load_oob = "KAN_civil_war"
+				set_equipment_fraction = 0.5
+				set_stability = 0.9
+				set_war_support = 0.8
+				add_popularity = {
+					ideology = neutral
+					popularity = 0.35
+				}
+				
+			}
+			news_event = { hours = 6 id = news.7 }
+			set_global_flag = bleeding_kansas
+				
+			load_oob = QAN_civil_war
+			set_equipment_fraction = 0.5
+			set_stability = 0.9
+			set_war_support = 0.8
+			
+			add_popularity = {
+				ideology = communism
+				popularity = 1
+			}
+		}
 	}
 }
