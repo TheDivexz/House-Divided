@@ -1,0 +1,209 @@
+#23
+division_template = {
+	name = "Bleeding Kansas Infantry"
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+}
+division_template = {
+	name = "Bleeding Kansas Cavalry"
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 0 y = 2 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		cavalry = { x = 1 y = 2 }
+	}
+}
+units = {
+	division = {
+		name = "1.Bleeding Infantry"
+		location = 3067
+		division_template = "Bleeding Kansas Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "2.Bleeding Infantry"
+		location = 2991
+		division_template = "Bleeding Kansas Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "3.Bleeding Infantry"
+		location = 2909
+		division_template = "Bleeding Kansas Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "4.Bleeding Infantry"
+		location = 2923
+		division_template = "Bleeding Kansas Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "5.Bleeding Infantry"
+		location = 2846
+		division_template = "Bleeding Kansas Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "6.Bleeding Infantry"
+		location = 2908
+		division_template = "Bleeding Kansas Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "7.Bleeding Infantry"
+		location = 2947
+		division_template = "Bleeding Kansas Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "8.Bleeding Infantry"
+		location = 3030
+		division_template = "Bleeding Kansas Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "1.Bleeding Cavalry"
+		location = 2771
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "2.Bleeding Cavalry"
+		location = 2897
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "3.Bleeding Cavalry"
+		location = 2770
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "4.Bleeding Cavalry"
+		location = 2819
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "5.Bleeding Cavalry"
+		location = 2897
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "6.Bleeding Cavalry"
+		location = 2849
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "7.Bleeding Cavalry"
+		location = 2818
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "8.Bleeding Cavalry"
+		location = 2817
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "9.Bleeding Cavalry"
+		location = 2807
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "10.Bleeding Cavalry"
+		location = 2816
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "11.Bleeding Cavalry"
+		location = 2815
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "12.Bleeding Cavalry"
+		location = 2678
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "13.Bleeding Cavalry"
+		location = 2619
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "14.Bleeding Cavalry"
+		location = 2481
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "15.Bleeding Cavalry"
+		location = 2356
+		division_template = "Bleeding Kansas Cavalry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+
+	}
+}

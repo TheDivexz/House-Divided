@@ -11,13 +11,16 @@ country_event = {
 	desc = kansas.1.d
 	picture = GFX_kansas_event_001
 	
+	fire_only_once = yes
+	
 	trigger = {
-		NOT = { has_global_flag = scw_over }
 		tag = KAN
-		has_defensive_war = no
 		NOT = { has_government = communism }
-		date > 1858.5.16
-		date < 1858.5.22
+		date > 1858.5.1
+	}
+	
+	mean_time_to_happen = {
+		days = 30
 	}
 	
 	option = { #Support Slavery
@@ -32,9 +35,7 @@ country_event = {
 				ideology = democratic
 				size = 0.5
 				capital = 37
-				states = {
-					213 214 215 216 217 222
-				}
+				states = { 37 63 218 219 220 221 223}
 			}
 			random_other_country = {
 				limit = {
@@ -46,7 +47,7 @@ country_event = {
 				set_stability = 0.9
 				set_war_support = 0.8
 				add_popularity = {
-					ideology = neutral
+					ideology = neutrality
 					popularity = 0.35
 				}
 				
@@ -63,6 +64,63 @@ country_event = {
 				ideology = communism
 				popularity = 1
 			}
+			random_other_country = {
+				limit = {
+					original_tag = KAN
+					has_government = democratic
+				}
+				set_cosmetic_tag = KAN_civil_war
+			}
 		}
+		custom_effect_tooltip = slavery_chosen
+	}
+	
+	option = { #Support Abolition 
+		name = kansas.1.b
+		hidden_effect = {
+			start_civil_war = {
+				ideology = communism
+				size = 0.5
+				capital = 217
+				states = {
+					213 214 215 216 217 222
+				}
+			}
+			random_other_country = {
+				limit = {
+					original_tag = KAN
+					has_government = communism
+				}
+				set_equipment_fraction = 0.5
+				set_stability = 0.9
+				set_war_support = 0.8
+				load_oob = QAN_civil_war
+			}
+			news_event = { hours = 6 id = news.7 }
+			set_politics = {
+				ruling_party = democratic
+				elections_allowed = yes
+			}
+			add_popularity = {
+				ideology = democratic
+				popularity = 0.5
+			}
+			add_popularity = {
+				ideology = communism
+				popularity = -1
+			}
+			random_other_country = {
+				limit = {
+					original_tag = KAN
+					has_government = communism
+				}
+				set_cosmetic_tag = bleeding_kansas
+			}
+			load_oob = "KAN_civil_war"
+			set_equipment_fraction = 0.5
+			set_stability = 0.9
+			set_war_support = 0.8
+		}
+		custom_effect_tooltip = abolition_chosen
 	}
 }

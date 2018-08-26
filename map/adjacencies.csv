@@ -9,4 +9,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 1582;1587;;5495;-1;-1;-1;-1;PORT_ARKANSAS;Arkansas
 2844;2925;;5554;-1;-1;-1;-1;PORT_MISSOURI;Missouri
 1980;2007;;5501;-1;-1;-1;-1;PORT_OKLAHOMA;Oklahoma
+2947;3030;;5561;-1;-1;-1;-1;PORT_BREKENRIDGE;Kansas
+2990;3066;;5558;-1;-1;-1;-1;PORT_KANSAS;Kansas
+2991;3067;;5558;-1;-1;-1;-1;PORT_LINN;Kansas
 -1;-1;;-1;-1;-1;-1;-1;-1
