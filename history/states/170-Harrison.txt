@@ -13,6 +13,10 @@ state={
 		add_core_of = IND
 		buildings = {
 			arms_factory = 2
+			dockyard = 1
+			2705 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA

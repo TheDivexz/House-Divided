@@ -12,6 +12,10 @@ state={
 		buildings = {
 			arms_factory = 2
 			infrastructure = 2
+			dockyard = 1
+			3346 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA

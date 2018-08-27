@@ -12,6 +12,10 @@ state={
 		add_core_of = MIU
 		buildings = {
 			infrastructure = 1
+			dockyard = 1
+			2998 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA

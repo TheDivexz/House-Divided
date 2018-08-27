@@ -10,6 +10,12 @@ state={
 	history={
 		owner = KEN
 		add_core_of = KEN
+		buildings = {
+			dockyard = 1
+			3012 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = USA
 			controller = USA
