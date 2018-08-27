@@ -11,6 +11,12 @@ state={
 	history={
 		owner = NCA
 		add_core_of = NCA
+		buildings = {
+			dockyard = 1
+			1987 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = CSA
 			controller = CSA

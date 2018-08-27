@@ -12,6 +12,10 @@ state={
 		add_core_of = VIR
 		buildings = {
 			arms_factory = 1
+			dockyard = 1
+			2576 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = CSA

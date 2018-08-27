@@ -13,6 +13,10 @@ state={
 		add_core_of = WVI
 		buildings = {
 			industrial_complex = 1
+			dockyard = 1
+			3092 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA

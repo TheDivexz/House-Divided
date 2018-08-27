@@ -13,6 +13,10 @@ state={
 		add_core_of = SCA
 		buildings = {
 			infrastructure = 4
+			dockyard = 1
+			1353 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = CSA

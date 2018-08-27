@@ -11,6 +11,12 @@ state={
 	history={
 		owner = VIR
 		add_core_of = VIR
+		buildings = {
+			dockyard = 1
+			2412 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = CSA
 			controller = CSA
