@@ -10,7 +10,12 @@ state={
 	history={
 		owner = TEX
 		add_core_of = TEX
-		
+		buildings = {
+			dockyard = 1
+			449 = {
+				naval_base = 3
+			}
+		}
 		victory_points = {
 			542 5
 		}

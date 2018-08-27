@@ -14,6 +14,10 @@ state={
 		add_core_of = LOU
 		buildings = {
 			infrastructure = 4
+			dockyard = 1
+			1085 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = CSA

@@ -9,6 +9,13 @@ state={
 	}
 	history={
 	
+		buildings = {
+			dockyard = 1
+			496 = {
+				naval_base = 3
+			}
+		}
+	
 		victory_points = {
 			472 20
 		}

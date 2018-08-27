@@ -13,6 +13,10 @@ state={
 		add_core_of = TEN
 		buildings = {
 			infrastructure = 2
+			dockyard = 1
+			1989 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = CSA

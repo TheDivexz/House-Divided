@@ -10,6 +10,10 @@ state={
 		add_core_of = KAN
 		buildings = {
 			infrastructure = 1
+			dockyard = 1
+			2991 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA

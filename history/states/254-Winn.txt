@@ -12,6 +12,12 @@ state={
 	history={
 		owner = LOU
 		add_core_of = LOU
+		buildings = {
+			dockyard = 1
+			909 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = CSA
 			controller = CSA

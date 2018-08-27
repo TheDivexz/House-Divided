@@ -12,6 +12,12 @@ state={
 	history={
 		owner = TEN
 		add_core_of = TEN
+		buildings = {
+			dockyard = 1
+			1713 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = CSA
 			controller = CSA

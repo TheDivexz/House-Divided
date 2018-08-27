@@ -12,6 +12,12 @@ state={
 		victory_points = {
 			1089 10 
 		}
+		buildings = {
+			dockyard = 1
+			1303 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = CSA
 			controller = CSA
