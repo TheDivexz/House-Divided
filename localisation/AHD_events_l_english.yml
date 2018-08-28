@@ -8,7 +8,7 @@
  news.1.b:0 "Stick it to those Yankees!"
  
  news.2.t:0 "Minnesota is granted statehood"
- news.2.d:0 "After a year and a half of battling it out with senate, the north has won. Minnesota will be admited to the union, now all Minnesota needs to do is write up a constitution. How hard can it be?"
+ news.2.d:0 "After a year and a half of battling it out with senate, the north has won. Minnesota will be admited to the union as a free state, now all Minnesota needs to do is write up a constitution. How hard can it be?"
  news.2.a:0 "2 more votes for abolition!"
  news.2.b:0 "We must preserve the institution"
  
@@ -35,6 +35,10 @@
  news.7.a:0 "How Barbaric."
  news.7.b:0 "For Dixie!"
  
+ news.8.t:0 "Minnesota is granted statehood"
+ news.8.d:0 "After a year and a half of battling it out with senate, the south has won. Minnesota will be admited to the union as a slave state, now all Minnesota needs to do is write up a constitution. How hard can it be?"
+ news.8.a:0 "That was unexpected"
+ 
  ######Kansas Events###########
 
 ###################################
@@ -42,4 +46,12 @@
  kansas.1.d:0 "Ever since Kansas started becoming a candiate for statehood, many pro-slavery and anti-slavery men have battled it out in kansas to either flip kansas into a slave state or free state.Today a group of 30 men led by Charles Hamilton, a proslavery leader, captured 11 men and killed 5 of them. It's time we settle this once and for all. This is Bleeding Kansas after all."
  news.1.a:0 "For Slavery!"
  news.1.b:0 "For Abolition!"
+ 
+ ######Minnesota Events###########
+
+###################################
+ minnesota.1.t:0 "Statehood"
+ minnesota.1.d:0 "The time has come to decide if Minnesota should become a free state or a slave state"
+ minnesota.1.a:0 "Free State"
+ minnesota.1.b:0 "Slave State"
  

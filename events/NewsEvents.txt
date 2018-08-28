@@ -34,11 +34,7 @@ news_event = {
 	picture = GFX_news_event_002
 	
 	fire_only_once = yes
-	
-	trigger = {
-		date > 1858.5.8
-		date < 1858.3.14
-	}
+	is_triggered_only = yes
 	
 	option = {
 		name = news.2.a
@@ -145,5 +141,20 @@ news_event = {
 	}
 	option = {
 		name = news.7.b
+	}
+}
+
+#Minnesota becomes a slave state
+news_event = {
+	id = news.8
+	title = news.8.t
+	desc = news.8.d 
+	picture = GFX_news_event_008
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = news.8.a
 	}
 }

@@ -1,0 +1,83 @@
+###########################
+# Minnesota Events
+###########################
+
+add_namespace = minnestota
+
+#Statehood
+country_event = {
+	id = minnestota.1
+	title = minnesota.1.t
+	desc = minnesota.1.d
+	picture = GFX_minnesota_event_001
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = MIN
+		date > 1858.5.1
+	}
+	
+	mean_time_to_happen = {
+		days = 30
+	}
+	
+	option = { #becomes free state
+		name = minnesota.1.a
+		if = {
+			limit = {
+				is_historical_focus_on
+			}
+			ai_chance = {
+				factor = 1
+			}
+		}
+		else = {
+			ai_chance = {
+				factor = 50
+			}
+		}
+		news_event = { hours = 6 id = news.2 }
+		set_politics = {
+			ruling_party = democratic
+			elections_allowed = yes
+		}
+		add_popularity = {
+			ideology = democratic
+			popularity = 0.97
+		}
+		add_popularity = {
+			ideology = communism
+			popularity = 0.02
+		}
+	}
+	option = { #bocomes a slave state
+		name = minnesota.1.b
+		if = {
+			limit = {
+				is_historical_focus_on
+			}
+			ai_chance = {
+				factor = 0
+			}
+		}
+		else = {
+			ai_chance = {
+				factor = 50
+			}
+		}
+		news_event = { hours = 6 id = news.8 }
+		set_politics = {
+			ruling_party = communism
+			elections_allowed = yes
+		}
+		add_popularity = {
+			ideology = communism
+			popularity = 63
+		}
+		add_popularity = {
+			ideology = democratic
+			popularity = 34
+		}
+	}
+}
