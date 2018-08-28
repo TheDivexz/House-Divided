@@ -12,6 +12,10 @@ state={
 		add_core_of = MIN
 		buildings = {
 			infrastructure = 3
+			dockyard = 1
+			4940 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA

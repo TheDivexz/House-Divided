@@ -12,6 +12,10 @@ state={
 		add_core_of = MIC
 		buildings = {
 			infrastructure = 2
+			dockyard = 1
+			4017 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA

@@ -12,6 +12,10 @@ state={
 		add_core_of = OHI
 		buildings = {
 			infrastructure = 3
+			dockyard = 1
+			3416 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA

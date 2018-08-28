@@ -10,6 +10,12 @@ state={
 	history={
 		owner = MIN
 		add_core_of = MIN
+		buildings = {
+			dockyard = 1
+			4712 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = USA
 			controller = USA

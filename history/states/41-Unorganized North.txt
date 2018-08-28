@@ -5,6 +5,12 @@ state={
 	history={
 		owner = SDA
 		add_core_of = NDO
+		buildings = {
+			dockyard = 1
+			5151 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = USA
 			controller = USA

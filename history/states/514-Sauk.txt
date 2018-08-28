@@ -12,6 +12,10 @@ state={
 		add_core_of = WIS
 		buildings = {
 			infrastructure = 4
+			dockyard = 1
+			4445 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA

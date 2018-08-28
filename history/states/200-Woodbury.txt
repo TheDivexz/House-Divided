@@ -9,6 +9,12 @@ state={
 	history={
 		owner = IOW
 		add_core_of = IOW
+		buildings = {
+			dockyard = 1
+			4137 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = USA
 			controller = USA

@@ -8,6 +8,12 @@ state={
 	history={
 		owner = NEB
 		add_core_of = NEB
+		buildings = {
+			dockyard = 1
+			3444 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = USA
 			controller = USA

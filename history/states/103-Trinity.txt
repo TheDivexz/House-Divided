@@ -15,6 +15,12 @@ state={
 		victory_points = {
 			3400 5
 		}
+		buildings = {
+			dockyard = 1
+			3409 = {
+				naval_base = 3
+			}
+		}
 		1858.1.11 = {
 			owner = USA
 			controller = USA

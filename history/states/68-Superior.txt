@@ -9,6 +9,10 @@ state={
 		add_core_of = SUP
 		buildings = {
 			infrastructure = 2
+			dockyard = 1
+			4938 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA

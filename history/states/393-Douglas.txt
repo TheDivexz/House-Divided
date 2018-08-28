@@ -15,6 +15,13 @@ state={
 			4266 5 
 		}
 		
+		buildings = {
+			dockyard = 1
+			4246 = {
+				naval_base = 3
+			}
+		}
+		
 		1858.1.11 = {
 			owner = USA
 			controller = USA

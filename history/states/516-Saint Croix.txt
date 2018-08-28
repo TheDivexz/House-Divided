@@ -13,6 +13,10 @@ state={
 		buildings = {
 			industrial_complex = 1
 			infrastructure = 2
+			dockyard = 1
+			4723 = {
+				naval_base = 3
+			}
 		}
 		1858.1.11 = {
 			owner = USA
