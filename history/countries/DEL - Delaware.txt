@@ -12,22 +12,22 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 100
+			popularity = 29
 		}
 
 		communism = {
-			popularity = 0
+			popularity = 45
 		}
 		
 		fascism = {
-			popularity = 0
+			popularity = 2
 		}
 		neutrality = { 
-			popularity = 0
+			popularity = 24
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = communisms
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
