@@ -12,18 +12,18 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 100
+			popularity = 91
 		}
 
 		communism = {
-			popularity = 0
+			popularity = 6
 		}
 		
 		fascism = {
-			popularity = 0
+			popularity = 1
 		}
 		neutrality = { 
-			popularity = 0
+			popularity = 2
 		}
 	}
 	
