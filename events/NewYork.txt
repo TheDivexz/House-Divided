@@ -1,0 +1,25 @@
+###########################
+# New York Events
+###########################
+
+add_namespace = newyork
+
+#Paulist Fathers
+country_event = {
+	id = newyork.1
+	title = newyork.1.t
+	desc = newyork.1.d
+	picture = GFX_newyork_event_001
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = YOR
+		date > 1858.7.4
+		date < 1858.7.12
+	}
+	
+	option = {
+		name = newyork.1.a
+	}
+}

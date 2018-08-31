@@ -26,15 +26,10 @@ country_event = {
 		name = minnesota.1.a
 		if = {
 			limit = {
-				is_historical_focus_on
+				is_historical_focus_on = yes
 			}
-			ai_chance = {
+			ai_will_do = {
 				factor = 1
-			}
-		}
-		else = {
-			ai_chance = {
-				factor = 50
 			}
 		}
 		news_event = { hours = 6 id = news.2 }
@@ -55,15 +50,10 @@ country_event = {
 		name = minnesota.1.b
 		if = {
 			limit = {
-				is_historical_focus_on
+				is_historical_focus_on = yes
 			}
-			ai_chance = {
+			ai_will_do = {
 				factor = 0
-			}
-		}
-		else = {
-			ai_chance = {
-				factor = 50
 			}
 		}
 		news_event = { hours = 6 id = news.8 }

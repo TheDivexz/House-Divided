@@ -158,3 +158,21 @@ news_event = {
 		name = news.8.a
 	}
 }
+
+#Pike's Peak Gold Rush start
+news_event = {
+	id = news.9
+	title = news.9.t
+	desc = news.9.d
+	picture = GFX_news_event_009
+	
+	fire_only_once = yes
+	trigger = {
+		date > 1858.7.1
+		date < 1858.7.31
+	}
+	
+	option = {
+		name = news.9.a
+	}
+}

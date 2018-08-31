@@ -52,4 +52,3 @@ create_field_marshal = {
 	picture = "Portrait_Europe_Generic_land_3.dds"
 	skill = 1
 }
-
