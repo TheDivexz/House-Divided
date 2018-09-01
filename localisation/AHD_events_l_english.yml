@@ -36,12 +36,21 @@
  news.7.b:0 "For Dixie!"
  
  news.8.t:0 "Minnesota is granted statehood"
- news.8.d:0 "After a year and a half of battling it out with senate, the south has won. Minnesota will be admited to the union as a slave state, now all Minnesota needs to do is write up a constitution. How hard can it be?"
+ news.8.d:0 "After a year and a half of battling it out with senate, the south has won. Minnesota will be admitted to the union as a slave state, now all Minnesota needs to do is write up a constitution. How hard can it be?"
  news.8.a:0 "That was unexpected"
  
  news.9.t:0 "Pike's Peak Gold Rush"
  news.9.d:0 "For a long time now, people have suspected Colorado to be housing a potential gold mine waiting to exploited. In 1835 gold samples were found in the mountains of Colorado by a French trapper named Eustace Carriere however, he was unable to locate the source of his findings afterwords. Now, after 24 years of that claim and about a decade after the California Gold Rush, 2 men by the names of Green Russell and Sam Bates have confirmed the existance of gold in Colorado and thus, the hysteria is reborn anew."
  news.9.a:0 "Here we go again"
+ 
+ news.10.t:0 "Oregon is granted statehood"
+ news.10.d:0 "Through the help of some native relocation. Oregon has been admitted to the union as a Free State"
+ news.10.a:0 "2 more votes for abolition"
+ 
+ news.10.t:0 "Oregon is granted statehood"
+ news.10.d:0 "Through the help of some native relocation. Oregon has been admitted to the union as a Slave State"
+ news.10.a:0 "2 more votes for slavery"
+ 
  
  ######Kansas Events###########
 
@@ -59,9 +68,17 @@
  minnesota.1.a:0 "Free State"
  minnesota.1.b:0 "Slave State"
  
-  ######New York Events###########
+ ######New York Events###########
 
 ###################################
  newyork.1.t:0 "Paulist Fathers"
  newyork.1.d:0 "On July 7, 1858 Isaac Thomas Hecker, along with George Deshon, Augustin Hewit, and Francis A. Backer, formed the Paulist Fathers in New York City. The Paulist Fathers is a Roman Catholic society of apostolic life for men."
  newyork.1.a:0 "okay"
+ 
+ ######Oregon Events###########
+
+###################################
+ oregon.1.t:0 "Oregon Statehood"
+ oregon.1.d:0 "It's finally time to join the union, but first, we must address the elephant in the room. Should Oregon be a Free State or a Slave State?"
+ oregon.1.a:0 "Free State"
+ oregon.1.b:0 "Slave State"

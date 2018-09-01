@@ -1,0 +1,83 @@
+###########################
+# Oregon Events
+###########################
+
+add_namespace = oregon
+
+#statehood
+country_event = {
+	id = oregon.1
+	title = oregon.1.t
+	desc = oregon.1.d
+	picture = GFX_oregon_event_001
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = ORE
+		date > 1859.2.1
+	}
+	
+	mean_time_to_happen = {
+		days = 30
+	}
+	
+	option = { #becomes a free state
+		name = oregon.1.a
+		if = {
+			limit = {
+				is_historical_on = yes
+			}
+			ai_will_do = {
+				factor = 1
+			}
+		}
+		news_event = { hours = 6 id = news.10 }
+		set_politics = {
+			ruling_party = democratic
+			elections_allowed = yes
+		}
+		add_popularity = {
+			ideology = democratic
+			popularity = 0.64
+		}
+		add_popularity = {
+			ideology = communism
+			popularity = 0.34
+		}
+		WAS = {
+			transfer_state = 47
+			transfer_state = 57
+		}
+	}
+	
+	option = { #becomes a slave state
+		name = oregon.1.b
+		if = {
+			limit = {
+				is_historical_on = yes
+			}
+			ai_will_do = {
+				factor = 1
+			}
+		}
+		news_event = { hours = 6 id = news.11 }
+		set_politics = {
+			ruling_party = communism
+			elections_allowed = yes
+		}
+		add_popularity = {
+			ideology = democratic
+			popularity = 0.36
+		}
+		add_popularity = {
+			ideology = communism
+			popularity = 0.62
+		}
+		WAS = {
+			transfer_state = 47
+			transfer_state = 57
+		}
+	}
+
+}

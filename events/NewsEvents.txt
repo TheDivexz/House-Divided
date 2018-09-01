@@ -176,3 +176,33 @@ news_event = {
 		name = news.9.a
 	}
 }
+
+#Oregon admitted as a free state
+news_event = {
+	id = news.10
+	title = news.10.t 
+	desc = news.10.d
+	picture = GFX_news_event_010
+	
+	fire_only_once = yes
+	is_triggered_only = yes 
+	
+	option = {
+		name = news.10.a
+	}
+}
+
+#Oregon admitted as a slave state
+news_event = {
+	id = news.11
+	title = news.11.t 
+	desc = news.11.d
+	picture = GFX_news_event_011
+	
+	fire_only_once = yes
+	is_triggered_only = yes 
+	
+	option = {
+		name = news.11.a
+	}
+}
