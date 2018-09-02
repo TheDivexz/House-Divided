@@ -1,0 +1,31 @@
+###########################
+# Pennyslvania Events
+###########################
+
+add_namespace = pennsylvania
+
+#Zoological Society of Philadelphia
+country_event = {
+	id = pennsylvania.1
+	title = pennsylvania.1.t 
+	desc = pennsylvania.1.d 
+	picture = GFX_pennsylvania_event_001
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = PEN
+		date > 1859.3.1
+	}
+	
+	mean_time_to_happen = {
+		days = 30
+	}
+	
+	option = {
+		name = pennsylvania.1.a
+	}
+	option = {
+		name = pennsylvania.1.b
+	}
+}

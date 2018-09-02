@@ -82,3 +82,11 @@
  oregon.1.d:0 "It's finally time to join the union, but first, we must address the elephant in the room. Should Oregon be a Free State or a Slave State?"
  oregon.1.a:0 "Free State"
  oregon.1.b:0 "Slave State"
+ 
+ ######Pennsylvania Events###########
+
+###################################
+ pennsylvania.1.t:0 "Zoological Society of Philadelphia"
+ pennsylvania.1.d:0 "Today we have the option to charter the Philadelphia Zoo. Not only would this be the first Zoo in Pennsylvania but, it would also be America's first zoo. If this charter is approved it could be a great source of pride for Pennsylvania."
+ pennsylvania.1.a:0 "Approve the Charter"
+ pennsylvania.1.b:0 "Deny the Charter"
