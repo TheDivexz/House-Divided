@@ -1861,3 +1861,23 @@ units = {
 		start_equipment_factor = 0.3
 	}
 }
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = kentucky_rifle_equipment
+			creator = "USA"
+		}
+		requested_factories = 1
+		progress = 0.86
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "USA"
+		}
+		requested_factories = 1
+		progress = 0.40
+		efficiency = 100
+	}
+}

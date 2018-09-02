@@ -1,6 +1,6 @@
 ﻿capital = 13
 
-OOB = "WDC_1858"
+OOB = "USA_1858"
 
 set_technology = {
 	kentucky_rifle = 1

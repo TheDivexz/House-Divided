@@ -1,6 +1,6 @@
 ﻿capital = 17
 
-OOB = "VIR_1858"
+OOB = "CSA_1858"
 
 set_technology = {
 	kentucky_rifle = 1
