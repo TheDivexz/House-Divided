@@ -22,14 +22,6 @@ units = {
 		start_equipment_factor = 0.3
 
 	}
-	division = {
-		name = "2. Arkansas Infantry"
-		location = 1583
-		division_template = "Arkansas Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
 }
 
 ### Starting Production ###

@@ -24,27 +24,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "2. Kentucky Infantry"
-		location = 2850
-		division_template = "Kentucky Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "3. Kentucky Infantry"
-		location = 2867
-		division_template = "Kentucky Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Kentucky Infantry"
-		location = 2670
-		division_template = "Kentucky Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

@@ -38,14 +38,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "2. New Mexico Infantry"
-		location = 1412
-		division_template = "Arizona Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
 }
 
 ### Starting Production ###

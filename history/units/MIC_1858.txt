@@ -26,41 +26,7 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "3. Michigan Infantry"
-		location = 4334
-		division_template = "Michigan Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Michigan Infantry"
-		location = 4176
-		division_template = "Michigan Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Michigan Infantry"
-		location = 4105
-		division_template = "Michigan Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Michigan Infantry"
-		location = 4010
-		division_template = "Michigan Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Michigan Infantry"
-		location = 4017
-		division_template = "Michigan Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
+
 }
 
 ### Starting Production ###

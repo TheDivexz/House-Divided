@@ -22,13 +22,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "2. South Carolina Infantry"
-		location = 1217
-		division_template = "South Carolina Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

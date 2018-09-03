@@ -23,62 +23,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "3. Connecticut Infantry"
-		location = 3939
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Connecticut Infantry"
-		location = 3839
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Connecticut Infantry"
-		location = 3958
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Connecticut Infantry"
-		location = 3854
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Connecticut Infantry"
-		location = 3976
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "8. Connecticut Infantry"
-		location = 3909
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "9. Connecticut Infantry"
-		location = 3972
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. Connecticut Infantry"
-		location = 3861
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

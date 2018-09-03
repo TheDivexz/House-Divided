@@ -28,27 +28,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "3. Iowa Infantry"
-		location = 4031
-		division_template = "Iowa Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Iowa Infantry"
-		location = 4020
-		division_template = "Iowa Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Iowa Infantry"
-		location = 3814
-		division_template = "Iowa Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

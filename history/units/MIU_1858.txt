@@ -32,62 +32,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "4. Missouri Infantry"
-		location = 2750
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Missouri Infantry"
-		location = 2648
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Missouri Infantry"
-		location = 2728
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Missouri Infantry"
-		location = 2791
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "8. Missouri Infantry"
-		location = 3044
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "9. Missouri Infantry"
-		location = 3151
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. Missouri Infantry"
-		location = 3164
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "11. Missouri Infantry"
-		location = 3191
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

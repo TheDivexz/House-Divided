@@ -37,42 +37,7 @@ units = {
 	}
 	division = {
 		name = "2. Virginia Infantry"
-		location = 2309
-		division_template = "Virginia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "3. Virginia Infantry"
-		location = 2474
-		division_template = "Virginia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Virginia Infantry"
-		location = 2557
-		division_template = "Virginia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Virginia Infantry"
 		location = 2800
-		division_template = "West Virginia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Virginia Infantry"
-		location = 2511
-		division_template = "West Virginia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Virginia Infantry"
-		location = 2684
 		division_template = "West Virginia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3

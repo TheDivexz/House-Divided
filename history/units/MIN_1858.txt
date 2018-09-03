@@ -21,13 +21,7 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "2. Minnesota Infantry"
-		location = 4818
-		division_template = "Minnesota Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
+
 }
 
 ### Starting Production ###

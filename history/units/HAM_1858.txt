@@ -19,27 +19,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "2. New Hampshire Infantry"
-		location = 4379
-		division_template = "New Hampshire Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "3. New Hampshire Infantry"
-		location = 4370
-		division_template = "New Hampshire Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. New Hampshire Infantry"
-		location = 4359
-		division_template = "New Hampshire Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

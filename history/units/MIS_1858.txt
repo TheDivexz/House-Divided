@@ -24,13 +24,7 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "2. Mississippi Infantry"
-		location = 896
-		division_template = "Mississippi Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
+
 }
 
 ### Starting Production ###

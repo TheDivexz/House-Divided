@@ -24,20 +24,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "2. New Jersey Infantry"
-		location = 3682
-		division_template = "New Jersey Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "3. New Jersey Infantry"
-		location = 3253
-		division_template = "New Jersey Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

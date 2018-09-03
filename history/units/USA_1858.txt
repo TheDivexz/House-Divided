@@ -502,27 +502,6 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "2. New Hampshire Infantry"
-		location = 4379
-		division_template = "New Hampshire Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "3. New Hampshire Infantry"
-		location = 4370
-		division_template = "New Hampshire Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. New Hampshire Infantry"
-		location = 4359
-		division_template = "New Hampshire Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. Illinois Infantry"
 		location = 3249
 		division_template = "Illinois Infantry"
@@ -546,83 +525,6 @@ units = {
 	division = {
 		name = "4. Illinois Infantry"
 		location = 3605
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Illinois Infantry"
-		location = 3311
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Illinois Infantry"
-		location = 2995
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Illinois Infantry"
-		location = 3075
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "8. Illinois Infantry"
-		location = 3817
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "9. Illinois Infantry"
-		location = 3624
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. Illinois Infantry"
-		location = 3633
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "11. Illinois Infantry"
-		location = 3384
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "12. Illinois Infantry"
-		location = 3208
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "13. Illinois Infantry"
-		location = 3158
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "14. Illinois Infantry"
-		location = 3138
-		division_template = "Illinois Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "15. Illinois Infantry"
-		location = 2951
 		division_template = "Illinois Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -684,153 +586,6 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "9. Indiana Infantry"
-		location = 2978
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. Indiana Infantry"
-		location = 2915
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "11. Indiana Infantry"
-		location = 3590
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "12. Indiana Infantry"
-		location = 3617
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "13. Indiana Infantry"
-		location = 3651
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "14. Indiana Infantry"
-		location = 3619
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "15. Indiana Infantry"
-		location = 3407
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "16. Indiana Infantry"
-		location = 3263
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "17. Indiana Infantry"
-		location = 3068
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "18. Indiana Infantry"
-		location = 2955
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "19. Indiana Infantry"
-		location = 2866
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "20. Indiana Infantry"
-		location = 2803
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "21. Indiana Infantry"
-		location = 2794
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "22. Indiana Infantry"
-		location = 3679
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "23. Indiana Infantry"
-		location = 3850
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "24. Indiana Infantry"
-		location = 3787
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "25. Indiana Infantry"
-		location = 3950
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "26. Indiana Infantry"
-		location = 3499
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "27. Indiana Infantry"
-		location = 3202
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "28. Indiana Infantry"
-		location = 3572
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "29. Indiana Infantry"
-		location = 3572
-		division_template = "Indiana Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. Iowa Infantry"
 		location = 3812
 		division_template = "Iowa Infantry"
@@ -845,43 +600,8 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "3. Iowa Infantry"
-		location = 4031
-		division_template = "Iowa Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Iowa Infantry"
-		location = 4020
-		division_template = "Iowa Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Iowa Infantry"
-		location = 3814
-		division_template = "Iowa Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. New Jersey Infantry"
 		location = 3550
-		division_template = "New Jersey Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "2. New Jersey Infantry"
-		location = 3682
-		division_template = "New Jersey Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "3. New Jersey Infantry"
-		location = 3253
 		division_template = "New Jersey Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -894,44 +614,8 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "2. Kansas Infantry"
-		location = 2864
-		division_template = "Kansas Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "3. Kansas Infantry"
-		location = 2907
-		division_template = "Colorado Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
-	division = {
 		name = "1. Kentucky Infantry"
 		location = 2867
-		division_template = "Kentucky Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "2. Kentucky Infantry"
-		location = 2850
-		division_template = "Kentucky Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "3. Kentucky Infantry"
-		location = 2867
-		division_template = "Kentucky Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Kentucky Infantry"
-		location = 2670
 		division_template = "Kentucky Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -959,27 +643,6 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "3. Maryland Infantry"
-		location = 3157
-		division_template = "Maryland Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Maryland Infantry"
-		location = 3022
-		division_template = "Maryland Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Maryland Infantry"
-		location = 2693
-		division_template = "Maryland Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. Massachusetts Infantry"
 		location = 4083
 		division_template = "Massachusetts Infantry"
@@ -994,54 +657,11 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "3. Massachusetts Infantry"
-		location = 3977
-		division_template = "Massachusetts Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Massachusetts Infantry"
-		location = 4098
-		division_template = "Massachusetts Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Massachusetts Infantry"
-		location = 4118
-		division_template = "Massachusetts Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Massachusetts Infantry"
-		location = 3904
-		division_template = "Massachusetts Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Massachusetts Infantry"
-		location = 4129
-		division_template = "Massachusetts Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. New Mexico Infantry"
 		location = 1513
 		division_template = "New Mexico Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "2. New Mexico Infantry"
-		location = 1412
-		division_template = "Arizona Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
 	}
 	division = {
 		name = "1. Michigan Infantry"
@@ -1058,50 +678,8 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "3. Michigan Infantry"
-		location = 4334
-		division_template = "Michigan Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Michigan Infantry"
-		location = 4176
-		division_template = "Michigan Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Michigan Infantry"
-		location = 4105
-		division_template = "Michigan Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Michigan Infantry"
-		location = 4010
-		division_template = "Michigan Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Michigan Infantry"
-		location = 4017
-		division_template = "Michigan Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. Minnesota Infantry"
 		location = 4806
-		division_template = "Minnesota Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "2. Minnesota Infantry"
-		location = 4818
 		division_template = "Minnesota Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -1128,62 +706,6 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "4. Missouri Infantry"
-		location = 2750
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Missouri Infantry"
-		location = 2648
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Missouri Infantry"
-		location = 2728
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Missouri Infantry"
-		location = 2791
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "8. Missouri Infantry"
-		location = 3044
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "9. Missouri Infantry"
-		location = 3151
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. Missouri Infantry"
-		location = 3164
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "11. Missouri Infantry"
-		location = 3191
-		division_template = "Missouri Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. Nebraska Infantry"
 		location = 3456
 		division_template = "Montana Infantry"
@@ -1194,27 +716,6 @@ units = {
 		name = "2. Nebraska Infantry"
 		location = 3689
 		division_template = "Nebraska Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "3. Nebraska Infantry"
-		location = 3993
-		division_template = "Wyoming Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Nebraska Infantry"
-		location = 3451
-		division_template = "South Dakota Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Nebraska Infantry"
-		location = 4110
-		division_template = "South Dakota Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
@@ -1247,78 +748,8 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "5. Ohio Infantry"
-		location = 3506
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Ohio Infantry"
-		location = 3295
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Ohio Infantry"
-		location = 3105
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "8. Ohio Infantry"
-		location = 3153
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "9. Ohio Infantry"
-		location = 2966
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. Ohio Infantry"
-		location = 2862
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "11. Ohio Infantry"
-		location = 3183
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "12. Ohio Infantry"
-		location = 3399
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "13. Ohio Infantry"
-		location = 3563
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. Indian Infantry"
 		location = 1688
-		division_template = "Oklahoma Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "2. Indian Infantry"
-		location = 2153
 		division_template = "Oklahoma Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -1380,141 +811,8 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "8. Pennsylvania Infantry"
-		location = 3951
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "9. Pennsylvania Infantry"
-		location = 3664
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. Pennsylvania Infantry"
-		location = 3338
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "11. Pennsylvania Infantry"
-		location = 3337
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "12. Pennsylvania Infantry"
-		location = 3653
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "13. Pennsylvania Infantry"
-		location = 3937
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "14. Pennsylvania Infantry"
-		location = 3698
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "15. Pennsylvania Infantry"
-		location = 3681
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "16. Pennsylvania Infantry"
-		location = 3571
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "17. Pennsylvania Infantry"
-		location = 3463
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "18. Pennsylvania Infantry"
-		location = 3947
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "19. Pennsylvania Infantry"
-		location = 3647
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "20. Pennsylvania Infantry"
-		location = 3478
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "21. Pennsylvania Infantry"
-		location = 3333
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "22. Pennsylvania Infantry"
-		location = 3664
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "23. Pennsylvania Infantry"
-		location = 3471
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "24. Pennsylvania Infantry"
-		location = 3966
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "25. Pennsylvania Infantry"
-		location = 3685
-		division_template = "Pennsylvania Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. Rhode Island Infantry"
 		location = 3872
-		division_template = "Rhode Island Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "2. Rhode Island Infantry"
-		location = 3919
 		division_template = "Rhode Island Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -1527,13 +825,6 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "2. Utah Infantry"
-		location = 3177
-		division_template = "Nevada Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. Vermont Infantry"
 		location = 4731
 		division_template = "Vermont Infantry"
@@ -1541,36 +832,8 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "2. Vermont Infantry"
-		location = 4540
-		division_template = "Vermont Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "3. Vermont Infantry"
-		location = 4274
-		division_template = "Vermont Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "5. Virginia Infantry"
 		location = 2800
-		division_template = "West Virginia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Virginia Infantry"
-		location = 2511
-		division_template = "West Virginia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Virginia Infantry"
-		location = 2684
 		division_template = "West Virginia Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -1612,34 +875,6 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "3. Wisconsin Infantry"
-		location = 4381
-		division_template = "Wisconsin Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Wisconsin Infantry"
-		location = 4517
-		division_template = "Wisconsin Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Wisconsin Infantry"
-		location = 4399
-		division_template = "Wisconsin Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Wisconsin Infantry"
-		location = 4399
-		division_template = "Wisconsin Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. New York Infantry"
 		location = 4178
 		division_template = "New York Infantry"
@@ -1668,123 +903,8 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "5. New York Infantry"
-		location = 3715
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. New York Infantry"
-		location = 4172
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. New York Infantry"
-		location = 4304
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. New York Infantry"
-		location = 4355
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "8. New York Infantry"
-		location = 4396
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "9. New York Infantry"
-		location = 3632
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. New York Infantry"
-		location = 4152
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "11. New York Infantry"
-		location = 4224
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "12. New York Infantry"
-		location = 4052
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "13. New York Infantry"
-		location = 4297
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "14. New York Infantry"
-		location = 4076
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "15. New York Infantry"
-		location = 4260
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "16. New York Infantry"
-		location = 4250
-		division_template = "New York Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "1. California Infantry"
 		location = 2618
-		division_template = "California Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
-	division = {
-		name = "2. California Infantry"
-		location = 2310
-		division_template = "California Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
-	division = {
-		name = "3. California Infantry"
-		location = 2279
-		division_template = "California Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
-	division = {
-		name = "4. California Infantry"
-		location = 2878
 		division_template = "California Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -1807,55 +927,6 @@ units = {
 	division = {
 		name = "3. Connecticut Infantry"
 		location = 3939
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Connecticut Infantry"
-		location = 3839
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Connecticut Infantry"
-		location = 3958
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Connecticut Infantry"
-		location = 3854
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Connecticut Infantry"
-		location = 3976
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "8. Connecticut Infantry"
-		location = 3909
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "9. Connecticut Infantry"
-		location = 3972
-		division_template = "Connecticut Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. Connecticut Infantry"
-		location = 3861
 		division_template = "Connecticut Infantry"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3

@@ -28,34 +28,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "3. Tennessee Infantry"
-		location = 1902
-		division_template = "Tennessee Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Tennessee Infantry"
-		location = 1878
-		division_template = "Tennessee Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Tennessee Infantry"
-		location = 2128
-		division_template = "Tennessee Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Tennessee Infantry"
-		location = 1983
-		division_template = "Tennessee Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

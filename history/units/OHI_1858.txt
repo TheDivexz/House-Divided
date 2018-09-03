@@ -43,69 +43,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "5. Ohio Infantry"
-		location = 3506
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Ohio Infantry"
-		location = 3295
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Ohio Infantry"
-		location = 3105
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "8. Ohio Infantry"
-		location = 3153
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "9. Ohio Infantry"
-		location = 2966
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. Ohio Infantry"
-		location = 2862
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "11. Ohio Infantry"
-		location = 3183
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "12. Ohio Infantry"
-		location = 3399
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "13. Ohio Infantry"
-		location = 3563
-		division_template = "Ohio Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

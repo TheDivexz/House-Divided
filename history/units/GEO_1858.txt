@@ -31,55 +31,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "4. Georgia Infantry"
-		location = 1599
-		division_template = "Georgia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Georgia Infantry"
-		location = 1567
-		division_template = "Georgia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Georgia Infantry"
-		location = 1438
-		division_template = "Georgia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Georgia Infantry"
-		location = 1239
-		division_template = "Georgia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "8. Georgia Infantry"
-		location = 1144
-		division_template = "Georgia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "9. Georgia Infantry"
-		location = 1032
-		division_template = "Georgia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "10. Georgia Infantry"
-		location = 1066
-		division_template = "Georgia Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

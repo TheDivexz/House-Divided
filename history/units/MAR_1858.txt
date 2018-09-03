@@ -27,27 +27,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "3. Maryland Infantry"
-		location = 3157
-		division_template = "Maryland Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Maryland Infantry"
-		location = 3022
-		division_template = "Maryland Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Maryland Infantry"
-		location = 2693
-		division_template = "Maryland Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 	
 }
 

@@ -21,30 +21,6 @@ units = {
 		start_equipment_factor = 0.3
 
 	}
-	division = {
-		name = "2. Alabama Infantry"
-		location = 797
-		division_template = "Alabama Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
-	division = {
-		name = "3. Alabama Infantry"
-		location = 802
-		division_template = "Alabama Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
-	division = {
-		name = "3. Alabama Infantry"
-		location = 1010
-		division_template = "Alabama Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
 }
 
 ### Starting Production ###

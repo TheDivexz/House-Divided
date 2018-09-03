@@ -35,13 +35,6 @@ units = {
 		start_equipment_factor = 0.3
 	}
 	division = {
-		name = "2. Kansas Infantry"
-		location = 2864
-		division_template = "Kansas Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
 		name = "3. Kansas Infantry"
 		location = 2907
 		division_template = "Colorado Infantry"

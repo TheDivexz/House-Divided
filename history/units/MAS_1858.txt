@@ -29,41 +29,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "3. Massachusetts Infantry"
-		location = 3977
-		division_template = "Massachusetts Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Massachusetts Infantry"
-		location = 4098
-		division_template = "Massachusetts Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Massachusetts Infantry"
-		location = 4118
-		division_template = "Massachusetts Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Massachusetts Infantry"
-		location = 3904
-		division_template = "Massachusetts Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "7. Massachusetts Infantry"
-		location = 4129
-		division_template = "Massachusetts Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###

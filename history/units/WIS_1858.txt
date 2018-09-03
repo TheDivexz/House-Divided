@@ -27,34 +27,6 @@ units = {
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
 	}
-	division = {
-		name = "3. Wisconsin Infantry"
-		location = 4381
-		division_template = "Wisconsin Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "4. Wisconsin Infantry"
-		location = 4517
-		division_template = "Wisconsin Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "5. Wisconsin Infantry"
-		location = 4399
-		division_template = "Wisconsin Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
-	division = {
-		name = "6. Wisconsin Infantry"
-		location = 4399
-		division_template = "Wisconsin Infantry"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-	}
 }
 
 ### Starting Production ###
