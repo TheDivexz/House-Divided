@@ -15,6 +15,7 @@ state={
 		1858.1.11 = {
 			owner = CSA
 			controller = CSA
+			add_core_of = CSA
 		}
 
 
