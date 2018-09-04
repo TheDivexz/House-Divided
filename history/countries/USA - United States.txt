@@ -1,4 +1,4 @@
-﻿capital = 13
+﻿capital = 263
 
 OOB = "USA_1858"
 
@@ -59,6 +59,7 @@ set_politics = {
 	}
 
 }
+set_research_slots = 5
 set_convoys = 5
 
 #James Buchanan the presidential Failure

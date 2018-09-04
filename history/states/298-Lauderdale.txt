@@ -11,7 +11,7 @@ state={
 		owner = MIS
 		add_core_of = MIS
 		buildings = {
-			infastructure = 2
+			infrastructure = 2
 		}
 		1858.1.11 = {
 			owner = CSA

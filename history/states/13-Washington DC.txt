@@ -8,6 +8,11 @@ state={
 	history={
 		owner = WDC
 		add_core_of = WDC
+		
+		victory_points = {
+			3015 50 
+		}
+		
 		buildings = {
 			arms_factory = 2
 			industrial_complex = 5
