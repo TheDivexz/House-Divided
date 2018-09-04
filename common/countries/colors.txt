@@ -7,7 +7,7 @@ ARI = {
 	color = rgb { 240  240  240 }
 	color_ui = rgb { 245  10  10 }
 }
-USA = {
+ASU = {
 	color = rgb { 0  40  104 }
 	color_ui = rgb { 0  40  104 }
 }

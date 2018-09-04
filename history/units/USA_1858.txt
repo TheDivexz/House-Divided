@@ -1,4 +1,4 @@
-division_template = {
+﻿division_template = {
 	name = "Connecticut Infantry"			#Infantry Division - In 1936, Albania only had one triangular division.	They did have some tankettes and infantry support tanks, so 1 recon
 
 	regiments = {
@@ -936,7 +936,7 @@ instant_effect = {
 	add_equipment_production = {
 		equipment = {
 			type = kentucky_rifle_equipment
-			creator = "USA"
+			creator = "ASU"
 		}
 		requested_factories = 1
 		progress = 0.86
@@ -945,7 +945,7 @@ instant_effect = {
 	add_equipment_production = {
 		equipment = {
 			type = support_equipment_1
-			creator = "USA"
+			creator = "ASU"
 		}
 		requested_factories = 1
 		progress = 0.40

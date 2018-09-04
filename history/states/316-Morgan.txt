@@ -11,9 +11,9 @@ state={
 		owner = MIU
 		add_core_of = MIU
 		1858.1.11 = {
-			owner = USA
-			controller = USA
-			add_core_of = USA
+			owner = ASU
+			controller = ASU
+			add_core_of = ASU
 		}
 
 	}
