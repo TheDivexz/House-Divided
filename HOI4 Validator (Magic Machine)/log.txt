@@ -1,20 +1,311 @@
-[REGISTRY_HOI4DIR] D:\steam gamez\steamapps\common\Hearts of Iron IV
-[MOD_DIR] 
-[HOI4_DIR] D:\steam gamez\steamapps\common\Hearts of Iron IV/
-Fatal Error: No country tags loaded
+[REGISTRY_HOI4DIR] C:\Program Files (x86)\Steam\steamapps\common\Hearts of Iron IV
+[MOD_DIR] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/
+[HOI4_DIR] C:\Program Files (x86)\Steam\steamapps\common\Hearts of Iron IV/
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/localisation/AHD_events_l_english.yml
+-- SYNTAX_ERROR. BROKEN " QUOTE " PAIR. Line: 6
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/localisation/loading_tips_l_english.yml
+-- SYNTAX_ERROR. BROKEN " QUOTE " PAIR. Line: 24
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/common/opinion_modifiers/00_opinion_modifiers.txt
+[Line   177] SYNTAX_ERROR :: MISSING_EQUALS_SIGN
 [COMMON/IDEA_TAGS]
 [GFX]
 
-[FILE] D:\steam gamez\steamapps\common\Hearts of Iron IV/interface/core.gfx
+[FILE] C:\Program Files (x86)\Steam\steamapps\common\Hearts of Iron IV/interface/core.gfx
 [Line  1387] Empty KeyValue Pair :: [key] ; [location] bitmapfonts >> textspritetype[ name = largefloaterbutton ]
 [COMMON/SCRIPTED_TRIGGERS]
 [COMMON/IDEAS]
 [HISTORY/UNITS]
 [HISTORY/COUNTRIES]
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/ALA - Alabama.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Alabama_Lewish_Parsons.png
+[Line    54] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Alabama_Thomas_Watts.png
+[Line    66] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Alabama_John_Shorter.png
+[Line    78] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Alabama_Andrew_Moore.png
+[Line    88] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/ARI - Arizona.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Arizona_Lewis_Owings.dds
+[Line    54] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Arizona_John_Baylor.dds
+[Line    65] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/ARK - Arkansas.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Arkansas_Elias_Conway.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/ASU - United States.txt
+[Line    69] - [GFX] DOES_NOT_EXIST :: [name] Portrait_USA_James_Buchanan.png
+[Line    79] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/CAL - California.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_California_John_Weller.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/CAN - Canada.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Albania_King_Zog.dds
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/COL - Colorado.txt
+[Line    43] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Colorado_John_Evans.dds
+[Line    53] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/CSA - Confederate States.txt
+[Line    44] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Virginia_Henry_Wise.png
+[Line    54] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/CUN - Connecticut.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Connecticut_Alexander_Hamilton.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/DEL - Delaware.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Delaware_Peter_Causey.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/FLO - Florida.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Florida_Madison_Perry.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/GEO - Georgia.txt
+[Line    44] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Georgia_Joseph_E_Brown.png
+[Line    56] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Georgia_Joseph_E_Brown.png
+[Line    66] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/HAM - New Hampshire.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Hampshire_William_Haile.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/IDA - Idaho.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Albania_King_Zog.dds
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/ILL - Illinois.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Illinois_William_Bissell.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/IND - Indiana.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Indiana_Ashbel_Willard.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/IOW - Iowa.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Iowa_Ralph_Lowe.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/JER - New Jersey.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Jersey_William_Newell.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/KAN - Kansas.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Kansas_James_Denver.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/KEN - Kentucky.txt
+[Line    44] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Kentucky_Beriah_Magoffin.png
+[Line    56] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Kentucky_Slaughter_Morehead.png
+[Line    66] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/LOU - Louisiana.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Louisiana_Robert_Wickliffe.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/MAI - Maine.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Maine_Lot_Morrill.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/MAR - Maryland.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Maryland_Thomas_Hicks.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/MAS - Massachusetts.txt
+[Line    44] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Massachusetts_Nathaniel_Banks.png
+[Line    54] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/MEJ - Mexico.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Albania_King_Zog.dds
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/MEX - New Mexico.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_NewMexico_Abraham_Rencher.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/MIC - Michigan.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Michigan_Kinsley_Bingham.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/MIN - Minnesota.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Minnesota_Samuel_Medary.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/MIS - Mississippi.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Mississipi_William_McWillie.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/MIU - Missouri.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Missouri_Robert_Stewart.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/MON - Montana.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Montana_Sidney_Edgerton.dds
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/NCA - North Carolina.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_NorthCarolina_Thomas_Bragg.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/NDO - North Dakota.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Albania_King_Zog.dds
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/NEB - Nebraska.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Nebraska_William_Richardson.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/NEV - Nevada.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Nevada_Henry_Blasdel.dds
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/OHI - Ohio.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Ohio_Salmon_Chase.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/OKL - Oklahoma.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Oklahoma_Indians.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/ORE - Oregon.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Oregon_Law_Curry.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/PEN - Pennsylvania.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Pennsylvania_William_Packer.png
+[Line    54] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Pennsylvania_James_Pollock.png
+[Line    64] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/RHO - Rhode Island.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_RhodeIsland_Elisha_Dyer.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/SCA - South Carolina.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_SouthCarolina_Robert_Allston.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/SDA - South Dakota.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Albania_King_Zog.dds
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/SUP - Superior.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Albania_King_Zog.dds
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/TEN - Tennessee.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Tennessee_Isham_Harris.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/TEX - Texas.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Texas_Hardin_Runnels.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/UTA - Utah.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Utah_Brigham_Young.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/VER - Vermont.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Vermont_Ryland_Fletcher.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/VIR - Virginia.txt
+[Line    43] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Virginia_Henry_Wise.png
+[Line    53] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/WAS - Washington.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Washington_Lafayette.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/WDC - Washington DC.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_USA_James_Buchanan.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/WIS - Wisconsin.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Wisconsin_Alexander_Randall.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/WVI - West Virginia.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_WestVirginia_Arthur_Boreman.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/WYO - Wyoming.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Albania_King_Zog.dds
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
+[Line     3] --- OOB_DOES_NOT_EXIST :: [name] WYO_1858
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/history/countries/YOR - New York.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] Portrait_NewYork_John_King.png
+[Line    52] - [GFX] DOES_NOT_EXIST :: [name] Portrait_Europe_Generic_land_3.dds
 [EVENTS]
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/events/Kansas.txt
+[Line    12] - [GFX] DOES_NOT_EXIST :: [name] GFX_kansas_event_001
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/events/Minnesota.txt
+[Line    12] - [GFX] DOES_NOT_EXIST :: [name] GFX_minnesota_event_001
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/events/NewsEvents.txt
+[Line   134] - [GFX] DOES_NOT_EXIST :: [name] GFX_news_event_007
+[Line   185] - [GFX] DOES_NOT_EXIST :: [name] GFX_news_event_010
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/events/NewYork.txt
+[Line    12] - [GFX] DOES_NOT_EXIST :: [name] GFX_newyork_event_001
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/events/Oregon.txt
+[Line    12] - [GFX] DOES_NOT_EXIST :: [name] GFX_oregon_event_001
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/events/Pennsylvania.txt
+[Line    12] - [GFX] DOES_NOT_EXIST :: [name] GFX_pennsylvania_event_001
 [LEADERS]
+
+[FILE] C:/Users/Dhruv/Documents/Paradox Interactive/Hearts of Iron IV/mod/House-Divided/common/country_leader/00_traits.txt
+[Line   110] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] nav_bomber_equipment [location] leader_traits >> spirit_of_genghis[ cavalry_attack_factor = 0.05 ] >> equipment_bonus >> nav_bomber_equipment[ air_range = 0.1 ]
+[Line   763] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] fighter_equipment [location] leader_traits >> light_aircraft_manufacturer[ random = no ] >> equipment_bonus >> fighter_equipment[ air_agility = 0.1 ]
+[Line   766] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] cv_fighter_equipment [location] leader_traits >> light_aircraft_manufacturer[ random = no ] >> equipment_bonus >> cv_fighter_equipment[ air_agility = 0.1 ]
+[Line   779] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] fighter_equipment [location] leader_traits >> light_aircraft_manufacturer_2[ random = no ] >> equipment_bonus >> fighter_equipment[ air_agility = 0.2 ]
+[Line   782] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] cv_fighter_equipment [location] leader_traits >> light_aircraft_manufacturer_2[ random = no ] >> equipment_bonus >> cv_fighter_equipment[ air_agility = 0.2 ]
+[Line   796] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] cas_equipment [location] leader_traits >> cas_manufacturer[ random = no ] >> equipment_bonus >> cas_equipment[ air_ground_attack = 0.1 ]
+[Line   799] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] cv_cas_equipment [location] leader_traits >> cas_manufacturer[ random = no ] >> equipment_bonus >> cv_cas_equipment[ air_ground_attack = 0.1 ]
+[Line   812] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] heavy_fighter_equipment [location] leader_traits >> medium_aircraft_manufacturer[ random = no ] >> equipment_bonus >> heavy_fighter_equipment[ reliability = 0.2 ]
+[Line   815] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] tac_bomber_equipment [location] leader_traits >> medium_aircraft_manufacturer[ random = no ] >> equipment_bonus >> tac_bomber_equipment[ reliability = 0.2 ]
+[Line   828] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] fighter_equipment [location] leader_traits >> fuel_efficient_aircraft_manufacturer[ random = no ] >> equipment_bonus >> fighter_equipment[ air_range = 0.1 ]
+[Line   831] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] heavy_fighter_equipment [location] leader_traits >> fuel_efficient_aircraft_manufacturer[ random = no ] >> equipment_bonus >> heavy_fighter_equipment[ air_range = 0.1 ]
+[Line   835] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] tac_bomber_equipment [location] leader_traits >> fuel_efficient_aircraft_manufacturer[ random = no ] >> equipment_bonus >> tac_bomber_equipment[ reliability = 0.2 ]
+[Line   849] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] strat_bomber_equipment [location] leader_traits >> heavy_aircraft_manufacturer[ random = no ] >> equipment_bonus >> strat_bomber_equipment[ air_bombing = 0.1 ]
+[Line   863] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] nav_bomber_equipment [location] leader_traits >> naval_aircraft_manufacturer[ random = no ] >> equipment_bonus >> nav_bomber_equipment[ air_range = 0.1 ]
+[Line   866] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] cv_nav_bomber_equipment [location] leader_traits >> naval_aircraft_manufacturer[ random = no ] >> equipment_bonus >> cv_nav_bomber_equipment[ air_range = 0.1 ]
+[Line   879] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] armor [location] leader_traits >> fast_tank_manufacturer[ random = no ] >> equipment_bonus >> armor[ maximum_speed = 0.05 ]
+[Line   892] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] armor [location] leader_traits >> medium_tank_manufacturer[ random = no ] >> equipment_bonus >> armor[ reliability = 0.05 ]
+[Line   905] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] armor [location] leader_traits >> heavy_tank_manufacturer[ random = no ] >> equipment_bonus >> armor[ armor_value = 0.05 ]
+[Line   920] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] armor [location] leader_traits >> tank_manufacturer[ random = no ] >> equipment_bonus >> armor[ reliability = 0.05 ]
+[Line   933] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] carrier [location] leader_traits >> pacific_fleet_naval_manufacturer[ random = no ] >> equipment_bonus >> carrier[ armor_value = -0.15 ]
+[Line   936] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] capital_ship [location] leader_traits >> pacific_fleet_naval_manufacturer[ random = no ] >> equipment_bonus >> capital_ship[ naval_range = 0.25 ]
+[Line   939] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] screen_ship [location] leader_traits >> pacific_fleet_naval_manufacturer[ random = no ] >> equipment_bonus >> screen_ship[ naval_range = 0.25 ]
+[Line   942] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] submarine [location] leader_traits >> pacific_fleet_naval_manufacturer[ random = no ] >> equipment_bonus >> submarine[ naval_range = 0.25 ]
+[Line   955] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] carrier [location] leader_traits >> atlantic_fleet_naval_manufacturer[ random = no ] >> equipment_bonus >> carrier[ armor_value = 0.5 ]
+[Line   958] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] capital_ship [location] leader_traits >> atlantic_fleet_naval_manufacturer[ random = no ] >> equipment_bonus >> capital_ship[ armor_value = 0.1 ]
+[Line   977] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] capital_ship [location] leader_traits >> battlefleet_designer[ random = no ] >> equipment_bonus >> capital_ship[ armor_value = 0.15 ]
+[Line   981] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] screen_ship [location] leader_traits >> battlefleet_designer[ random = no ] >> equipment_bonus >> screen_ship[ sub_detection = -0.25 ]
+[Line   995] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] carrier [location] leader_traits >> raiding_fleet_naval_manufacturer[ random = no ] >> equipment_bonus >> carrier[ carrier_size = -0.1 ]
+[Line   998] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] capital_ship [location] leader_traits >> raiding_fleet_naval_manufacturer[ random = no ] >> equipment_bonus >> capital_ship[ attack = -0.1 ]
+[Line  1001] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] screen_ship [location] leader_traits >> raiding_fleet_naval_manufacturer[ random = no ] >> equipment_bonus >> screen_ship[ naval_speed = 0.1 ]
+[Line  1004] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] submarine [location] leader_traits >> raiding_fleet_naval_manufacturer[ random = no ] >> equipment_bonus >> submarine[ naval_speed = 0.1 ]
+[Line  1017] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] screen_ship [location] leader_traits >> convoy_escort_naval_manufacturer[ random = no ] >> equipment_bonus >> screen_ship[ build_cost_ic = 0.1 ]
+[Line  1030] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] carrier [location] leader_traits >> coastal_defence_naval_manufacturer[ random = no ] >> equipment_bonus >> carrier[ build_cost_ic = -0.25 ]
+[Line  1033] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] capital_ship [location] leader_traits >> coastal_defence_naval_manufacturer[ random = no ] >> equipment_bonus >> capital_ship[ armor_value = -0.2 ]
+[Line  1036] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] screen_ship [location] leader_traits >> coastal_defence_naval_manufacturer[ random = no ] >> equipment_bonus >> screen_ship[ build_cost_ic = -0.25 ]
+[Line  1039] --- EQUIPMENT_BONUS_NO_INSTANT_YES :: [name] submarine [location] leader_traits >> coastal_defence_naval_manufacturer[ random = no ] >> equipment_bonus >> submarine[ build_cost_ic = -0.25 ]
 [FOCI]
 [COMMON/AUTONOMOUS_STATES]
 [COMMON/ON_ACTIONS]
 [COMMON/SCRIPTED_EFFECTS]
+[IDEA] chi_nine_power_treaty[HAS_BUT_NEVER_SET]
+[IDEA] hun_treaty_of_triannon[HAS_BUT_NEVER_SET]
 [DONE]

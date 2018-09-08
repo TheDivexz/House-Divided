@@ -11,7 +11,7 @@ configs = {
 	# Validator Settings #
 	#######################################
 	
-	mod = "gitspeed_main"
+	mod = "House-Divided"
 
 	##########################################################################################################
 	# All tested CTDs ( as PDX may fix these over time, their detection can be disabled ) and other gimmicks #
