@@ -1,6 +1,6 @@
 ﻿capital = 1
 
-OOB = "CAN_1858"
+#OOB = "CAN_1858"
 
 set_technology = {
 	kentucky_rifle = 1

@@ -1,6 +1,6 @@
 ﻿capital = 43
 
-OOB = "MEX__1858"
+#OOB = "MEX__1858"
 
 set_technology = {
 	kentucky_rifle = 1
