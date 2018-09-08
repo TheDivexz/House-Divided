@@ -1,0 +1,20 @@
+[REGISTRY_HOI4DIR] D:\steam gamez\steamapps\common\Hearts of Iron IV
+[MOD_DIR] 
+[HOI4_DIR] D:\steam gamez\steamapps\common\Hearts of Iron IV/
+Fatal Error: No country tags loaded
+[COMMON/IDEA_TAGS]
+[GFX]
+
+[FILE] D:\steam gamez\steamapps\common\Hearts of Iron IV/interface/core.gfx
+[Line  1387] Empty KeyValue Pair :: [key] ; [location] bitmapfonts >> textspritetype[ name = largefloaterbutton ]
+[COMMON/SCRIPTED_TRIGGERS]
+[COMMON/IDEAS]
+[HISTORY/UNITS]
+[HISTORY/COUNTRIES]
+[EVENTS]
+[LEADERS]
+[FOCI]
+[COMMON/AUTONOMOUS_STATES]
+[COMMON/ON_ACTIONS]
+[COMMON/SCRIPTED_EFFECTS]
+[DONE]
