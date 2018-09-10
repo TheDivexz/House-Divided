@@ -3,10 +3,10 @@ state={
 	id=10
 	name="STATE_10"
 	resources = {
-		iron = 5
-		food = 10
-		unskilled = 93
-		skilled = 6
+		oil = 5
+		chromium = 10
+		tungsten = 93
+		steel = 6
 	}
 	history={
 		owner = DEL

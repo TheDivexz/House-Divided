@@ -2,10 +2,10 @@ state={
 	id=214
 	name="STATE_214"
 	resources = {
-		iron = 1
-		textile = 3
-		unskilled = 1
-		skilled = 4
+		oil = 1
+		aluminum = 3
+		tungsten = 1
+		steel = 4
 	}
 	history={
 		owner = KAN

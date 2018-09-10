@@ -2,11 +2,11 @@ state={
 	id=96
 	name="STATE_96"
 	resources = {
-		wood = 24
-		textile = 5
-		food = 2
-		unskilled = 4
-		skilled = 6
+		rubber = 24
+		aluminum = 5
+		chromium = 2
+		tungsten = 4
+		steel = 6
 	}
 	state_category=large_city
 	history={

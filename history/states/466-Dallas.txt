@@ -2,10 +2,10 @@ state={
 	id=466
 	name="STATE_466"
 	resources = {
-		wood = 3
-		textile = 28
-		unskilled = 2
-		skilled = 4
+		rubber = 3
+		aluminum = 28
+		tungsten = 2
+		steel = 4
 	}
 	history={
 		owner = TEX

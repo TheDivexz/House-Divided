@@ -2,11 +2,11 @@ state={
 	id=414
 	name="STATE_414"
 	resources = {
-		wood = 10
-		textile = 5
-		food = 1
-		unskilled = 7
-		skilled = 3
+		rubber = 10
+		aluminum = 5
+		chromium = 1
+		tungsten = 7
+		steel = 3
 	}
 	history={
 		owner = SCA

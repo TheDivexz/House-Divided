@@ -2,8 +2,8 @@ state={
 	id=523
 	name="STATE_523"
 		resources={
-		unskilled = 11
-		skilled = 1
+		tungsten = 11
+		steel = 1
 	}
 	history={
 		owner = NEB

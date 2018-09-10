@@ -3,10 +3,10 @@ state={
 	name="STATE_95"
 	state_category=large_city
 	resources = {
-		wood = 8
-		textile = 3
-		unskilled = 4
-		skilled = 8
+		rubber = 8
+		aluminum = 3
+		tungsten = 4
+		steel = 8
 	}
 	history={
 		owner = CAL

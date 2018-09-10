@@ -2,9 +2,9 @@ state={
 	id=36
 	name="STATE_36"
 		resources={
-		wood = 19
-		iron = 305
-		textile = 77
+		rubber = 19
+		oil = 305
+		aluminum = 77
 	}
 	history={
 		owner = OKL

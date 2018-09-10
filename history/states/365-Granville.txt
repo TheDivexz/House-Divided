@@ -2,11 +2,11 @@ state={
 	id=365
 	name="STATE_365"
 	resources = {
-		wood = 8
-		textile = 3
-		food = 1
-		unskilled = 4
-		skilled = 4
+		rubber = 8
+		aluminum = 3
+		chromium = 1
+		tungsten = 4
+		steel = 4
 	}
 	history={
 		owner = NCA

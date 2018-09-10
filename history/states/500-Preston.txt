@@ -2,11 +2,11 @@ state={
 	id=500
 	name="STATE_500"
 		resources={
-		wood = 2
-		textile = 4
-		food = 5
-		unskilled = 5
-		skilled = 4
+		rubber = 2
+		aluminum = 4
+		chromium = 5
+		tungsten = 5
+		steel = 4
 	}
 	history={
 		owner = VIR

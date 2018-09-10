@@ -2,10 +2,10 @@ state={
 	id=91
 	name="STATE_91"
 	resources = {
-		wood = 16
-		textile = 9
-		unskilled = 2
-		skilled = 4
+		rubber = 16
+		aluminum = 9
+		tungsten = 2
+		steel = 4
 	}
 	state_category = large_city
 	history={

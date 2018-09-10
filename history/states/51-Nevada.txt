@@ -2,8 +2,8 @@ state={
 	id=51
 	name="STATE_51"
 		resources={
-		unskilled = 95
-		skilled = 1
+		tungsten = 95
+		steel = 1
 	}
 	history={
 		owner = UTA

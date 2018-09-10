@@ -2,11 +2,11 @@ state={
 	id=418
 	name="STATE_418"
 	resources = {
-		wood = 2
-		textile = 1
-		food = 2
-		unskilled = 3
-		skilled = 8
+		rubber = 2
+		aluminum = 1
+		chromium = 2
+		tungsten = 3
+		steel = 8
 	}
 	history={
 		owner = TEN

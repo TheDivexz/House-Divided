@@ -3,9 +3,9 @@ state={
 	id=87
 	name="STATE_87"
 	resources = {
-		wood = 10
-		textile = 10
-		skilled = 3
+		rubber = 10
+		aluminum = 10
+		steel = 3
 	}
 	state_category = large_city
 	history={

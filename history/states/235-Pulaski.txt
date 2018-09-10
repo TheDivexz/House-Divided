@@ -2,8 +2,8 @@ state={
 	id=235
 	name="STATE_235"
 	resources = {
-		wood = 1
-		food = 2
+		rubber = 1
+		chromium = 2
 	}
 	history={
 		owner = KEN

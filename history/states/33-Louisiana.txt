@@ -3,10 +3,10 @@ state={
 	id=33
 	name="STATE_33"
 	resources = {
-		wood = 4
-		textile = 5
-		unskilled = 4
-		skilled = 4
+		rubber = 4
+		aluminum = 5
+		tungsten = 4
+		steel = 4
 	}
 
 	history={

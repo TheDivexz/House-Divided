@@ -1,36 +1,36 @@
 resources = {
 
-	iron = {
+	oil = { #iron
 		icon_frame = 1
 		cic = 0.125
 		convoys = 0.1
 	}
 
-	textile = {
+	aluminium = { #textile
 		icon_frame = 2
 		cic = 0.125
 		convoys = 0.1
 	}
 	
-	wood = {
+	rubber = { #wood
 		icon_frame = 3
 		cic = 0.125
 		convoys = 0.1
 	}
 	
-	unskilled = {
+	tungsten = { #unskilled
 		icon_frame = 4
 		cic = 0.125
 		convoys = 0.1
 	}
 	
-	skilled = {
+	steel = { #skilled
 		icon_frame = 5
 		cic = 0.125
 		convoys = 0.1
 	}
 	
-	food = {
+	chromium = { #food
 		icon_frame = 6
 		cic = 0.125
 		convoys = 0.1

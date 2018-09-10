@@ -2,10 +2,10 @@ state={
 	id=152
 	name="STATE_152"
 	resources = {
-		iron = 17
-		food = 5
-		unskilled = 2
-		skilled = 4
+		oil = 17
+		chromium = 5
+		tungsten = 2
+		steel = 4
 	}
 	history={
 		owner = ILL
