@@ -44,6 +44,7 @@ equipments = {
 		resources = {
 			food = 1
 			iron = 2
+			skilled = 1
 		}
 
 	}
@@ -104,6 +105,7 @@ equipments = {
 		resources = {
 			food = 1
 			iron = 3
+			skilled = 1
 		}
 	}
 	billinghurst_requa_battery_equipment = {
@@ -133,6 +135,7 @@ equipments = {
 		resources = {
 			skilled = 1
 			iron = 3
+			skilled = 1
 		}
 	}
 	agar_gun_equipment = {
@@ -162,6 +165,7 @@ equipments = {
 		resources = {
 			unskilled = 1
 			iron = 3
+			food = 1
 		}
 	}
 

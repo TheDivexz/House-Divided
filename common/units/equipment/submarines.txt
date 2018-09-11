@@ -44,6 +44,7 @@ equipments = {
 		resources = {
 			skilled = 1
 			iron = 1
+			food = 1
 		}
 		
 		manpower = 20

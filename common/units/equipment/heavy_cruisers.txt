@@ -98,6 +98,7 @@ equipments = {
 		resources = {
 			skilled = 1
 			iron = 4
+			food = 1
 		}		
 		manpower = 172
 	}
@@ -135,6 +136,7 @@ equipments = {
 		resources = {
 			skilled = 1
 			iron = 4
+			food = 1
 		}		
 		manpower = 172
 	}
@@ -173,6 +175,7 @@ equipments = {
 		resources = {
 			skilled = 2
 			iron = 4
+			food = 1
 		}		
 		manpower = 192
 	}

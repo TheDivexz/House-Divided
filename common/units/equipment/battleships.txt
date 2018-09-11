@@ -43,7 +43,7 @@ equipments = {
 		resources = {
 			skilled = 1
 			iron = 3
-			unskilled = 1
+			food = 1
 		}
 
 		manpower = 600
@@ -90,7 +90,7 @@ equipments = {
 		resources = {
 			skilled = 2
 			iron = 4
-			unskilled = 1
+			food = 1
 		}
 		manpower = 600
 		
@@ -130,7 +130,7 @@ equipments = {
 		resources = {
 			skilled = 2
 			iron = 4
-			unskilled = 2
+			food = 2
 		}
 		manpower = 700
 
@@ -170,7 +170,7 @@ equipments = {
 		resources = {
 			skilled = 2
 			iron = 4
-			unskilled = 2
+			food = 2
 		}
 		manpower = 700
 
