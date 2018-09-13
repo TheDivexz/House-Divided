@@ -41,9 +41,9 @@ equipments = {
 		
 		build_cost_ic = 900
 		resources = {
-			skilled = 1
-			iron = 2
-			food = 1
+			steel = 1
+			oil = 2
+			chromium = 1
 		}
 		
 		manpower = 28
@@ -98,9 +98,9 @@ equipments = {
 
 		build_cost_ic = 990
 		resources = {
-			skilled = 1
-			iron = 3
-			food = 1
+			steel = 1
+			oil = 3
+			chromium = 1
 		}		
 		manpower = 32
 	}
@@ -141,9 +141,9 @@ equipments = {
 
 		build_cost_ic = 990
 		resources = {
-			skilled = 1
-			iron = 3
-			food = 1
+			steel = 1
+			oil = 3
+			chromium = 1
 		}		
 		manpower = 32
 	}
@@ -184,9 +184,9 @@ equipments = {
 
 		build_cost_ic = 990
 		resources = {
-			skilled = 1
-			iron = 3
-			food = 1
+			steel = 1
+			oil = 3
+			chromium = 1
 		}		
 		manpower = 32
 	}
@@ -227,9 +227,9 @@ equipments = {
 		}
 		build_cost_ic = 1080
 		resources = {
-			skilled = 2
-			iron = 3
-			food = 1
+			steel = 2
+			oil = 3
+			chromium = 1
 		}
 		manpower = 40
 	}
@@ -269,9 +269,9 @@ equipments = {
 		}
 		build_cost_ic = 1080
 		resources = {
-			skilled = 2
-			iron = 3
-			food = 1
+			steel = 2
+			oil = 3
+			chromium = 1
 		}
 		manpower = 40
 	}
@@ -311,9 +311,9 @@ equipments = {
 		}
 		build_cost_ic = 1080
 		resources = {
-			skilled = 2
-			iron = 3
-			food = 1
+			steel = 2
+			oil = 3
+			chromium = 1
 		}
 		manpower = 40
 	}
@@ -355,9 +355,9 @@ equipments = {
 
 		build_cost_ic = 1200
 		resources = {
-			skilled = 2
-			iron = 4
-			food = 1
+			steel = 2
+			oil = 4
+			chromium = 1
 		}		
 		manpower = 52
 	}

@@ -42,9 +42,9 @@ equipments = {
 		
 		build_cost_ic = 8
 		resources = {
-			food = 1
-			iron = 2
-			skilled = 1
+			chromium = 1
+			oil = 2
+			steel = 1
 		}
 
 	}
@@ -103,9 +103,9 @@ equipments = {
 		
 		build_cost_ic = 9
 		resources = {
-			food = 1
-			iron = 3
-			skilled = 1
+			chromium = 1
+			oil = 3
+			steel = 1
 		}
 	}
 	billinghurst_requa_battery_equipment = {
@@ -133,9 +133,9 @@ equipments = {
 		
 		build_cost_ic = 9
 		resources = {
-			skilled = 1
-			iron = 3
-			skilled = 1
+			steel = 1
+			oil = 3
+			steel = 1
 		}
 	}
 	agar_gun_equipment = {
@@ -163,9 +163,9 @@ equipments = {
 		
 		build_cost_ic = 9
 		resources = {
-			unskilled = 1
-			iron = 3
-			food = 1
+			tungsten = 1
+			oil = 3
+			chromium = 1
 		}
 	}
 
@@ -196,9 +196,9 @@ equipments = {
 		
 		build_cost_ic = 10 
 		resources = {
-			food = 1
-			skilled = 1
-			iron = 4
+			chromium = 1
+			steel = 1
+			oil = 4
 		}
 	}
 

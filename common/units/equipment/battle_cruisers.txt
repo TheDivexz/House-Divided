@@ -42,9 +42,9 @@ equipments = {
 		
 		build_cost_ic = 7500
 		resources = {
-			skilled = 1
-			iron = 3
-			food = 1
+			steel = 1
+			oil = 3
+			chromium = 1
 		}
 		
 		manpower = 352

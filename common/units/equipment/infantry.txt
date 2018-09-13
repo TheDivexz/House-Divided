@@ -32,9 +32,9 @@ equipments = {
 		
 		build_cost_ic = 0.4
 		resources = {
-			textile = 1
-			skilled = 1
-			food = 1
+			aluminum = 1
+			steel = 1
+			chromium = 1
 		}
 	}
 	
@@ -89,9 +89,9 @@ equipments = {
 		
 		build_cost_ic = 0.6
 		resources = {
-			textile = 1
-			unskilled = 1
-			food = 1
+			aluminum = 1
+			tungsten = 1
+			chromium = 1
 		}
 	}
 	pattern_enfeild_equipment = {
@@ -114,9 +114,9 @@ equipments = {
 		
 		build_cost_ic = 0.6
 		resources = {
-			textile = 1
-			unskilled = 1
-			food = 1
+			aluminum = 1
+			tungsten = 1
+			chromium = 1
 		}
 	}
 	lorenz_rifle_equipment = {
@@ -140,9 +140,9 @@ equipments = {
 		reliability = 0.8
 		build_cost_ic = 0.7
 		resources = {
-			textile = 1
-			unskilled = 1
-			food = 1
+			aluminum = 1
+			tungsten = 1
+			chromium = 1
 		}
 	}
 	whitworth_rifle_equipment = {
@@ -170,9 +170,9 @@ equipments = {
 		reliability = 0.8
 		build_cost_ic = 0.7
 		resources = {
-			textile = 4
-			food = 1
-			unskilled = 1
+			aluminum = 4
+			chromium = 1
+			tungsten = 1
 		}
 	}
 	springfield_1861_equipment = {
@@ -196,9 +196,9 @@ equipments = {
 		reliability = 0.8
 		build_cost_ic = 0.8
 		resources = {
-			textile = 3
-			unskilled = 1
-			food = 1
+			aluminum = 3
+			tungsten = 1
+			chromium = 1
 		}
 	}
 	richmond_rifle_equipment = {
@@ -222,9 +222,9 @@ equipments = {
 		reliability = 0.8
 		build_cost_ic = 0.8
 		resources = {
-			textile = 3
-			unskilled = 1
-			food = 1
+			aluminum = 3
+			tungsten = 1
+			chromium = 1
 		}
 	}
 	enfield_musketoon = {
@@ -248,9 +248,9 @@ equipments = {
 		reliability = 0.8
 		build_cost_ic = 0.8
 		resources = {
-			textile = 3
-			unskilled = 1
-			food = 1
+			aluminum = 3
+			tungsten = 1
+			chromium = 1
 		}
 	}
 	fayetteville_rifle_equipment = {
@@ -274,9 +274,9 @@ equipments = {
 		reliability = 0.8
 		build_cost_ic = 0.8
 		resources = {
-			textile = 3
-			unskilled = 1
-			food = 1
+			aluminum = 3
+			tungsten = 1
+			chromium = 1
 		}
 	}
 	springfield_1863_equipment = {
@@ -300,9 +300,9 @@ equipments = {
 		reliability = 0.8
 		build_cost_ic = 0.8
 		resources = {
-			textile = 3
-			unskilled = 1
-			food = 1
+			aluminum = 3
+			tungsten = 1
+			chromium = 1
 		}
 	}
 }

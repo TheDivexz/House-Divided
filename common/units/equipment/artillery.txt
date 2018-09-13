@@ -34,8 +34,9 @@ equipments = {
 		
 		build_cost_ic = 3.5
 		resources = {
-			skilled = 1
-			iron = 2
+			steel = 1
+			oil = 2
+			rubber = 1
 		}
 	}
 	
@@ -59,8 +60,9 @@ equipments = {
 		
 		build_cost_ic = 4
 		resources = {
-			food = 1
-			iron = 2
+			chromium = 1
+			oil = 2
+			rubber = 1
 		}
 	}
 	
@@ -76,8 +78,9 @@ equipments = {
 		
 		build_cost_ic = 4
 		resources = {
-			food = 1
-			iron = 2
+			chromium = 1
+			oil = 2
+			rubber = 1
 		}
 	}
 	
@@ -93,8 +96,9 @@ equipments = {
 		
 		build_cost_ic = 4
 		resources = {
-			food = 1
-			iron = 2
+			chromium = 1
+			oil = 2
+			rubber = 1
 		}
 	}
 	
@@ -112,8 +116,9 @@ equipments = {
 		
 		build_cost_ic = 4
 		resources = {
-			food = 1
-			iron = 2
+			chromium = 1
+			oil = 2
+			rubber = 1
 		}
 	}
 	
@@ -131,8 +136,9 @@ equipments = {
 		
 		build_cost_ic = 4
 		resources = {
-			food = 1
-			iron = 2
+			chromium = 1
+			oil = 2
+			rubber = 1
 		}
 	}
 	
@@ -150,8 +156,9 @@ equipments = {
 		
 		build_cost_ic = 4
 		resources = {
-			food = 1
-			iron = 2
+			chromium = 1
+			oil = 2
+			rubber = 1
 		}
 	}
 	
@@ -169,8 +176,8 @@ equipments = {
 		
 		build_cost_ic = 4
 		resources = {
-			food = 1
-			iron = 2
+			chromium = 1
+			oil = 2
 		}
 	}
 	
@@ -188,8 +195,9 @@ equipments = {
 		
 		build_cost_ic = 4.5
 		resources = {
-			food = 1
-			iron = 3
+			chromium = 1
+			oil = 3
+			rubber = 1
 		}
 	}
 	
@@ -205,8 +213,9 @@ equipments = {
 		
 		build_cost_ic = 4.5
 		resources = {
-			food = 1
-			iron = 3
+			chromium = 1
+			oil = 3
+			rubber = 1
 		}
 	}
 	
@@ -222,8 +231,9 @@ equipments = {
 		
 		build_cost_ic = 4.5
 		resources = {
-			food = 1
-			iron = 3
+			chromium = 1
+			oil = 3
+			rubber = 1
 		}
 	}
 	
@@ -239,8 +249,9 @@ equipments = {
 		
 		build_cost_ic = 4.5
 		resources = {
-			food = 1
-			iron = 3
+			chromium = 1
+			oil = 3
+			rubber = 1
 		}
 	}
 	
@@ -256,8 +267,9 @@ equipments = {
 		
 		build_cost_ic = 4.5
 		resources = {
-			food = 1
-			iron = 3
+			chromium = 1
+			oil = 3
+			rubber = 1
 		}
 	}
 	

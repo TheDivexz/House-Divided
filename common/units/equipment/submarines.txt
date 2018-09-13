@@ -42,9 +42,9 @@ equipments = {
 		
 		build_cost_ic = 450
 		resources = {
-			skilled = 1
-			iron = 1
-			food = 1
+			steel = 1
+			oil = 1
+			chromium = 1
 		}
 		
 		manpower = 20
@@ -57,8 +57,8 @@ equipments = {
 		priority = 80
 
 		resources = {
-			skilled = 1
-			iron = 1
+			steel = 1
+			oil = 1
 		}
 		type = { 
 			submarine
