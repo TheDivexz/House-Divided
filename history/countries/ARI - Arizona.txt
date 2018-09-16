@@ -35,28 +35,16 @@ set_politics = {
 
 set_convoys = 5
 
-#Dr Lewis Owings, both union and confed
 create_country_leader = {
 	name = "Dr. Lewis S. Owings"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Arizona_Lewis_Owings.dds"
-	expire = "1875.8.20"
-	ideology = despotism
-	traits = {
-		#
-	}
+	ideology = neutral_ideology
 }
 
-#Col Jhon Baylor, confed
 create_country_leader = {
 	name = "Col. John R. Baylor"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Arizona_John_Baylor.dds"
-	expire = "1894.2.6"
-	ideology = despotism
-	traits = {
-		#
-	}
+	ideology = southern_democrat
 }
 
 
