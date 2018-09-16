@@ -11,23 +11,23 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		democratic = { 
+		pro_union = { 
 			popularity = 93
 		}
 
-		communism = {
+		pro_confederate = {
 			popularity = 3
 		}
 		
-		fascism = {
+		separatist = {
 			popularity = 1
 		}
-		neutrality = { 
+		neutral = { 
 			popularity = 3
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = pro_union
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

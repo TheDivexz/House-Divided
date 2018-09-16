@@ -11,23 +11,23 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		democratic = { 
+		pro_union = { 
 			popularity = 100
 		}
 
-		communism = {
+		pro_confederate = {
 			popularity = 0
 		}
 		
-		fascism = {
+		separatist = {
 			popularity = 0
 		}
-		neutrality = { 
+		neutral = { 
 			popularity = 0
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = pro_union
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -36,23 +36,23 @@ set_politics = {
 	set_politics = {
 
 		parties = {
-			democratic = { 
+			pro_union = { 
 				popularity = 100
 			}
 
-			communism = {
+			pro_confederate = {
 				popularity = 0
 			}
 			
-			fascism = {
+			separatist = {
 				popularity = 0
 			}
-			neutrality = { 
+			neutral = { 
 				popularity = 0
 			}
 		}
 		
-		ruling_party = democratic
+		ruling_party = pro_union
 		last_election = "1933.3.5"
 		election_frequency = 48
 		elections_allowed = no
