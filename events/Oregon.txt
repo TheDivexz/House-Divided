@@ -24,12 +24,11 @@ country_event = {
 	
 	option = { #becomes a free state
 		name = oregon.1.a
-		if = {
-			limit = {
-				is_historical_on = yes
-			}
-			ai_will_do = {
-				factor = 1
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 5
+				is_historical_focus_on = yes
 			}
 		}
 		news_event = { hours = 6 id = news.10 }
@@ -53,12 +52,11 @@ country_event = {
 	
 	option = { #becomes a slave state
 		name = oregon.1.b
-		if = {
-			limit = {
-				is_historical_on = yes
-			}
-			ai_will_do = {
-				factor = 1
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = -1
+				is_historical_focus_on = yes
 			}
 		}
 		news_event = { hours = 6 id = news.11 }
