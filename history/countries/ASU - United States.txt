@@ -28,10 +28,11 @@ set_politics = {
 	}
 	
 	ruling_party = pro_union
-	last_election = "1933.3.5"
+	last_election = "1858.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
+
 1858.1.11 = {
 	set_politics = {
 
@@ -53,7 +54,7 @@ set_politics = {
 		}
 		
 		ruling_party = pro_union
-		last_election = "1933.3.5"
+		last_election = "1858.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
@@ -62,16 +63,10 @@ set_politics = {
 set_research_slots = 5
 set_convoys = 5
 
-#James Buchanan the presidential Failure
 create_country_leader = {
 	name = "James Buchanan"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_USA_James_Buchanan.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

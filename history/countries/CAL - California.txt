@@ -28,23 +28,17 @@ set_politics = {
 	}
 	
 	ruling_party = pro_union
-	last_election = "1933.3.5"
+	last_election = "1958.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_convoys = 5
 
-#John B Weller, Governor until January 9th 1860
 create_country_leader = {
 	name = "John B. Weller"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_California_John_Weller.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {
