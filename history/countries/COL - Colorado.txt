@@ -36,16 +36,10 @@ set_politics = {
 
 set_convoys = 5
 
-#John Evans , Union
 create_country_leader = {
 	name = "John Evans"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Colorado_John_Evans.dds"
-	expire = "1897.7.2"
-	ideology = despotism
-	traits = {
-		#
-	}
+	ideology = neutral_ideology
 }
 
 create_field_marshal = {

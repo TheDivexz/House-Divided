@@ -35,16 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#Gornor until May 5th 1858.
 create_country_leader = {
 	name = "Alexander Hamilton"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Connecticut_Alexander_Hamilton.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

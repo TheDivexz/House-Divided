@@ -37,28 +37,16 @@ set_convoys = 5
 
 
 
-#Emersons transition into Confederate, govna until the end of the war
 create_country_leader = {
 	name = "Joseph E. Brown"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Georgia_Joseph_E_Brown.png"
-	expire = "1965.1.1"
-	ideology = stalinism
-	traits = {
-		#
-	}
+	ideology = southern_democrat
 }
 
-#Union Governor until 1861 transition
 create_country_leader = {
 	name = "Joseph E. Brown"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Georgia_Joseph_E_Brown.png"
-	expire = "1965.1.1"
-	ideology = liberalism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

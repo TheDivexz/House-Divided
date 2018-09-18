@@ -35,16 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#.gov Oven or of New Hampshire until june 2nd, 1859
 create_country_leader = {
 	name = "William Haile"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Hampshire_William_Haile.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

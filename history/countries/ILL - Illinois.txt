@@ -35,16 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#Govna until his Death in March 18th, 1860.
 create_country_leader = {
 	name = "William H. Bissell"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Illinois_William_Bissell.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

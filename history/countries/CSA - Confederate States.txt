@@ -37,16 +37,10 @@ set_politics = {
 set_research_slots = 5
 set_convoys = 5
 
-#Governor until january 1st 1860
 create_country_leader = {
 	name = "Henry A. Wise"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Virginia_Henry_Wise.png"
-	expire = "1965.1.1"
 	ideology = conservatism
-	traits = {
-		#
-	}
 }
 
 create_field_marshal = {

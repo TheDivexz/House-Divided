@@ -35,16 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#Terminover until January 17th, 1860.
 create_country_leader = {
 	name = "William A. Newell"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Jersey_William_Newell.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

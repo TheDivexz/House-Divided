@@ -35,16 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#Starting Govna until october 1860
 create_country_leader = {
 	name = "Ashbel P. Willard"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Indiana_Ashbel_Willard.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {
