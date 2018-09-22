@@ -29,3 +29,23 @@ country_event = {
 		name = pennsylvania.1.b
 	}
 }
+
+#Pennyslvania Oil Rush
+country_event = {
+	id = pennsylvania.2
+	title = pennsylvania.2.t
+	desc = pennsylvania.2.d
+	picture = GFX_pennsylvania_event_002
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = PEN
+		date > 1859.8.24
+		date < 1859.9.2
+	}
+	
+	option = {
+		name = pennsylvania.2.a
+	}
+}

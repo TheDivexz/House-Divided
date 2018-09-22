@@ -1,0 +1,165 @@
+ideologies = {
+	
+	pro_union = {
+	
+		types = {
+			
+			northern_democratic = {
+			}
+		
+			republican = {
+			}
+		
+			constitutional_union = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_PRO_UNION_1"
+			"FACTION_NAME_PRO_UNION_2"
+			"FACTION_NAME_PRO_UNION_3"
+			"FACTION_NAME_PRO_UNION_4"
+			"FACTION_NAME_PRO_UNION_5"
+		}
+		
+		color = { 0 0 255 }
+		
+		war_impact_on_world_tension = 0.2
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+		
+		}
+		
+		modifiers = {
+		
+		}
+		
+		faction_modifiers = {
+		
+		}
+		
+		can_be_boosted = yes
+		can_collaborate = yes
+
+		ai_neutral = yes
+	}
+
+
+	pro_confederate = {
+		
+		types = {
+		
+			southern_democratic = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_PRO_CONFEDERATE_1"
+			"FACTION_NAME_PRO_CONFEDERATE_2"
+			"FACTION_NAME_PRO_CONFEDERATE_3"
+			"FACTION_NAME_PRO_CONFEDERATE_4"
+			"FACTION_NAME_PRO_CONFEDERATE_5"
+		}
+		
+		color = { 255 0 0 }
+		
+		war_impact_on_world_tension = 0.2
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+		
+		}
+		
+		modifiers = {
+		
+		}
+		
+		faction_modifiers = {
+		
+		}
+		
+		can_be_boosted = yes
+		can_collaborate = yes
+
+		ai_neutral = yes
+	}
+
+	separatist = {
+	
+		types = {
+		
+			separatist_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_SEPARATIST_1"
+			"FACTION_NAME_SEPARATIST_2"
+			"FACTION_NAME_SEPARATIST_3"
+			"FACTION_NAME_SEPARATIST_4"
+			"FACTION_NAME_SEPARATIST_5"
+		}
+		
+		color = { 150 75 0 }
+		
+		war_impact_on_world_tension = 0.2
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+		
+		}
+		
+		modifiers = {
+		
+		}
+		
+		faction_modifiers = {
+		
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+
+		ai_neutral = yes
+	}
+	
+	neutral = {
+	
+		types = {
+		
+			neutral_ideology  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NEUTRAL_1"
+			"FACTION_NAME_NEUTRAL_2"
+			"FACTION_NAME_NEUTRAL_3"
+			"FACTION_NAME_NEUTRAL_4"
+			"FACTION_NAME_NEUTRAL_5"
+		}
+		
+		color = { 124 124 124 }
+		
+		war_impact_on_world_tension = 0.2
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+		
+		}
+		
+		modifiers = {
+		
+		}
+		
+		faction_modifiers = {
+		
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+
+		ai_neutral = yes
+	}
+}

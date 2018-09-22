@@ -11,24 +11,24 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		democratic = { 
+		pro_union = { 
 			popularity = 51
 		}
 
-		communism = {
+		pro_confederate = {
 			popularity = 49
 		}
 		
-		fascism = {
+		separatist = {
 			popularity = 0
 		}
-		neutrality = { 
+		neutral = { 
 			popularity = 0
 		}
 	}
 	
-	ruling_party = communism
-	last_election = "1933.3.5"
+	ruling_party = pro_confederate
+	last_election = "1958.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
@@ -37,28 +37,16 @@ set_convoys = 5
 
 
 
-#Emersons transition into Confederate, govna until the end of the war
 create_country_leader = {
 	name = "Joseph E. Brown"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Georgia_Joseph_E_Brown.png"
-	expire = "1965.1.1"
-	ideology = stalinism
-	traits = {
-		#
-	}
+	ideology = southern_democrat
 }
 
-#Union Governor until 1861 transition
 create_country_leader = {
 	name = "Joseph E. Brown"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Georgia_Joseph_E_Brown.png"
-	expire = "1965.1.1"
-	ideology = liberalism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

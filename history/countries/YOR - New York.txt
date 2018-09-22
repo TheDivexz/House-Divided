@@ -11,40 +11,34 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		democratic = { 
+		pro_union = { 
 			popularity = 54
 		}
 
-		communism = {
+		pro_confederate = {
 			popularity = 0
 		}
 		
-		fascism = {
+		separatist = {
 			popularity = 0
 		}
-		neutrality = { 
+		neutral = { 
 			popularity = 46
 		}
 	}
 	
-	ruling_party = democratic
-	last_election = "1933.3.5"
+	ruling_party = pro_union
+	last_election = "1858.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_convoys = 5
 
-#Starting Governor until december 1858
 create_country_leader = {
 	name = "John A. King"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_NewYork_John_King.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

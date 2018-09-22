@@ -11,24 +11,24 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		democratic = { 
+		pro_union = { 
 			popularity = 18
 		}
 
-		communism = {
+		pro_confederate = {
 			popularity = 36
 		}
 		
-		fascism = {
+		separatist = {
 			popularity = 1
 		}
-		neutrality = { 
+		neutral = { 
 			popularity = 45
 		}
 	}
 	
-	ruling_party = neutrality
-	last_election = "1933.3.5"
+	ruling_party = neutral
+	last_election = "1958.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
@@ -36,29 +36,16 @@ set_politics = {
 set_convoys = 5
 
 
-#The Magoffin, Starts as Union, but converts to -
-#- Confederacy & is governor until 1862
 create_country_leader = {
 	name = "Beriah Magoffin"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Kentucky_Beriah_Magoffin.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
-#Slaughter Morehead! Wacky Name! Starting governor until 1859
 create_country_leader = {
 	name = "C. Slaughter Morehead"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Kentucky_Slaughter_Morehead.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

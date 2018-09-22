@@ -1,0 +1,159 @@
+focus_tree = {
+	id = Washington_Focus
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = WDC
+		}
+	}
+  focus = {
+		id = WDC_Panic_of_57
+		icon = GFX_goal_unknown
+		cost = 10
+		x = 4
+		y = 0
+    completion_reward = {
+      #
+    }
+    ai_will_do = {
+			factor = 1
+		}
+	}
+  focus = {
+    id = WDC_Reform_not_Relief
+    icon = GFX_goal_unknown
+    cost = 10
+    prerequisite = { focus = WDC_Panic_of_57 }
+    x = 0
+    y = 1
+    relative_position_id = WDC_Panic_of_57
+    completion_reward = {
+      #
+    }
+    ai_will_do = {
+			factor = 1
+		}
+  }
+  focus = {
+    id = WDC_Withdraw_All_Under_20_Dollar_Bills
+    icon = GFX_goal_unknown
+    cost = 10
+    prerequisite = { focus = WDC_Reform_not_Relief }
+    x = 0
+    y = 1
+    relative_position_id = WDC_Reform_not_Relief
+    completion_reward = {
+      #
+    }
+    ai_will_do = {
+			factor = 1
+		}
+  }
+  focus = {
+    id = WDC_Forfeit_Banks_Charters
+    icon = GFX_goal_unknown
+    cost = 10
+    prerequisite = { focus = WDC_Reform_not_Relief }
+    x = -2
+    y = 1
+    relative_position_id = WDC_Reform_not_Relief
+    completion_reward = {
+      #
+    }
+    ai_will_do = {
+			factor = 1
+		}
+  }
+  focus = {
+    id = WDC_1_Specie_for_3_Paper
+    icon = GFX_goal_unknown
+    cost = 10
+    prerequisite = { focus = WDC_Forfeit_Banks_Charters }
+    x = 0
+    y = 1
+    relative_position_id = WDC_Forfeit_Banks_Charters
+    completion_reward = {
+      #
+    }
+    ai_will_do = {
+			factor = 1
+		}
+  }
+  focus = {
+    id = WDC_Discourage_Federal_Bonds
+    icon = GFX_goal_unknown
+    cost = 10
+    prerequisite = { focus = WDC_Forfeit_Banks_Charters }
+    x = -2
+    y = 1
+    relative_position_id = WDC_Forfeit_Banks_Charters
+    completion_reward = {
+      #
+    }
+    ai_will_do = {
+			factor = 1
+		}
+  }
+  focus = {
+    id = WDC_Discourage_State_Bonds
+    icon = GFX_goal_unknown
+    cost = 10
+    prerequisite = { focus = WDC_Discourage_Federal_Bonds }
+    x = 0
+    y = 1
+    relative_position_id = WDC_Discourage_Federal_Bonds
+    completion_reward = {
+      #
+    }
+    ai_will_do = {
+			factor = 1
+		}
+  }
+  focus = {
+    id = WDC_Encourage_State_Banks_to_Break_Away
+    icon = GFX_goal_unknown
+    cost = 10
+    prerequisite = { focus = WDC_Reform_not_Relief }
+    x = 2
+    y = 1
+    relative_position_id = WDC_Reform_not_Relief
+    completion_reward = {
+      #
+    }
+    ai_will_do = {
+			factor = 1
+		}
+  }
+  focus = {
+    id = WDC_Independent_Treasury_System
+    icon = GFX_goal_unknown
+    cost = 10
+    prerequisite = { focus = WDC_Encourage_State_Banks_to_Break_Away }
+    x = 0
+    y = 1
+    relative_position_id = WDC_Encourage_State_Banks_to_Break_Away
+    completion_reward = {
+      #
+    }
+    ai_will_do = {
+			factor = 1
+		}
+  }
+  focus = {
+    id = WDC_Continue_Specie_Payments
+    icon = GFX_goal_unknown
+    cost = 10
+    prerequisite = { focus = WDC_Withdraw_All_Under_20_Dollar_Bills }
+    prerequisite = { focus = WDC_Independent_Treasury_System }
+    x = 0
+    y = 2
+    relative_position_id = WDC_Withdraw_All_Under_20_Dollar_Bills
+    completion_reward = {
+      #
+    }
+    ai_will_do = {
+			factor = 1
+		}
+  }
+}

@@ -11,23 +11,23 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		democratic = { 
+		pro_union = { 
 			popularity = 15
 		}
 
-		communism = {
+		pro_confederate = {
 			popularity = 54
 		}
 		
-		fascism = {
+		separatist = {
 			popularity = 0
 		}
-		neutrality = { 
+		neutral = { 
 			popularity = 31
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = pro_confederate
 	last_election = "1850.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -35,52 +35,28 @@ set_politics = {
 
 set_convoys = 5
 
-#Lewis Eliphalet Parsons, Union Governor until December 13th 1865
 create_country_leader = {
 	name = "Lewish E. Parsons"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Alabama_Lewish_Parsons.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
-#Thomas H. Watts, confederate governor until June 21st 1865
 create_country_leader = {
 	name = "Thomas H. Watts"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Alabama_Thomas_Watts.png"
-	expire = "1965.1.1"
-	ideology = stalinism
-	traits = {
-		#
-	}
+	ideology = southern_democrat
 }
 
-#John Gill Shorter, confederate governor until December 1st 1863
 create_country_leader = {
 	name = "John Gill Shorter"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Alabama_John_Shorter.png"
-	expire = "1965.1.1"
-	ideology = leninism
-	traits = {
-		#
-	}
+	ideology = southern_democrat
 }
 
-#Andrew B. Moore governor until december 2nd 1861
 create_country_leader = {
 	name = "Andrew B. Moore"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Alabama_Andrew_Moore.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

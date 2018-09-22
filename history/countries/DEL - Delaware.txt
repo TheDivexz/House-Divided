@@ -11,40 +11,34 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		democratic = { 
+		pro_union = { 
 			popularity = 29
 		}
 
-		communism = {
+		pro_confederate = {
 			popularity = 45
 		}
 		
-		fascism = {
+		separatist = {
 			popularity = 2
 		}
-		neutrality = { 
+		neutral = { 
 			popularity = 24
 		}
 	}
 	
-	ruling_party = communisms
-	last_election = "1933.3.5"
+	ruling_party = pro_confederate
+	last_election = "1958.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_convoys = 5
 
-#Gullinator inbefore January 18th, 1859.
 create_country_leader = {
 	name = "Peter F. Causey"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Delaware_Peter_Causey.png"
-	expire = "1965.1.1"
 	ideology = conservatism
-	traits = {
-		#
-	}
 }
 
 create_field_marshal = {

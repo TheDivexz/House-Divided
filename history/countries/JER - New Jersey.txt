@@ -11,40 +11,34 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		democratic = { 
+		pro_union = { 
 			popularity = 48
 		}
 
-		communism = {
+		pro_confederate = {
 			popularity = 0
 		}
 		
-		fascism = {
+		separatist = {
 			popularity = 0
 		}
-		neutrality = { 
+		neutral = { 
 			popularity = 52
 		}
 	}
 	
-	ruling_party = neutrality
-	last_election = "1933.3.5"
+	ruling_party = neutral
+	last_election = "1958.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_convoys = 5
 
-#Terminover until January 17th, 1860.
 create_country_leader = {
 	name = "William A. Newell"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Jersey_William_Newell.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

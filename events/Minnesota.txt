@@ -24,12 +24,11 @@ country_event = {
 	
 	option = { #becomes free state
 		name = minnesota.1.a
-		if = {
-			limit = {
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 5
 				is_historical_focus_on = yes
-			}
-			ai_will_do = {
-				factor = 1
 			}
 		}
 		news_event = { hours = 6 id = news.2 }
@@ -48,12 +47,11 @@ country_event = {
 	}
 	option = { #bocomes a slave state
 		name = minnesota.1.b
-		if = {
-			limit = {
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = -1
 				is_historical_focus_on = yes
-			}
-			ai_will_do = {
-				factor = 0
 			}
 		}
 		news_event = { hours = 6 id = news.8 }
