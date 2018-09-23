@@ -35,16 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
 create_country_leader = {
 	name = "Sidney Edgerton"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Montana_Sidney_Edgerton.dds"
-	expire = "1866.5.12"
-	ideology = despotism
-	traits = {
-		#
-	}
+	ideology = neutral_ideology
 }
 
 create_field_marshal = {

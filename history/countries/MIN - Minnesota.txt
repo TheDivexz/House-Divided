@@ -35,16 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#Gullinator until May 24th 1858.
 create_country_leader = {
 	name = "Samuel Medary"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Minnesota_Samuel_Medary.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

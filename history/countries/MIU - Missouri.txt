@@ -35,16 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#Starting Governor until January 3rd 1861
 create_country_leader = {
 	name = "Robert M. Stewart"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Missouri_Robert_Stewart.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

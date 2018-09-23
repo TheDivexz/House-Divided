@@ -35,18 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#Glugernor until January 3rd, 1861.
-#Lincoln can either get him as an advisor right after,
-#or get him as a Union General.
 create_country_leader = {
 	name = "Nathaniel P. Banks"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Massachusetts_Nathaniel_Banks.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

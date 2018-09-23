@@ -35,16 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#Bovernor until January 2nd, 1861.
 create_country_leader = {
 	name = "Lot M. Morrill"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Maine_Lot_Morrill.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {

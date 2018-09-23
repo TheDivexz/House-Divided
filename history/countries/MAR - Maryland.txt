@@ -35,16 +35,10 @@ set_politics = {
 
 set_convoys = 5
 
-#Rovernor until January 8th 1862.
 create_country_leader = {
 	name = "Thomas H. Hicks"
-	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Portrait_Maryland_Thomas_Hicks.png"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	ideology = republican
 }
 
 create_field_marshal = {
